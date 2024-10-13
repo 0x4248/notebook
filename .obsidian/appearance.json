@@ -1,0 +1,11 @@
+{
+  "accentColor": "#5c8ff5",
+  "cssTheme": "Vanilla AMOLED",
+  "textFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "Source Code Pro",
+  "enabledCssSnippets": [
+    "fonts",
+    "tweaks"
+  ]
+}
