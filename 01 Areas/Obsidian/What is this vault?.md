@@ -12,4 +12,3 @@ cssclasses:
 
 ***
 This is my **public** obsidian vault. Here I will put my public notes and research. This vault will also include my public study notes.
-

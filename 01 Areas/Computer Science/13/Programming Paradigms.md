@@ -1,0 +1,6 @@
+- [[Programming Paradigms]]
+- [[Procedual Languages]]
+- [[Object-Oriented Languages]]
+- [[Inheritance]]
+- [[Polymorphism]]
+- [[Constructors and Inheritance]]

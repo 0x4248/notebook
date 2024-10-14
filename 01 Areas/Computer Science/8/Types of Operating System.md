@@ -1,0 +1,7 @@
+- [[Distributed Operating Systems]]
+- [[Multitasking System]]
+- [[Mobile Operating system]]
+- [[Embedded Systems]]
+- [[Real-time Operating Systems]]
+- [[BIOS]]
+- [[Device Drivers]]

@@ -24,8 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "README.md",
-      "timestamp": 1728859105038
+      "filepath": "Computer Science topics.md",
+      "timestamp": 1728891965470
+    },
+    {
+      "filepath": "01 Areas/Computer Science/24/HTML and CSS.md",
+      "timestamp": 1728891920960
+    },
+    {
+      "filepath": "01 Areas/Computer Science/23/Network Security and Threats.md",
+      "timestamp": 1728891652172
+    },
+    {
+      "filepath": "01 Areas/Computer Science/22/Internet Communication.md",
+      "timestamp": 1728891579622
+    },
+    {
+      "filepath": "01 Areas/Computer Science/21/Structure of the Internet.md",
+      "timestamp": 1728891552263
     }
   ],
   "bookmarkedFileStore": [],
