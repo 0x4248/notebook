@@ -1,5 +1,0 @@
-- [[Factors that can affect performance]]
-- [[Clock Speed]]
-- [[Number of Cores]]
-- [[Cache Memory]]
-- [[Pipelining]]
