@@ -1,4 +1,5 @@
 - [[Data Structures]]
+- [[Arrays]]
 - [[2D Arrays]]
 - [[Tuples]]
 - [[Records]]

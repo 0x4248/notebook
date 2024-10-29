@@ -33,6 +33,7 @@ cssclasses:
 18. [[Introduction to SQL]]
 19. [[Defining and Updating Tables using SQL]]
 20. [[Transaction Processing]]
+### 5 - Networks and web technologies
 21. [[Structure of the Internet]]
 22. [[Internet Communication]]
 23. [[Network Security and Threats]]
@@ -40,11 +41,13 @@ cssclasses:
 25. [[Webforms and Javascript]]
 26. [[Search Engine Indexing]]
 27. [[Client Server and Peer-Peer]]
+### 6 - Data types
 28. [[Primitive Data Types, Binary and Hex]]
 29. [[ASCII and Unicode]]
 30. [[Binary Arithmetic]]
 31. [[Floating Point Arithmetic]]
 32. [[Bitwise Manipulation and Masks]]
+### 7 - Data Structures
 33. [[Arrays, Tuples and Records]]
 34. [[Queues and data types]]
 35. [[Lists and Linked Lists]]

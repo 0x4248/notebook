@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - computer_science/7
 date: 2024-10-20
 cssclasses:
   - neo-headings

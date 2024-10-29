@@ -7,7 +7,7 @@ cssclasses:
   - bai-headings
   - rounded-images
 ---
-# Routers and Gateways
+                                        # Routers and Gateways
 <p class="center" style="margin:0;color:gray;">Internet communication</p>
 
 ***
