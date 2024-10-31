@@ -16,3 +16,12 @@ cssclasses:
 - [[Linear Queue]]
 - [[Circular Queue]]
 - [[Priority Queues]]
+
+## What are queues
+A queue is a first in first out data structure. Any new items can only be added the end of the queue. Items may only be removed from the front of the queue.
+### Usages
+- Printers
+- CPU interrupts
+- Keys pressed on a keyboard.
+
+![[Operations on a Queue]]

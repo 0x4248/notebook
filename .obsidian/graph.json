@@ -1,8 +1,8 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
-  "showAttachments": false,
+  "showTags": true,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -11,21 +11,21 @@
       "query": "path:\"01 Areas\"  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 31743
       }
     },
     {
       "query": "path:\"02 Fleeting\"  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 61183
       }
     },
     {
       "query": "path:\"04 Meta\"  ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 16711680
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.35802847948935396,
-  "close": false
+  "scale": 0.11481575224267584,
+  "close": true
 }

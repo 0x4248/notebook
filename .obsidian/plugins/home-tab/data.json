@@ -1,13 +1,13 @@
 {
   "logoType": "lucideIcon",
   "logo": {
-    "lucideIcon": "book",
+    "lucideIcon": "pencil",
     "imagePath": "",
     "imageLink": ""
   },
   "logoScale": 1.2,
   "iconColorType": "default",
-  "wordmark": "Public vault",
+  "wordmark": "0x4248 Notebook",
   "customFont": "interfaceFont",
   "fontSize": "4em",
   "fontColorType": "default",
@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "01 Areas/Linux/Arch install BIOS.md",
-      "timestamp": 1729884638548
+      "filepath": "99 Private/as-and-a-level-ocr-computer-science.pdf",
+      "timestamp": 1730377840456
     },
     {
-      "filepath": "01 Areas/Computer Science/3 Software development/14 Assembly Language/Assembly Language.md",
-      "timestamp": 1729763079077
+      "filepath": "01 Areas/Computer Science/1 Components of a computer/1/Factors that can affect performance.md",
+      "timestamp": 1730375480192
     },
     {
-      "filepath": "Assembly Instructions.md",
-      "timestamp": 1729761579706
+      "filepath": "01 Areas/Computer Science/1 Components of a computer/1/Processor Performance.md",
+      "timestamp": 1730375431777
     },
     {
-      "filepath": "01 Areas/Computer Science/1 Components of a computer/4/Input Devices.md",
-      "timestamp": 1729678154383
+      "filepath": "01 Areas/Computer Science/7 Data Structures/35/Operations on a list.md",
+      "timestamp": 1730375132999
     },
     {
-      "filepath": "01 Areas/Obsidian/What is this vault?.md",
-      "timestamp": 1729587063252
+      "filepath": "01 Areas/Computer Science/7 Data Structures/35/Linked Lists.md",
+      "timestamp": 1730375128286
     }
   ],
   "bookmarkedFileStore": [],
@@ -50,5 +50,6 @@
   "newTabOnStart": false,
   "closePreviousSessionTabs": false,
   "omnisearch": false,
-  "showOmnisearchExcerpt": true
+  "showOmnisearchExcerpt": true,
+  "font": "\"Bai \""
 }

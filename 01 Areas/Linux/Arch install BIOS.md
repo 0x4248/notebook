@@ -6,7 +6,7 @@ cssclasses:
   - bai-headings
   - rounded-images
 ---
-            # Arch install BIOS
+# Arch install BIOS
 <p class="center" style="margin:0;color:gray;">How to install arch linux on a BIOS system</p>
 
 ***

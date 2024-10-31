@@ -1,6 +1,6 @@
 ---
 tags:
-  - D
+  - computer_science/1
 date: 2024-10-14
 cssclasses:
   - neo-headings

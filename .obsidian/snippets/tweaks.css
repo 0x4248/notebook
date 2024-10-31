@@ -2,6 +2,7 @@ body {
     --tag-color: #eaeaeae2;
     --tag-background: #5b5b5b9c;
     --code-background: #1b1b1bbb;
+    --text-highlight-bg: rgba(92, 144, 255, 0.400);
 }
 
 .center {

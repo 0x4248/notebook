@@ -6,5 +6,6 @@
   "rightToLeft": false,
   "tabSize": 4,
   "vimMode": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current"
 }
