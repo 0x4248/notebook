@@ -1678,6 +1678,12 @@ tRo
 tYL
 them
 thre
+these
+there
+than
+transfer
+two
+technologies
 date
 daily
 dos
@@ -3327,6 +3333,8 @@ dequeue
 datatype
 demo
 dynamic
+due
+digital
 now
 neo
 notes
@@ -4954,6 +4962,8 @@ nEnv
 nZi
 nOK
 new
+next
+neumann
 YYYY
 You
 Yg
@@ -8327,6 +8337,7 @@ ModDate
 Mrk
 MgR
 MiKI
+Main
 DD
 Drawing
 Decompress
@@ -11660,6 +11671,15 @@ cxN
 codn
 created
 called
+cores
+cpu
+clock
+closer
+cache
+cant
+contain
+computers
+complex
 headings
 helld
 here
@@ -13271,6 +13291,7 @@ hFB
 hUW
 hvP
 have
+held
 bai
 border
 behaviour
@@ -14863,6 +14884,9 @@ bCU
 bqo
 basic
 but
+begun
+bus
+busses
 rounded
 research
 router
@@ -16470,6 +16494,7 @@ rear
 remove
 returns
 return
+routines
 images
 ideas
 is
@@ -18160,6 +18185,7 @@ isEmpty
 isFull
 index
 insert
+inputs
 file
 folder
 fleeting
@@ -19844,6 +19870,14 @@ fLh
 fpW
 front
 full
+factors
+faster
+fetching
+fast
+fetch
+fact
+few
+functions
 style
 space
 sriracha
@@ -21514,6 +21548,15 @@ set
 sBIT
 same
 sequence
+speed
+second
+several
+small
+seperates
+signal
+share
+service
+scheduling
 margin
 main
 ms
@@ -23156,6 +23199,8 @@ mds
 mlR
 may
 move
+most
+management
 gray
 gohu
 go
@@ -26619,6 +26664,9 @@ SIL
 Size
 Searches
 Similar
+Speeding
+Some
+Separate
 About
 All
 Address
@@ -33310,6 +33358,11 @@ added
 abstract
 allow
 append
+activity
+allows
+architecture
+assembly
+allocated
 embed
 excalidraw
 easier
@@ -35037,6 +35090,9 @@ enqueue
 elements
 empty
 example
+executing
+embedded
+efficiently
 kode
 kG
 kfW
@@ -38348,6 +38404,7 @@ CreationDate
 CRX
 CuhVc
 Checks
+Comparison
 works
 will
 with
@@ -40003,6 +40060,10 @@ wVa
 wYj
 within
 work
+which
+whilst
+write
+web
 Obsidian
 OPTIONS
 Output
@@ -46685,6 +46746,14 @@ pressed
 pointers
 positon
 pop
+pulse
+pulses
+processor
+primary
+physically
+processing
+programmers
+programs
 obsidian
 of
 on
@@ -48442,6 +48511,10 @@ only
 operations
 off
 ordered
+once
+optimised
+outputs
+operating
 Here
 Harvard
 Hard
@@ -51796,6 +51869,7 @@ EOF
 Element
 Example
 Ehw
+Every
 VIEW
 Virus
 Vs
@@ -55140,6 +55214,8 @@ FIJL
 FrIT
 FOQ
 False
+Fast
+Fairly
 under
 using
 updating
@@ -56823,6 +56899,7 @@ uhs
 uau
 uRNq
 use
+uses
 Licence
 Logic
 Language
@@ -58497,6 +58574,7 @@ LJuW
 LKy
 LbM
 List
+Level
 licensed
 list
 linux
@@ -60171,6 +60249,10 @@ last
 lgp
 length
 linked
+levels
+larger
+large
+lines
 Public
 Please
 Processing
@@ -61880,6 +61962,7 @@ PageLabels
 PDFelement
 Producer
 PFd
+Primary
 README
 Registers
 Reduced
@@ -65272,6 +65355,7 @@ IVRD
 IEND
 Items
 Insert
+Interrupt
 Unit
 Utility
 Updates
@@ -67006,6 +67090,7 @@ URc
 Uyx
 UgGSk
 Usages
+Used
 Buses
 Barcodes
 BIOS
@@ -68680,6 +68765,7 @@ BvF
 BAm
 Bhg
 BzuZ
+Backing
 Number
 Nuemann
 Nature
@@ -70328,6 +70414,7 @@ NrK
 Names
 NYx
 Null
+Networks
 Graphics
 GPU
 Gateways
