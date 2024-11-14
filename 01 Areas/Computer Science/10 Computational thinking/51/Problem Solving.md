@@ -1,0 +1,7 @@
+- [[Visualisation]]
+- [[Backtracking]]
+- [[Data Mining]]
+- [[Intractable Problems]]
+- [[Heuristic Methods]]
+- [[Perfomance Modelling]]
+- [[Pipelining]]

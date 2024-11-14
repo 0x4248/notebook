@@ -1,0 +1,5 @@
+- [[The Data Protection Act 1998]]
+- [[The Computer Misuse Act 1990]]
+- [[The Copyright Designs and Patents Act 1988]]
+- [[The Regulation of Investigatory Powers Act 2000]]
+- [[Analysing Personal Information]]

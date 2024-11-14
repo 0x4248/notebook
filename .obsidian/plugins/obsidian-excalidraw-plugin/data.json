@@ -1,8 +1,8 @@
 {
-  "folder": "Excalidraw",
+  "folder": "",
   "cropFolder": "",
   "annotateFolder": "",
-  "embedUseExcalidrawFolder": false,
+  "embedUseExcalidrawFolder": true,
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
   "fontAssetsPath": "Excalidraw/CJK Fonts",
@@ -99,7 +99,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.5.2",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.6.5",
     "libraryItems": []
   },
   "imageElementNotice": true,

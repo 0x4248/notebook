@@ -8,8 +8,6 @@ cssclasses:
   - rounded-images
 ---
 # Compression, Encryption and Hashing
-<p class="center" style="margin:0;color:gray;">Subtitle</p>
-
 ***
 ## Contents 
 - [[Compression]]
@@ -17,6 +15,6 @@ cssclasses:
 - [[Caesar Cipher]]
 - [[The Verman Cipher]]
 - [[Symmetric Encryption]]
-- [[Asymetric Encryption ]]
+- [[Asymetric Encryption]]
 - [[Hashing]]
 - [[Digital Signatures]]
