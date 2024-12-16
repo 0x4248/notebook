@@ -1,5 +1,4 @@
 - [[SQL]]
-- [[SELECT FROM WHERE]]
 - [[Conditions]]
 - [[Specifying Order]]
 - [[SQL JOIN]]

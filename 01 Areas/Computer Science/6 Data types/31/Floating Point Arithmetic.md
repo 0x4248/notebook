@@ -1,5 +1,5 @@
 - [[Negative Exponents]]
 - [[Negative Mantissas]]
-- [[Normalisation]]
+- [[Database normalisation]]
 - [[Floating Point Addition and Subtraction]]
 - [[Underflow and Overflow]]

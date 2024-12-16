@@ -9,4 +9,4 @@ cssclasses:
 ---
 # Flat File
 ***
-A flat file database only has one file. A flat file database is not suitable for large amounts of data.§
+A flat file database only has one file. A flat file database is not suitable for large amounts of data.

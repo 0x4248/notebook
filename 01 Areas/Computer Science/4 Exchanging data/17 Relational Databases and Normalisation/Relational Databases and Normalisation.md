@@ -1,3 +1,3 @@
 - [[Relational Database Design]]
 - [[Linking Databases]]
-- [[Normalisation]]
+- [[Database normalisation]]

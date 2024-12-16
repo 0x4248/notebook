@@ -1,4 +1,4 @@
 - [[Flat File]]
-- [[Relationships]]
+- [[Database relationships]]
 - [[Composite Keys]]
 - [[Referential Integrity]]
