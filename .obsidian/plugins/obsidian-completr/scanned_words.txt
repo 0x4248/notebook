@@ -1699,6 +1699,10 @@ text
 tDe
 throughout
 tables
+thoughts
+tells
+tired
+typing
 date
 daily
 dos
@@ -3368,6 +3372,8 @@ design
 duplicated
 doesn
 declarative
+does
+dont
 now
 neo
 notes
@@ -5003,6 +5009,9 @@ needed
 nXtuu
 normal
 name
+navigation
+nice
+nothing
 YYYY
 You
 Yg
@@ -8386,6 +8395,10 @@ Mount
 Modify
 Many
 Mmu
+Make
+Must
+Minimal
+Most
 DD
 Drawing
 Decompress
@@ -11744,6 +11757,12 @@ clV
 cCg
 consistent
 collection
+copyright
+controlled
+cases
+clear
+correctly
+corrrectly
 headings
 helld
 here
@@ -13358,6 +13377,8 @@ have
 held
 hardware
 hard
+help
+highly
 bai
 border
 behaviour
@@ -16588,6 +16609,13 @@ relationship
 relational
 reason
 repeating
+result
+random
+reasons
+really
+recommend
+readable
+rendering
 images
 ideas
 is
@@ -18287,6 +18315,9 @@ issues
 information
 iSew
 iyX
+initialise
+interests
+indicates
 file
 folder
 fleeting
@@ -19990,6 +20021,10 @@ fLrw
 flexible
 fields
 fetched
+following
+fonts
+fix
+fallback
 style
 space
 sriracha
@@ -21693,6 +21728,17 @@ since
 shared
 suitable
 shown
+stored
+shows
+sure
+structured
+still
+snippet
+sets
+span
+show
+sans
+solve
 margin
 main
 ms
@@ -23354,6 +23400,10 @@ modified
 modeling
 modeled
 mzgB
+maps
+mostly
+medical
+made
 gray
 gohu
 go
@@ -25058,6 +25108,7 @@ gUD
 glpy
 given
 get
+grouped
 Subtitle
 Switch
 Saving
@@ -26824,6 +26875,11 @@ Separate
 Steps
 Sparky
 SmK
+Settings
+Style
+Statistic
+Sometimes
+Sans
 About
 All
 Address
@@ -26992,7 +27048,6 @@ AEN
 AZR
 AKt
 AKo
-ABC
 AgY
 Awt
 Azg
@@ -28507,6 +28562,8 @@ Automatic
 Aad
 AZu
 Account
+Areas
+Archive
 The
 This
 Topic
@@ -30172,6 +30229,11 @@ Test
 Text
 Tpx
 TOOO
+Templater
+Toolkit
+Theme
+Typography
+That
 quick
 qca
 qk
@@ -33540,6 +33602,12 @@ alphabet
 amount
 amounts
 attribute
+areas
+anymore
+archived
+allot
+align
+above
 embed
 excalidraw
 easier
@@ -37011,6 +37079,7 @@ keyboard
 keys
 kBMoM
 kinds
+kana
 CSS
 Content
 Computer
@@ -38601,6 +38670,10 @@ Create
 CZq
 CqJ
 Cgl
+COLUMN
+Completr
+Color
+Cyrillic
 works
 will
 with
@@ -40267,6 +40340,8 @@ wJRK
 what
 want
 would
+where
+when
 Obsidian
 OPTIONS
 Output
@@ -41984,6 +42059,8 @@ Only
 OyT
 OrZm
 OFooo
+Old
+Obsifetch
 What
 Waterfall
 Writing
@@ -45319,6 +45396,7 @@ vdC
 vCaj
 values
 very
+vaul
 public
 put
 plugin
@@ -46977,6 +47055,13 @@ plaintext
 private
 people
 pull
+part
+pages
+primarily
+plugins
+papers
+periods
+problem
 obsidian
 of
 on
@@ -48746,6 +48831,9 @@ optimise
 optimises
 original
 ordering
+organisation
+often
+ones
 Here
 Harvard
 Hard
@@ -50385,6 +50473,7 @@ Hovq
 HYa
 HoHf
 Hwa
+Home
 EXCALIDRAW
 Excalidraw
 Execute
@@ -52110,6 +52199,7 @@ EEE
 ERXX
 EpzM
 Ell
+EPROM
 VIEW
 Virus
 Vs
@@ -53819,6 +53909,7 @@ VjXl
 VXS
 VKll
 VIIi
+Vault
 For
 Fetch
 Factors
@@ -55464,6 +55555,7 @@ Foreign
 FDEJTL
 FCha
 FGGc
+Fleeting
 under
 using
 updating
@@ -57155,6 +57247,7 @@ unauthorized
 uGDa
 uWV
 uGJ
+useful
 Licence
 Logic
 Language
@@ -58834,6 +58927,7 @@ Legal
 LeG
 LTwxd
 Last
+Layout
 licensed
 list
 linux
@@ -60516,6 +60610,9 @@ load
 lZyoEWWW
 lHb
 little
+loads
+look
+letter
 Public
 Please
 Processing
@@ -62227,6 +62324,8 @@ Producer
 PFd
 Primary
 Plaintext
+Private
+Plugins
 README
 Registers
 Reduced
@@ -63925,6 +64024,7 @@ RKLTMn
 Relationship
 RDF
 RTTdz
+ROW
 In
 Instruction
 Input
@@ -65629,6 +65729,7 @@ ImY
 INNnr
 IIi
 IDATk
+Iconize
 Unit
 Utility
 Updates
@@ -69044,6 +69145,7 @@ Backing
 Blix
 BFki
 Bill
+Below
 Number
 Nuemann
 Nature
@@ -70694,6 +70796,8 @@ NYx
 Null
 Networks
 Name
+Notes
+Noto
 Graphics
 GPU
 Gateways
@@ -72361,6 +72465,8 @@ Gya
 Get
 Gztp
 GDmk
+Greek
+Google
 Keys
 Karnaugh
 KZN
@@ -73970,6 +74076,7 @@ KRsi
 KEY
 KLK
 Kchh
+Kanban
 JOIN
 Javascript
 Jq
@@ -75655,6 +75762,7 @@ JZZ
 JAaA
 Jared
 John
+Japanese
 Queues
 Queue
 Quick
@@ -83964,6 +84072,7 @@ yee
 ybPKg
 ymGN
 yRR
+your
 xb
 xH
 xC
