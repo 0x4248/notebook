@@ -1703,6 +1703,7 @@ thoughts
 tells
 tired
 typing
+transliteration
 date
 daily
 dos
@@ -16616,6 +16617,8 @@ really
 recommend
 readable
 rendering
+rolled
+right
 images
 ideas
 is
@@ -20025,6 +20028,7 @@ following
 fonts
 fix
 fallback
+family
 style
 space
 sriracha
@@ -21739,6 +21743,10 @@ span
 show
 sans
 solve
+shch
+sch
+silent
+similar
 margin
 main
 ms
@@ -26880,6 +26888,7 @@ Style
 Statistic
 Sometimes
 Sans
+Such
 About
 All
 Address
@@ -28564,6 +28573,7 @@ AZu
 Account
 Areas
 Archive
+And
 The
 This
 Topic
@@ -30234,6 +30244,7 @@ Toolkit
 Theme
 Typography
 That
+Times
 quick
 qca
 qk
@@ -38674,6 +38685,7 @@ COLUMN
 Completr
 Color
 Cyrillic
+Common
 works
 will
 with
@@ -47062,6 +47074,7 @@ plugins
 papers
 periods
 problem
+parent
 obsidian
 of
 on
@@ -57248,6 +57261,7 @@ uGDa
 uWV
 uGJ
 useful
+upper
 Licence
 Logic
 Language
@@ -58928,6 +58942,8 @@ LeG
 LTwxd
 Last
 Layout
+Letters
+Letter
 licensed
 list
 linux
@@ -60613,6 +60629,8 @@ little
 loads
 look
 letter
+lower
+left
 Public
 Please
 Processing
@@ -62326,6 +62344,7 @@ Primary
 Plaintext
 Private
 Plugins
+Pronunciation
 README
 Registers
 Reduced
@@ -64025,6 +64044,7 @@ Relationship
 RDF
 RTTdz
 ROW
+Russian
 In
 Instruction
 Input

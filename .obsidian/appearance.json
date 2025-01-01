@@ -5,7 +5,9 @@
   "interfaceFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "Source Code Pro",
   "enabledCssSnippets": [
-    "tweaks"
+    "tweaks",
+    "fonts",
+    "serif-overide"
   ],
   "translucency": false
 }

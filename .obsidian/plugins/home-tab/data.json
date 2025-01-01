@@ -24,12 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "01 Areas/Obsidian/What is this vault?.md",
-      "timestamp": 1735408931202
+      "filepath": "01 Areas/Languages/Greek/Greek alphabet.md",
+      "timestamp": 1735729975900
     },
     {
-      "filepath": "01 Areas/Linux/Arch install BIOS.md",
-      "timestamp": 1735408360358
+      "filepath": "01 Areas/Languages/Russian/Russian alphabet.md",
+      "timestamp": 1735729969343
+    },
+    {
+      "filepath": "01 Areas/Obsidian/What is this vault?.md",
+      "timestamp": 1735556586115
+    },
+    {
+      "filepath": "02 Fleeting/About the fleeting folder.md",
+      "timestamp": 1735554643359
     }
   ],
   "bookmarkedFileStore": [],
