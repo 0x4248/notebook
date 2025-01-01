@@ -22,20 +22,7 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [
-    {
-      "filepath": "01 Areas/Languages/Russian/Russian alphabet.md",
-      "timestamp": 1735732885579
-    },
-    {
-      "filepath": "01 Areas/Languages/Greek/Greek alphabet.md",
-      "timestamp": 1735729975900
-    },
-    {
-      "filepath": "01 Areas/Obsidian/What is this vault?.md",
-      "timestamp": 1735556586115
-    }
-  ],
+  "recentFilesStore": [],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
