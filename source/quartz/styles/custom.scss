@@ -9,3 +9,7 @@ article h1 {
 .article-title {
   font-size: medium;
 }
+
+article h1 a.internal {
+  display: none;
+}
