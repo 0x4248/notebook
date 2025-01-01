@@ -219,8 +219,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9f7bcd0d5e94e26b",
+  "active": "1d8ceacdd41b9251",
   "lastOpenFiles": [
+    "index.md",
     "README.md",
     "01 Areas/Languages/Russian/Russian alphabet.md",
     "LICENSE-QUARTZ",
@@ -258,7 +259,6 @@
     "source/docs/plugins/ContentIndex.md",
     "source/docs/plugins/ComponentResources.md",
     "source/docs/plugins/CNAME.md",
-    "source/docs/plugins/Assets.md",
     "source/docs/images/quartz-layout-tablet.png",
     "source/docs/images/quartz-layout-mobile.png",
     "source/docs/images/quartz-layout-desktop.png",
