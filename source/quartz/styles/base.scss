@@ -120,12 +120,17 @@ a {
   }
 }
 
+.center {
+  text-align: center;
+}
+
 .page {
   max-width: calc(#{map-get($breakpoints, desktop)} + 300px);
   margin: 0 auto;
   & article {
     & > h1 {
       font-size: 2rem;
+      text-align: center;
     }
 
     & li:has(> input[type="checkbox"]) {
