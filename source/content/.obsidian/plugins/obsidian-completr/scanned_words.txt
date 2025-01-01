@@ -1704,6 +1704,9 @@ tells
 tired
 typing
 transliteration
+toshiba
+transceiver
+transmit
 date
 daily
 dos
@@ -3375,6 +3378,8 @@ doesn
 declarative
 does
 dont
+drive
+dual
 now
 neo
 notes
@@ -8400,6 +8405,7 @@ Make
 Must
 Minimal
 Most
+Modern
 DD
 Drawing
 Decompress
@@ -10082,6 +10088,7 @@ DwoH
 Demo
 During
 DEEu
+Delta
 cssclasses
 class
 center
@@ -11764,6 +11771,7 @@ cases
 clear
 correctly
 corrrectly
+capacity
 headings
 helld
 here
@@ -13380,6 +13388,7 @@ hardware
 hard
 help
 highly
+handheld
 bai
 border
 behaviour
@@ -14984,6 +14993,8 @@ binwalk
 been
 bxx
 best
+button
+band
 rounded
 research
 router
@@ -16619,6 +16630,9 @@ readable
 rendering
 rolled
 right
+radios
+released
+runs
 images
 ideas
 is
@@ -18321,6 +18335,8 @@ iyX
 initialise
 interests
 indicates
+indexes
+inch
 file
 folder
 fleeting
@@ -20029,6 +20045,7 @@ fonts
 fix
 fallback
 family
+focuses
 style
 space
 sriracha
@@ -21747,6 +21764,11 @@ shch
 sch
 silent
 similar
+section
+screen
+short
+series
+screws
 margin
 main
 ms
@@ -23412,6 +23434,8 @@ maps
 mostly
 medical
 made
+model
+mAh
 gray
 gohu
 go
@@ -26889,6 +26913,9 @@ Statistic
 Sometimes
 Sans
 Such
+Speaker
+Sigma
+Specifications
 About
 All
 Address
@@ -28574,6 +28601,8 @@ Account
 Areas
 Archive
 And
+Ancient
+Alpha
 The
 This
 Topic
@@ -30245,6 +30274,12 @@ Theme
 Typography
 That
 Times
+Think
+TOSHIBA
+Trackpad
+Transliteration
+Theta
+Toshiba
 quick
 qca
 qk
@@ -33619,6 +33654,7 @@ archived
 allot
 align
 above
+ancient
 embed
 excalidraw
 easier
@@ -38686,6 +38722,7 @@ Completr
 Color
 Cyrillic
 Common
+Chi
 works
 will
 with
@@ -40354,6 +40391,8 @@ want
 would
 where
 when
+wiki
+windows
 Obsidian
 OPTIONS
 Output
@@ -42073,6 +42112,8 @@ OrZm
 OFooo
 Old
 Obsifetch
+Omicron
+Omega
 What
 Waterfall
 Writing
@@ -45409,6 +45450,7 @@ vCaj
 values
 very
 vaul
+voltage
 public
 put
 plugin
@@ -47075,6 +47117,7 @@ papers
 periods
 problem
 parent
+parts
 obsidian
 of
 on
@@ -50487,6 +50530,7 @@ HYa
 HoHf
 Hwa
 Home
+Hardware
 EXCALIDRAW
 Excalidraw
 Execute
@@ -52213,6 +52257,8 @@ ERXX
 EpzM
 Ell
 EPROM
+English
+Epsilon
 VIEW
 Virus
 Vs
@@ -53923,6 +53969,7 @@ VXS
 VKll
 VIIi
 Vault
+Volts
 For
 Fetch
 Factors
@@ -57262,6 +57309,7 @@ uWV
 uGJ
 useful
 upper
+unaspirated
 Licence
 Logic
 Language
@@ -58944,6 +58992,8 @@ Last
 Layout
 Letters
 Letter
+Lower
+Lambda
 licensed
 list
 linux
@@ -62345,6 +62395,9 @@ Plaintext
 Private
 Plugins
 Pronunciation
+Plus
+Power
+Psi
 README
 Registers
 Reduced
@@ -64045,6 +64098,9 @@ RDF
 RTTdz
 ROW
 Russian
+Radios
+Rho
+Range
 In
 Instruction
 Input
@@ -65750,6 +65806,8 @@ INNnr
 IIi
 IDATk
 Iconize
+Iota
+Images
 Unit
 Utility
 Updates
@@ -67487,6 +67545,8 @@ Usages
 Used
 Unmount
 Ulr
+Upper
+Upsilon
 Buses
 Barcodes
 BIOS
@@ -69166,6 +69226,10 @@ Blix
 BFki
 Bill
 Below
+Board
+Beta
+Baofeng
+Battery
 Number
 Nuemann
 Nature
@@ -72487,6 +72551,7 @@ Gztp
 GDmk
 Greek
 Google
+Gamma
 Keys
 Karnaugh
 KZN
@@ -74097,6 +74162,8 @@ KEY
 KLK
 Kchh
 Kanban
+Keyboard
+Kappa
 JOIN
 Javascript
 Jq
@@ -82498,6 +82565,7 @@ jcJ
 jijaa
 jobs
 job
+jpeg
 yk
 yx
 ywiB
@@ -87319,6 +87387,7 @@ ZMmBH
 Zlu
 ZpIi
 ZNu
+Zeta
 üf
 üH
 üa
