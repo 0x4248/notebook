@@ -1,33 +1,30 @@
 ---
-tags: 
-date: 2024-10-18
+tags:
+  - References
+date: 2024-08-19
 cssclasses:
   - neo-headings
   - bai-headings
   - rounded-images
 ---
-# Arch install BIOS
-<p class="text-center" style="margin:0;color:gray;">How to install arch linux on a BIOS system</p>
-
-***
-How to install arch linux on a laptop using a BIOS system. 
-
-***Important note***: This install will not allow dual booting since we are not installing with UEFI.
+# Arch install
+*I wrote this really quick. Sorry*
 ## Disk partitioning
 ```
 fdisk /dev/vda
 ```
 
-
->[!danger]
-> **DOING THIS WILL WIPE YOUR COMPUTER**. Ensure all data is backed up before installing.
-
-*Type these and press enter where needed*. 
-`n` `p` `1` `ENTER` `ENTER`
+`n` `p` `1` `ENTER` `+512M`
+`t` `ef`
+`n` `p` `2` `ENTER` `ENTER`
 `w`
 
 ```
-mkfs.ext4 /dev/vda1
+mkfs.fat -F32 /dev/vda1
+```
+
+```
+mkfs.ext4 /dev/vda2
 ```
 
 ## Installing arch linux
@@ -37,11 +34,11 @@ pacman -Syy
 ```
 
 ```
-mount /dev/vda1 /mnt
+mount /dev/vda2 /mnt
 ```
 
 ```
-pacstrap /mnt base linux linux-firmware neovim vim nano iwd grub sudo 
+pacstrap /mnt base linux linux-firmware neovim vim nano
 ```
 ### Setting fstab
 ```
@@ -89,7 +86,19 @@ passwd
 ```
 ## Creating boot loader
 ```
-grub-install --target=i386-pc 
+pacman -S grub efibootmgr
+```
+
+```
+mkdir /boot/efi
+```
+
+```
+mount /dev/vda1 /boot/efi
+```
+
+```
+grub-install --target=arm64-efi --bootloader-id=GRUB --efi-directory=/boot/efi
 ```
 
 ```

@@ -9,7 +9,7 @@ cssclasses:
   - rounded-images
 ---
 # ISO modification
-<p class="center" style="margin:0;color:gray;">Modifying a ISO file using linux</p>
+<p class="text-center" style="margin:0;color:gray;">Modifying a ISO file using linux</p>
 
 ***
 ## Steps

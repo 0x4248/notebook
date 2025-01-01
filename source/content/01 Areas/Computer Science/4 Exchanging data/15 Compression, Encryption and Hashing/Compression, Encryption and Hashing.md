@@ -15,6 +15,6 @@ cssclasses:
 - [[Caesar Cipher]]
 - [[The Verman Cipher]]
 - [[Symmetric Encryption]]
-- [[Asymetric Encryption]]
+- [[Asymmetric Encryption]]
 - [[Hashing]]
 - [[Digital Signatures]]

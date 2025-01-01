@@ -7,7 +7,7 @@ cssclasses:
   - rounded-images
 ---
 # Operations on a Queue
-<p class="center" style="margin:0;color:gray;">Subtitle</p>
+<p class="text-center" style="margin:0;color:gray;">Subtitle</p>
 
 ***
 [[Queues]] have operations on them that allow for items to be removed and added from the queue.

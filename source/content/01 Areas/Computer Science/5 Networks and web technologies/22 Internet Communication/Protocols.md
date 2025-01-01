@@ -8,7 +8,7 @@ cssclasses:
   - rounded-images
 ---
 # Protocols
-<p class="center" style="margin:0;color:gray;">Subtitle</p>
+<p class="text-center" style="margin:0;color:gray;">Subtitle</p>
 
 ***
 ## Protocol layering

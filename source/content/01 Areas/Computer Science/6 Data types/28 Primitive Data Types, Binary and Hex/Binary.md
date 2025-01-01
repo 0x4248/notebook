@@ -7,7 +7,7 @@ cssclasses:
   - rounded-images
 ---
 # Binary
-<p class="center" style="margin:0;color:gray;">Subtitle</p>
+<p class="text-center" style="margin:0;color:gray;">Subtitle</p>
 
 ***
 Binary is a number system that uses binary digits `1` and `0`. 

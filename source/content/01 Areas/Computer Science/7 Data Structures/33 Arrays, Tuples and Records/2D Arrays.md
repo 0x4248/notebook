@@ -7,7 +7,7 @@ cssclasses:
   - rounded-images
 ---
 # 2D Arrays
-<p class="center" style="margin:0;color:gray;">Subtitle</p>
+<p class="text-center" style="margin:0;color:gray;">Subtitle</p>
 
 ***
 2D arrays are arrays of arrays. 

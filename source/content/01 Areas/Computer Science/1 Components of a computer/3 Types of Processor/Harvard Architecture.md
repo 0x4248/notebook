@@ -8,7 +8,7 @@ cssclasses:
   - rounded-images
 ---
 # Harvard Architecture
-<p class="center" style="margin:0;color:gray;">Processor type</p>
+<p class="text-center" style="margin:0;color:gray;">Processor type</p>
 
 ***
 The Harvard architecture physically seperates the busses into data and instructions. Harvard architecture can be faster than von neumann due to the fact that one bus cant contain two types of data. 

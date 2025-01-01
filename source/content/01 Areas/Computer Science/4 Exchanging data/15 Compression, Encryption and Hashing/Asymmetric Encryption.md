@@ -7,7 +7,7 @@ cssclasses:
   - bai-headings
   - rounded-images
 ---
-# Asymetric Encryption
+# Asymmetric Encryption
 ***
 Asymetric encryption uses two related keys. One key is the public key and one is the private key.
 

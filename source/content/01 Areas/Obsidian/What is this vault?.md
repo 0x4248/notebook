@@ -8,7 +8,7 @@ cssclasses:
   - rounded-images
 ---
 # What is this vault?
-<p class="center" style="margin:0;color:gray;">About this vault</p>
+<p class="text-center" style="margin:0;color:gray;">About this vault</p>
 
 ***
 This is my **public** obsidian vault. Here I will put my public notes and research. This vault will also include my public study notes.
@@ -32,7 +32,7 @@ I often put random thoughts and notes.
 #### Archive
 Old notes that don't have a place anymore or are archived.
 #### Meta
-Pages and files for the vault to work
+Pages and files for the vault to work. This folder also contains updates/change log. 
 #### Private
 Notes that can not be public. This could be due to copyright or other reasons.
 ## Plugins

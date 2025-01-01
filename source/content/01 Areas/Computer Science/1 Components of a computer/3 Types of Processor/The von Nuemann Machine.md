@@ -8,7 +8,7 @@ cssclasses:
   - rounded-images
 ---
 # The von Nuemann Machine
-<p class="center" style="margin:0;color:gray;">Processor type</p>
+<p class="text-center" style="margin:0;color:gray;">Processor type</p>
 
 ***
 In a von neumann machine the same data bus is used to store and transfer data and instructions.

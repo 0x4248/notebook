@@ -10,6 +10,8 @@ cssclasses:
 # Computer Science topics
 
 ***
+Here is a list of every topic that is covered on the *A Level Computer Science*. When you click a page you will be able to see the notes I have made for that topic.
+
 ### 1 - Components of a computer
 1. [[Processor Components]]
 2. [[Processor Performance]]

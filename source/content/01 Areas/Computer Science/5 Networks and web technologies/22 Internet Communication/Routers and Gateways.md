@@ -8,7 +8,7 @@ cssclasses:
   - rounded-images
 ---
 # Routers and Gateways
-<p class="center" style="margin:0;color:gray;">Internet communication</p>
+<p class="text-center" style="margin:0;color:gray;">Internet communication</p>
 
 ***
 ## What is a router

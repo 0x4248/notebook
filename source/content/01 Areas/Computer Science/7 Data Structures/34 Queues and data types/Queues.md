@@ -8,7 +8,7 @@ cssclasses:
   - rounded-images
 ---
 # Queues
-<p class="center" style="margin:0;color:gray;">Subtitle</p>
+<p class="text-center" style="margin:0;color:gray;">Subtitle</p>
 
 ***
 ## Contents
