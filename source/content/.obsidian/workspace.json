@@ -36,8 +36,19 @@
               "icon": "lucide-file",
               "title": "Greek alphabet"
             }
+          },
+          {
+            "id": "9f7bcd0d5e94e26b",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,11 +211,18 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "004b6936958f1e73",
+  "active": "9f7bcd0d5e94e26b",
   "lastOpenFiles": [
+    "README.md",
+    "01 Areas/Languages/Russian/Russian alphabet.md",
     "LICENSE-QUARTZ",
     "LICENSE",
     "source/quartz/components/styles/toc.scss",
@@ -215,7 +233,6 @@
     "source/quartz/components/styles/legacyToc.scss",
     "source/quartz/components/styles/graph.scss",
     "source/quartz/components/styles/footer.scss",
-    "source/quartz/components/styles/explorer.scss",
     "source/quartz/static/og-image.png",
     "source/quartz/static/icon.png",
     "source/docs/plugins/index.md",
@@ -242,7 +259,6 @@
     "source/docs/plugins/ComponentResources.md",
     "source/docs/plugins/CNAME.md",
     "source/docs/plugins/Assets.md",
-    "source/docs/plugins/AliasRedirects.md",
     "source/docs/images/quartz-layout-tablet.png",
     "source/docs/images/quartz-layout-mobile.png",
     "source/docs/images/quartz-layout-desktop.png",
