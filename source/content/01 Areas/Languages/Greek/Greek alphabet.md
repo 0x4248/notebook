@@ -11,6 +11,7 @@ cssclasses:
 <p style="font-size:x-large;text-align:center;margin:0;font-family:Times;">Ελληνικό αλφάβητο</p>
 
 ***
+The **Greek alphabet** is used in the Greek language. It is also used in many other languages, such as ***Coptic, Gothic, and Old Church Slavonic***.
 
 | Upper | Lower | Name    | Ancient English Transliteration | Modern English Transliteration    |
 | ----- | ----- | ------- | ------------------------------- | --------------------------------- |

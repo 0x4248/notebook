@@ -1,5 +1,12 @@
 # Kernel
 
+***
+
+
+>[!warning]+ Outdated page
+> This page needs updating and may not be accurate or have missing information.
+
+
 The kennel is one of the most core parts of the Linux operating system. The Linux kernel is open source and is developed by the [Linux Foundation](https://www.linuxfoundation.org/).
 
 ## Building

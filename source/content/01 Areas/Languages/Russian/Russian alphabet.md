@@ -11,7 +11,14 @@ cssclasses:
 <p style="font-size:x-large;text-align:center;margin:0;font-family:Times;">Русский</p>
 
 ***
-## Letters
+**Russian** is a language that uses the ***Cyrillic alphabet***. This alphabet is used in many languages, such as ***Bulgarian, Serbian, and Ukrainian***.
+
+Here is all the Russian letters in order:
+
+<p style="font-size:xx-large;text-align:center;margin:0;">АБВГДЕЖЗИЙКЛМНОРСТУФХЦЧШЩЪЫЬЭЮЯ</p>
+
+To show this more in detail here is a table:
+
 | Letter upper | Letter lower | Pronunciation/Common transliteration |
 | ------------ | ------------ | ------------------------------------ |
 | А            | а            | a                                    |

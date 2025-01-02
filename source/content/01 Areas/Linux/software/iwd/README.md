@@ -1,6 +1,6 @@
 # iwd
 
-iwd is a wireless daemon for [Linux](/Wiki/linux).
+iwd is a wireless daemon for [[Linux]]
 
 ## Installation
 
