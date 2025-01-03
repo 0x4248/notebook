@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-GB",
     baseUrl: "https://0x4248.dev/notebook",
-    ignorePatterns: ["private", "Templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
