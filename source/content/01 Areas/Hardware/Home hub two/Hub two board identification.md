@@ -9,7 +9,7 @@ cssclasses:
   - page-slate
   - page-slate-headings
 ---
-# Hub two board identification
+§# Hub two board identification
 
 ***
 ## Part number

@@ -31,5 +31,4 @@ Here are the main Linux distributions (not including the many derivatives):
 ## See also
 - [[Building the linux kernel]]
 
-## References
 [^1]: https://en.wikipedia.org/wiki/Linux "Wikipedia - Linux"
