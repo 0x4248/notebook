@@ -1,5 +1,5 @@
 # Hello world in ARM Linux
-Hello world in ARM64 [kernel](kernel.md)
+Hello world in ARM64 [Building the linux kernel](Building%20the%20linux%20kernel.md)
 
 ## Code
 ```assembly

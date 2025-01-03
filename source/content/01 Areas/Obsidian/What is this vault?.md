@@ -18,8 +18,9 @@ I have structured this vault in a way that allows for organisation of notes.
 - 00 Maps
 - 01 Areas
 - 02 Fleeting
-- 03 Archive 
-- 04 Meta
+- 03 Projects 
+- 04 Archive
+- 05 Meta
 - 99 Private
 #### Maps
 This part of the vault contains maps of content within the vault. These pages are primarily to make navigation easier within the vault.

@@ -9,13 +9,13 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "4248's Notebook",
-    pageTitleSuffix: "",
+    pageTitleSuffix: " | 4248's Notebook",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "en-GB",
     baseUrl: "https://0x4248.dev/notebook",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "Templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

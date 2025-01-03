@@ -1,6 +1,6 @@
 ---
 tags:
-  - linux
+  - Linux
 date: 2025-01-02
 cssclasses:
   - neo-headings
@@ -29,7 +29,7 @@ Here are the main Linux distributions (not including the many derivatives):
 
 ***
 ## See also
-- [[kernel]]
+- [[Building the linux kernel]]
 
 ## References
 [^1]: https://en.wikipedia.org/wiki/Linux "Wikipedia - Linux"

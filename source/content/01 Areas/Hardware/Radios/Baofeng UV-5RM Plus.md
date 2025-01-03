@@ -1,6 +1,6 @@
 ---
 tags:
-  - hardware/radios
+  - Hardware/Radios
 date: 2025-01-01
 cssclasses:
   - neo-headings

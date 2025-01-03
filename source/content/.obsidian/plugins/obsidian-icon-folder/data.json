@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiEyeOff",
+      "LiHammer",
       "LiCode",
       "LiArchive",
-      "LiPen",
-      "LiInbox",
-      "FasMap"
+      "LiPen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,7 +36,9 @@
   },
   "00 Maps": "LiMap",
   "01 Areas": "LiInbox",
-  "02 Fleeting": "LiPen",
-  "03 Archive": "LiArchive",
-  "04 Meta": "LiCode"
+  "04 Archive": "LiArchive",
+  "05 Meta": "LiCode",
+  "03 Projects": "LiHammer",
+  "99 Private": "LiEyeOff",
+  "01 Areas/Radios/02 Fleeting": "LiPen"
 }
