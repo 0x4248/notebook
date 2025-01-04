@@ -47,3 +47,71 @@ article {
   }
 }
 
+/* X42 Tweaks */
+
+.X42-vtext-container {
+  display:flex;
+  justify-content: space-between;
+  align-items:center;
+}
+
+.X42-vtext-left {
+  font-size: xx-large;
+  margin-right:40px;
+  vertical-align: middle;
+  line-height: 40px;
+  font-weight: bold;
+}
+
+.X42-vtext-right {
+  font-size: xx-large;
+  margin-left:40px;
+  vertical-align: middle;
+  line-height: 40px;
+  font-weight: bold;
+}
+
+
+.X42-card-container {
+  display: flex;
+  justify-content: space-around;
+  max-width: 600px;
+  margin: auto;
+}
+
+.X42-card-container * {
+  border: 1px solid;
+  border-radius:10px;
+  padding: 10px;
+  margin:10px;
+}
+
+.X42-star-break {
+  text-align:center;
+  font-size:x-large;
+  margin:4px;
+  letter-spacing: 10px;
+}
+
+.X42-star-break-line-container {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.X42-star-break-line {
+  text-align:center;
+  font-size:x-large;
+  letter-spacing: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  white-space: nowrap;
+}
+
+.X42-star-break-nsp {
+  text-align:center;
+  font-size:x-large;
+  margin-left: 10px;
+  margin-right: 10px;
+  white-space: nowrap;
+}
