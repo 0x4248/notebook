@@ -8,7 +8,6 @@ cssclasses:
   - rounded-images
 ---
 # Assembly Language
-<p class="text-center" style="margin:0;color:gray;">Subtitle</p>
 
 ***
 Assembly language was the first type of programming language to come out after machine code.

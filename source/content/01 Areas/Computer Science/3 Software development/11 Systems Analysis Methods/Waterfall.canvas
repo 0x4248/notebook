@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"ee088db71780d3d4","x":-38,"y":40,"width":302,"height":60,"type":"text","text":"# Design"},
+		{"id":"38092a994e6fdc10","type":"text","text":"# Implementation","x":-18,"y":120,"width":296,"height":60},
+		{"id":"4d5ee62aac68e770","x":-58,"y":-40,"width":302,"height":60,"type":"text","text":"# Analyais"},
+		{"id":"f4239954ce1b96c5","type":"text","text":"# Evaluation","x":2,"y":200,"width":302,"height":60},
+		{"id":"6664cf163512dd0a","type":"text","text":"# Maintenance","x":20,"y":280,"width":302,"height":60}
+	],
+	"edges":[
+		{"id":"b3cc1a691c581626","fromNode":"ee088db71780d3d4","fromSide":"left","toNode":"4d5ee62aac68e770","toSide":"left"},
+		{"id":"f0f4b5da8312497c","fromNode":"4d5ee62aac68e770","fromSide":"right","toNode":"ee088db71780d3d4","toSide":"right"},
+		{"id":"f8138f8648261ffe","fromNode":"38092a994e6fdc10","fromSide":"left","toNode":"ee088db71780d3d4","toSide":"left"},
+		{"id":"5034f62a7f010d6c","fromNode":"ee088db71780d3d4","fromSide":"right","toNode":"38092a994e6fdc10","toSide":"right"},
+		{"id":"cc534301a1ac574b","fromNode":"f4239954ce1b96c5","fromSide":"left","toNode":"38092a994e6fdc10","toSide":"left"},
+		{"id":"3b0e02da09d370f4","fromNode":"38092a994e6fdc10","fromSide":"right","toNode":"f4239954ce1b96c5","toSide":"right"},
+		{"id":"4084f4777a6cdfe4","fromNode":"6664cf163512dd0a","fromSide":"left","toNode":"f4239954ce1b96c5","toSide":"left"},
+		{"id":"241480a7005e7fb4","fromNode":"f4239954ce1b96c5","fromSide":"right","toNode":"6664cf163512dd0a","toSide":"right"}
+	]
+}

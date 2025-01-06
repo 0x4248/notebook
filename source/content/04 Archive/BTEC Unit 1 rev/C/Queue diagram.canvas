@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"c0fdc62c45c4d9a8","x":-120,"y":-140,"width":720,"height":100,"color":"4","type":"group","label":"In queue"},
+		{"id":"7d44dc6a348c6e5d","type":"group","x":-380,"y":-140,"width":240,"height":100,"color":"1","label":"Popped"},
+		{"id":"5dfe1a52c3db9349","type":"text","text":"<h1 style=\"text-align:center\">Item 2</h1>","x":-100,"y":-120,"width":200,"height":60,"color":"4"},
+		{"id":"fee711b37d0a4437","type":"text","text":"<h1 style=\"text-align:center\">Item 3</h1>","x":140,"y":-120,"width":200,"height":60,"color":"4"},
+		{"id":"c23f9529aa4b8894","type":"text","text":"<h1 style=\"text-align:center\">Item 4</h1>","x":380,"y":-120,"width":200,"height":60,"color":"4"},
+		{"id":"9452f92582f29cd6","x":-360,"y":-120,"width":200,"height":60,"color":"1","type":"text","text":"<h1 style=\"text-align:center\">Item 1</h1>"}
+	],
+	"edges":[
+		{"id":"f5c896657fc08b28","fromNode":"c23f9529aa4b8894","fromSide":"left","toNode":"fee711b37d0a4437","toSide":"right"},
+		{"id":"2cbc14a4a73c3659","fromNode":"fee711b37d0a4437","fromSide":"left","toNode":"5dfe1a52c3db9349","toSide":"right"},
+		{"id":"e16854fa9c422b96","fromNode":"5dfe1a52c3db9349","fromSide":"left","toNode":"9452f92582f29cd6","toSide":"right"}
+	]
+}

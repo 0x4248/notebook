@@ -13,7 +13,7 @@ cssclasses:
 
 | Image                    | Class         | Operator          | Manufacturer    |
 | ------------------------ | ------------- | ----------------- | --------------- |
-| ![[Class_373.jpeg\|250]] | [[Class 350]] | Eurostar          | [[GEC Alsthom]] |
+| ![[Class_373.jpeg\|250]] | [[Class 373]] | Eurostar          | [[GEC Alsthom]] |
 | ![[Class_374.jpg\|250]]  | [[Class 374]] | Eurostar          | [[Siemens]]     |
 | ![[Class_390.jpeg\|250]] | [[Class 390]] | Avanti West Coast | [[Alstom]]      |
 

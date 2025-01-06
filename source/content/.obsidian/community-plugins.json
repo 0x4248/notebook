@@ -12,7 +12,10 @@
   "obsidian-vault-statistics-plugin",
   "obsidian-kanban",
   "pdf-plus",
-  "obsifetch",
   "OA-file-hider",
-  "github-copilot"
+  "github-copilot",
+  "3d-graph",
+  "cmdr",
+  "tag-wrangler",
+  "mysnippets-plugin"
 ]
