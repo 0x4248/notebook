@@ -11,8 +11,8 @@ cssclasses:
 
 ***
 There are many different development lifecycles that can be used to develop a system. Some of the most common ones are:
-- The Waterfall Cycle
-- Spiral Model
+- [[#The Waterfall Cycle]]
+- [[#Spiral Model]]
 - Agile Modeling
 - Extreme Programming
 
@@ -29,3 +29,9 @@ The Waterfall Cycle is a linear model that has the following stages:
 
 ## Spiral Model
 The Spiral Model is a continuous model, meaning that the stages are repeated until the project is finished.
+![[Spiral.png|500]]
+## Agile Modeling
+Agile modeling is a model that is iterative and incremental. This means that the project is broken down into smaller parts and each part is developed in a series of iterations.
+
+## Extreme Programming
+Extreme programming is where the project is rapidly developed.

@@ -1,8 +1,9 @@
 {
 	"nodes":[
-		{"id":"ee088db71780d3d4","x":-38,"y":40,"width":302,"height":60,"type":"text","text":"# Design"},
+		{"id":"08a1955ce84babd4","x":7,"y":120,"width":250,"height":60,"type":"text","text":"curl https://alx.sh | sh"},
+		{"id":"ee088db71780d3d4","type":"text","text":"# Design","x":-38,"y":40,"width":302,"height":60},
 		{"id":"38092a994e6fdc10","type":"text","text":"# Implementation","x":-18,"y":120,"width":296,"height":60},
-		{"id":"4d5ee62aac68e770","x":-58,"y":-40,"width":302,"height":60,"type":"text","text":"# Analyais"},
+		{"id":"4d5ee62aac68e770","type":"text","text":"# Analyais","x":-58,"y":-40,"width":302,"height":60},
 		{"id":"f4239954ce1b96c5","type":"text","text":"# Evaluation","x":2,"y":200,"width":302,"height":60},
 		{"id":"6664cf163512dd0a","type":"text","text":"# Maintenance","x":20,"y":280,"width":302,"height":60}
 	],

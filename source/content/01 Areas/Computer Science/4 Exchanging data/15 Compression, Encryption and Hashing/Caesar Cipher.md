@@ -11,4 +11,5 @@ cssclasses:
 # Caesar Cipher
 ***
 A caesar cipher is a [[Encryption]] method that uses a shift. It shifts the alphabet by a set amount of times and uses that to encrypt the plaintext.
-![[Caesar cipher drawing|200]]
+
+![[Caesar cipher drawing.svg|200]]
