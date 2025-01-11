@@ -11,8 +11,9 @@ cssclasses:
 <p class="text-center" style="margin:0;color:gray;">Processor type</p>
 
 ***
-The Harvard architecture physically seperates the busses into data and instructions. Harvard architecture can be faster than von neumann due to the fact that one bus cant contain two types of data. 
-## Comparison between [[The von Nuemann Machine|von Nuemann]]
+The Harvard architecture physically separates the busses into data and instructions. Harvard architecture can be faster than von neumann due to the fact that one bus cant contain two types of data. 
+## Comparison between von Neumann
+*See also:* [[The von Nuemann Machine|von Neumann]]
 
 | Von Nuemann                                 | Harvard                                                   |
 | ------------------------------------------- | --------------------------------------------------------- |

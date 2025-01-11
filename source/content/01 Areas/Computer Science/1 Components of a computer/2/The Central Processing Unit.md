@@ -28,3 +28,5 @@ A data bus transports data between the CPU and memory.
 The control bus transports instructions between the CPU and memory. These include program instructions and signals sent from the control unit.
 #### Address bus
 The address bus transports memory addresses between the CPU and memory.
+
+![[Buses.png]]

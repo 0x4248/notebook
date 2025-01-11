@@ -12,7 +12,7 @@ cssclasses:
 ***
 ## Type of software
 In computing there are a few types of software.
-![[Type of software.canvas|Untitled]]
+![[Type of software.png]]
 ## Contents
 - [[Systems Software]]
 - [[Utility Programs]]

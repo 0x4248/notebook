@@ -10,6 +10,8 @@ cssclasses:
 # Functions of an Operating System
 
 ***
+An operating system is software that manages the operations on a computer.
+![[Operating system.png|Operating system]]
 ## Primary functions of an Operating system
 - Memory management
 - Interrupt service routines

@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"a8f26ea802e53113","type":"text","text":"<h1 style=\"text-align:center;margin:auto;\">Operating system</h1>","x":-200,"y":40,"width":500,"height":90,"color":"4"},
+		{"id":"fafae76a264738c2","type":"text","text":"<h1 style=\"text-align:center;margin:auto;\">User</h1>","x":-200,"y":-300,"width":500,"height":50,"color":"3"},
+		{"id":"82cc4f9cd908c685","type":"text","text":"<h1 style=\"text-align:center;margin:auto;\">Application software</h1>","x":60,"y":-160,"width":240,"height":90,"color":"3"},
+		{"id":"db3756011fe55f1b","type":"text","text":"<h1 style=\"text-align:center;margin:auto;\">Hardware</h1>","x":-200,"y":180,"width":500,"height":50,"color":"4"}
+	],
+	"edges":[
+		{"id":"07a20464fde2fb64","fromNode":"fafae76a264738c2","fromSide":"bottom","toNode":"82cc4f9cd908c685","toSide":"top","fromEnd":"arrow","color":"5"},
+		{"id":"05d4347db50449fa","fromNode":"fafae76a264738c2","fromSide":"bottom","toNode":"a8f26ea802e53113","toSide":"top","fromEnd":"arrow","color":"5"},
+		{"id":"02b322dd5db5ea6e","fromNode":"82cc4f9cd908c685","fromSide":"bottom","toNode":"a8f26ea802e53113","toSide":"top","fromEnd":"arrow","color":"5"},
+		{"id":"d6b319c28ff81458","fromNode":"a8f26ea802e53113","fromSide":"bottom","toNode":"db3756011fe55f1b","toSide":"top","fromEnd":"arrow","color":"5"}
+	]
+}

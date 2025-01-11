@@ -1,16 +1,18 @@
 {
 	"nodes":[
-		{"id":"0bf422746c2e3afb","x":-208,"y":-130,"width":308,"height":50,"type":"text","text":"<h1 style=\"text-align:center;\">Software</h1>"},
+		{"id":"ebc9a93556b3f8ef","type":"group","x":-60,"y":0,"width":600,"height":430,"color":"4","label":"Application"},
+		{"id":"a1693c6ed625ba22","type":"group","x":-568,"y":0,"width":480,"height":525,"color":"5","label":"System"},
+		{"id":"0bf422746c2e3afb","type":"text","text":"<h1 style=\"text-align:center;\">Software</h1>","x":-208,"y":-130,"width":308,"height":50},
 		{"id":"883263565bf7a1bc","type":"text","text":"<h1 style=\"text-align:center;\">System software</h1>","x":-308,"y":20,"width":200,"height":80,"color":"5"},
 		{"id":"f88f77a23ffccc12","type":"text","text":"<h1 style=\"text-align:center;\">Applications software</h1>","x":-40,"y":20,"width":280,"height":80,"color":"4"},
-		{"id":"b6e8526526871134","type":"text","text":"<h1 style=\"text-align:center;\">Library programs</h1>","x":-580,"y":240,"width":240,"height":80,"color":"5"},
-		{"id":"1d91ddf0235dcdc1","type":"text","text":"<h1 style=\"text-align:center;\">Operating systems</h1>","x":-580,"y":120,"width":240,"height":100,"color":"5"},
-		{"id":"f61a27cff393e74b","type":"text","text":"<h1 style=\"text-align:center;\">Utility programs</h1>","x":-580,"y":340,"width":240,"height":80,"color":"5"},
-		{"id":"cef40dc4d21f0f78","type":"text","text":"<h1 style=\"text-align:center;\">Translators</h1>","x":-580,"y":440,"width":240,"height":60,"color":"5"},
-		{"id":"0ed60250cdea21c2","type":"text","text":"<h1 style=\"text-align:center;\">Off-the-shelf</h1>","x":280,"y":120,"width":280,"height":50,"color":"4"},
-		{"id":"725973638f8a32d9","type":"text","text":"<h1 style=\"text-align:center;\">Proprietary</h1>","x":280,"y":180,"width":280,"height":50,"color":"4"},
-		{"id":"f88d88dbc9b3e85a","type":"text","text":"<h1 style=\"text-align:center;\">Custom written</h1>","x":280,"y":240,"width":280,"height":80,"color":"4"},
-		{"id":"4788c74746d826cd","type":"text","text":"<h1 style=\"text-align:center;\">Open source</h1>","x":280,"y":340,"width":280,"height":50,"color":"4"}
+		{"id":"0ed60250cdea21c2","type":"text","text":"<h1 style=\"text-align:center;\">Off-the-shelf</h1>","x":240,"y":140,"width":280,"height":50,"color":"4"},
+		{"id":"725973638f8a32d9","type":"text","text":"<h1 style=\"text-align:center;\">Proprietary</h1>","x":240,"y":200,"width":280,"height":50,"color":"4"},
+		{"id":"f88d88dbc9b3e85a","type":"text","text":"<h1 style=\"text-align:center;\">Custom written</h1>","x":240,"y":260,"width":280,"height":80,"color":"4"},
+		{"id":"4788c74746d826cd","type":"text","text":"<h1 style=\"text-align:center;\">Open source</h1>","x":240,"y":360,"width":280,"height":50,"color":"4"},
+		{"id":"1d91ddf0235dcdc1","type":"text","text":"<h1 style=\"text-align:center;\">Operating systems</h1>","x":-548,"y":125,"width":240,"height":100,"color":"5"},
+		{"id":"b6e8526526871134","type":"text","text":"<h1 style=\"text-align:center;\">Library programs</h1>","x":-548,"y":245,"width":240,"height":80,"color":"5"},
+		{"id":"f61a27cff393e74b","type":"text","text":"<h1 style=\"text-align:center;\">Utility programs</h1>","x":-548,"y":345,"width":240,"height":80,"color":"5"},
+		{"id":"cef40dc4d21f0f78","type":"text","text":"<h1 style=\"text-align:center;\">Translators</h1>","x":-548,"y":445,"width":240,"height":60,"color":"5"}
 	],
 	"edges":[
 		{"id":"81c35902584cd6c8","fromNode":"883263565bf7a1bc","fromSide":"bottom","toNode":"1d91ddf0235dcdc1","toSide":"right"},

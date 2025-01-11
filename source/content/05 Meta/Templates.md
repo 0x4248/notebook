@@ -8,7 +8,7 @@ cssclasses:
   - rounded-images
 ---
 ## Contents
-- [[!BLOCK_DEFAULT]]
+- [[!BLOCK_MAIN_DEFAULT]]
 - [[X42-vtext]]
 - [[BLOCK_FOOT]]
 - [[BLOCK_MAIN_FULL]]
