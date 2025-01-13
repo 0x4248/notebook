@@ -12,5 +12,5 @@ cssclasses:
 
 ***
 ## Protocol layering
-Protocol layering is used to separate the different types of network protocols so that it makes it easier to debug and develop. It also means if one layer is changed it shouldn't affect the other layers.x
+Protocol layering is used to separate the different types of network protocols so that it makes it easier to debug and develop. It also means if one layer is changed it shouldn't affect the other layers.
 

@@ -1,6 +1,6 @@
 {
   "accentColor": "#5c8ff5",
-  "cssTheme": "Vanilla AMOLED",
+  "cssTheme": "Prism",
   "textFontFamily": "JetBrains Mono",
   "interfaceFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "Source Code Pro",
@@ -8,5 +8,6 @@
     "tweaks",
     "fonts"
   ],
-  "translucency": false
+  "translucency": false,
+  "baseFontSize": 20
 }

@@ -14,35 +14,35 @@ Takiyoka is a language inspired by Korean, Japanese and other languages alike. T
 
 ## Alphabet
 
+### Alphabet 1 (Tichimisoko)
+Tichimisoko is the first alphabet of Takiyoka. It is a phonetic alphabet and was designed so every word in latin script can be written in Tichimisoko. The alphabet has 25 letters and is written from left to right.
 
-
-## Alphabet 1 (Tichimisoko)
-
-![[T.svg|45]] ![[I.svg|45]] ![[C.svg|45]] ![[I.svg|45]] ![[M.svg|45]] ![[I.svg|45]] ![[S.svg|45]] ![[O.svg|45]] ![[K.svg|45]] ![[O.svg|45]]
+![[T.svg|45]] ![[01 Areas/Languages/Takiyoka/Kitaru/I.svg|52]] ![[C.svg|45]] ![[01 Areas/Languages/Takiyoka/Kitaru/I.svg|52]] ![[M.svg|45]] ![[01 Areas/Languages/Takiyoka/Kitaru/I.svg|52]] ![[S.svg|45]] ![[01 Areas/Languages/Takiyoka/Kitaru/O.svg|45]] ![[K.svg|45]] ![[01 Areas/Languages/Takiyoka/Kitaru/O.svg|45]]
+*Tichimisoko written in the alphabet*
 
 |     Letter     | Transliteration |
 | :------------: | --------------- |
-| ![[A.svg\|25]] | a               |
+| ![[01 Areas/Languages/Takiyoka/Kitaru/A.svg\|25]] | a               |
 | ![[B.svg\|25]] | b               |
 | ![[C.svg\|25]] | c               |
 | ![[D.svg\|25]] | d               |
-| ![[E.svg\|25]] | e               |
+| ![[01 Areas/Languages/Takiyoka/Kitaru/E.svg\|25]] | e               |
 | ![[F.svg\|25]] | f               |
 | ![[G.svg\|25]] | g               |
 | ![[H.svg\|25]] | h               |
-| ![[I.svg\|25]] | i               |
+| ![[01 Areas/Languages/Takiyoka/Kitaru/I.svg\|25]] | i               |
 | ![[J.svg\|25]] | j               |
 | ![[K.svg\|25]] | k               |
 | ![[L.svg\|25]] | l               |
 | ![[M.svg\|25]] | m               |
 | ![[N.svg\|25]] | n               |
-| ![[O.svg\|25]] | o               |
+| ![[01 Areas/Languages/Takiyoka/Kitaru/O.svg\|25]] | o               |
 | ![[P.svg\|25]] | p               |
 | ![[Q.svg\|25]] | q               |
 | ![[R.svg\|25]] | r               |
 | ![[S.svg\|25]] | s               |
 | ![[T.svg\|25]] | t               |
-| ![[U.svg\|25]] | u               |
+| ![[01 Areas/Languages/Takiyoka/Kitaru/U.svg\|25]] | u               |
 | ![[V.svg\|25]] | v               |
 | ![[W.svg\|25]] | w               |
 | ![[X.svg\|25]] | x               |
@@ -50,3 +50,12 @@ Takiyoka is a language inspired by Korean, Japanese and other languages alike. T
 | ![[Z.svg\|25]] | z               |
 
 
+## Alphabet 2 (Kitaru)
+|      | _a_             | _i_             | _u_             | _e_             | _o_             |
+| ---- | --------------- | --------------- | --------------- | --------------- | --------------- |
+| None | ![[01 Areas/Languages/Takiyoka/Kitaru/A.svg\|25]]  | ![[01 Areas/Languages/Takiyoka/Kitaru/I.svg\|25]]  | ![[01 Areas/Languages/Takiyoka/Kitaru/U.svg\|25]]  | ![[01 Areas/Languages/Takiyoka/Kitaru/E.svg\|25]]  | ![[01 Areas/Languages/Takiyoka/Kitaru/O.svg\|25]]  |
+| k    | ![[KA.svg\|25]] | ![[KI.svg\|25]] | ![[KU.svg\|25]] | ![[KE.svg\|25]] | ![[KO.svg\|25]] |
+| t    |                 |                 |                 |                 |                 |
+| n    |                 |                 |                 |                 |                 |
+| r    |                 |                 |                 |                 |                 |
+| y    |                 |                 |                 |                 |                 |
