@@ -26,3 +26,11 @@ Here is some render tests for different writing systems (Russian, Greek, Japanes
 <p style="font-size:xx-large;text-align:center;margin:0;">フォントテスト</p>
 
 <p style="font-size:xx-large;text-align:center;margin:0;">글꼴 테스트</p>
+
+## Languages
+- [[Russian alphabet|Russian]]
+- [[Greek alphabet|Greek]]
+- [[Hiragana|Japanese Hiragana]]
+
+**Conlangs I have made**
+- [[Takiyoka]]

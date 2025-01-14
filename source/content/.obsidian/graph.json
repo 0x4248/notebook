@@ -2,41 +2,12 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
-  "hideUnresolved": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"01 Areas/Computer Science\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6065648
-      }
-    },
-    {
-      "query": "path:\"01 Areas\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 4710655
-      }
-    },
-    {
-      "query": "path:\"05 Meta\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6716047
-      }
-    },
-    {
-      "query": "path:\"04 Archive\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16616191
-      }
-    }
-  ],
-  "collapse-display": false,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -46,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.447344265135041,
-  "close": true
+  "scale": 0.30485121090823164,
+  "close": false
 }

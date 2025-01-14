@@ -19,9 +19,8 @@ cssclasses:
 
 ## Passenger & Metro
 
-| Image                    | Class          | Operator                              | Manufacturer  |
-| ------------------------ | -------------- | ------------------------------------- | ------------- |
-| ![[Class_350.jpeg\|250]] | [[Class 350]]  | London Northwestern Railway           | [[Siemens]]   |
+| Image                    | Class          | Operator                              | Manufacturer   |
+| ------------------------ | -------------- | ------------------------------------- | -------------- |
+| ![[Class_350.jpeg\|250]] | [[Class 350]]  | London Northwestern Railway           | [[Siemens]]    |
 | ![[Class_345.jpeg\|250]] | [[Class 345]]  | Transport For London (Elizebeth Line) | [[Bombardier]] |
-| ![[1992_Stock.png\|250]] | [[1992 Stock]] | Transport For London (Elizebeth Line) |               |
-
+| ![[1992_Stock.png\|250]] | [[1992 Stock]] | Transport For London (Elizebeth Line) |                |
