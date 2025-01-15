@@ -11,7 +11,7 @@ cssclasses:
 
 ***
 ## Photos
-![[Macbook Pro M3 Pro 14' inside.jpeg|300]]![[Macbook Pro M3 Pro 14'' case.jpeg|300]]
+![[Macbook Pro M3 Pro 14' inside.jpeg|299]]![[Macbook Pro M3 Pro 14'' case.jpeg|300]]
 
 ## Disassembly guide
 To take apart the MacBook you will need a tiny Penelope screwdriver, hand force and a suction cup (Not needed but helpful).

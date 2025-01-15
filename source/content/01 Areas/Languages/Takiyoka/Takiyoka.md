@@ -52,7 +52,6 @@ Tichimisoko is the first alphabet of Takiyoka. It is a phonetic alphabet and was
 
 ## Alphabet 2 (Kitaru)
 
-
 |      | _a_                                               | _i_                                               | _u_                                               | _e_                                               | _o_                                               |
 | ---- | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
 | None | ![[01 Areas/Languages/Takiyoka/Kitaru/A.svg\|25]] | ![[01 Areas/Languages/Takiyoka/Kitaru/I.svg\|25]] | ![[01 Areas/Languages/Takiyoka/Kitaru/U.svg\|25]] | ![[01 Areas/Languages/Takiyoka/Kitaru/E.svg\|25]] | ![[01 Areas/Languages/Takiyoka/Kitaru/O.svg\|25]] |

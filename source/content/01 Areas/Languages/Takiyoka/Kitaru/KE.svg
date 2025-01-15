@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="41.500469"
-   height="41.500469"
-   viewBox="0 0 41.500469 41.500469"
+   width="40.758541"
+   height="44.951347"
+   viewBox="0 0 40.758541 44.951347"
    version="1.1"
    id="svg1"
    xmlns="http://www.w3.org/2000/svg"
@@ -14,23 +14,23 @@
   <g
      id="g25"
      style="display:inline"
-     transform="translate(-3.249765,-3.249765)">
+     transform="translate(-5.6207291,-1.5243443)">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.50047;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m 36,4 v 5.594119 c 0,7.956148 1.460385,21.215622 -1.108128,28.713312 C 33.548378,42.229198 30.576028,44 24,44"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.88461;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 36,4 v 20 c 0,20 0,20 -16,20"
        id="path23"
-       transform="translate(-4)" />
+       transform="matrix(1.0481922,0,0,1.0481922,-5.4457666,-1.1566134)" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.50047;stroke-linecap:round;stroke-linejoin:round"
-       d="m 20,4 c 0,12 24,0 24,12"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.02362;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 7.1325401,3.0361555 c 0,29.3493825 0,12.5783065 0,41.9276885"
+       id="path25" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.02362;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 19.710847,3.0361555 c 0,12.5783065 25.156613,0 25.156613,12.5783065"
        id="path24" />
     <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.50047;stroke-linecap:round;stroke-linejoin:round"
-       d="m 20,16 c 0,12 24,0 24,12"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.02362;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 19.710847,15.614462 c 0,12.578307 25.156613,0 25.156613,12.578307"
        id="path24-0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.50047;stroke-linecap:round;stroke-linejoin:round"
-       d="m 4,4 c 0,28 8,12 8,40"
-       id="path25" />
   </g>
 </svg>

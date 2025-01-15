@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="38.648575"
-   height="41.500469"
-   viewBox="0 0 38.648575 41.500469"
+   width="39.023621"
+   height="43.023663"
+   viewBox="0 0 39.023621 43.023663"
    version="1.1"
    id="svg1"
    xmlns="http://www.w3.org/2000/svg"
@@ -14,19 +14,19 @@
   <g
      id="layer2"
      style="display:inline"
-     transform="translate(-6.1016585,-3.249765)">
+     transform="translate(-6.488189,-2.488189)">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.50047;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m 36,4 v 5.594119 c 0,7.956148 1.460385,21.215622 -1.108128,28.713312 C 33.548378,42.229198 30.576028,44 24,44"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.02362;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 36,4 v 20 c 0,20 0,20 -16,20"
        id="path7"
        transform="translate(-4)" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.50047;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.02362;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
        d="m 20,4 c 0,12 24,0 24,12"
        id="path3" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.50047;stroke-linecap:round;stroke-linejoin:round"
-       d="M 8,4 C 12,24 4,24 8,44"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.02362;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="M 8,4 C 8,24 8,24 8,44"
        id="path9" />
   </g>
 </svg>

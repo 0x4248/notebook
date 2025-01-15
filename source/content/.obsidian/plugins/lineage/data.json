@@ -1,0 +1,27 @@
+{
+  "documents": {},
+  "hotkeys": {
+    "customHotkeys": {}
+  },
+  "view": {
+    "fontSize": 16,
+    "theme": {},
+    "cardWidth": 550,
+    "columnsGap": 150,
+    "cardsGap": 150,
+    "scrolling": {
+      "revealChildren": false,
+      "horizontalScrollingMode": "reveal-active-card"
+    },
+    "limitPreviewHeight": true,
+    "zoomLevel": 1,
+    "showMinimap": false,
+    "showLeftSidebar": false,
+    "leftSidebarWidth": 500,
+    "leftSidebarActiveTab": "pinned-cards",
+    "applyGapBetweenCards": false
+  },
+  "general": {
+    "defaultDocumentFormat": "sections"
+  }
+}

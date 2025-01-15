@@ -1,21 +1,18 @@
 [
-  "calendar",
-  "obsidian-excalidraw-plugin",
   "home-tab",
   "obsidian-icon-folder",
-  "obsidian-style-settings",
   "templater-obsidian",
-  "obsidian-image-toolkit",
-  "settings-search",
   "obsidian-completr",
   "obsidian-file-color",
   "obsidian-vault-statistics-plugin",
-  "obsidian-kanban",
-  "pdf-plus",
   "OA-file-hider",
   "github-copilot",
-  "3d-graph",
   "cmdr",
-  "tag-wrangler",
-  "mysnippets-plugin"
+  "lazy-plugins",
+  "obsidian-style-settings",
+  "advanced-canvas",
+  "lineage",
+  "image-converter",
+  "vault-explorer",
+  "vertical-tabs"
 ]

@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="42.125954"
-   height="40.879707"
-   viewBox="0 0 42.125954 40.879707"
+   width="43.023621"
+   height="43.027939"
+   viewBox="0 0 43.023621 43.027939"
    version="1.1"
    id="svg1"
    xmlns="http://www.w3.org/2000/svg"
@@ -14,10 +14,10 @@
   <g
      id="g16"
      style="display:inline"
-     transform="translate(-2.6242829,-3.9975372)">
+     transform="translate(-2.488189,-2.4881285)">
     <path
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.50047;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       d="M 44,20 C 44,20 8,24 4,16 1.0967386,10.193477 8.7296355,6.4941862 16.192463,4.9021267 20.437611,3.9965012 25.394543,7.2372676 27.09595,11.238677 36.74124,33.922691 39.70115,43.093089 28,44 15.125238,44.997873 8,40 8,32 8,24 24,24 44,24"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.02362;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 44,24 H 24 C 16,24 4,24 4,12 4,4 16,4 24,4 h 12 v 24 c 0,16 0,16 -32,16"
        id="path15" />
   </g>
 </svg>

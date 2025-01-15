@@ -1,0 +1,85 @@
+{
+  "dualConfigs": false,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 2,
+    "longDelaySeconds": 5,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": null,
+    "showDescriptions": true,
+    "plugins": {
+      "3d-graph": {
+        "startupType": "short"
+      },
+      "calendar": {
+        "startupType": "short"
+      },
+      "cmdr": {
+        "startupType": "instant"
+      },
+      "obsidian-completr": {
+        "startupType": "instant"
+      },
+      "obsidian-excalidraw-plugin": {
+        "startupType": "long"
+      },
+      "obsidian-file-color": {
+        "startupType": "instant"
+      },
+      "OA-file-hider": {
+        "startupType": "instant"
+      },
+      "github-copilot": {
+        "startupType": "instant"
+      },
+      "home-tab": {
+        "startupType": "instant"
+      },
+      "obsidian-icon-folder": {
+        "startupType": "instant"
+      },
+      "obsidian-image-toolkit": {
+        "startupType": "long"
+      },
+      "obsidian-kanban": {
+        "startupType": "long"
+      },
+      "mysnippets-plugin": {
+        "startupType": "short"
+      },
+      "pdf-plus": {
+        "startupType": "long"
+      },
+      "settings-search": {
+        "startupType": "long"
+      },
+      "obsidian-style-settings": {
+        "startupType": "instant"
+      },
+      "tag-wrangler": {
+        "startupType": "long"
+      },
+      "templater-obsidian": {
+        "startupType": "instant"
+      },
+      "obsidian-vault-statistics-plugin": {
+        "startupType": "instant"
+      },
+      "advanced-canvas": {
+        "startupType": "instant"
+      },
+      "image-converter": {
+        "startupType": "instant"
+      },
+      "lineage": {
+        "startupType": "instant"
+      },
+      "vault-explorer": {
+        "startupType": "instant"
+      },
+      "vertical-tabs": {
+        "startupType": "instant"
+      }
+    }
+  }
+}

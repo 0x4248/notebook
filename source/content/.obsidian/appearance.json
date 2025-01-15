@@ -6,7 +6,8 @@
   "monospaceFontFamily": "Source Code Pro",
   "enabledCssSnippets": [
     "tweaks",
-    "fonts"
+    "fonts",
+    "serif-overide"
   ],
   "translucency": false,
   "baseFontSize": 20
