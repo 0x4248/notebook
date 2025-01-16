@@ -6,9 +6,9 @@
   "monospaceFontFamily": "Source Code Pro",
   "enabledCssSnippets": [
     "tweaks",
-    "fonts",
-    "serif-overide"
+    "fonts"
   ],
   "translucency": false,
-  "baseFontSize": 20
+  "baseFontSize": 20,
+  "theme": "obsidian"
 }

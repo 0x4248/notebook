@@ -28,7 +28,7 @@ Here is a list of common words and phrases in Russian.
 | ---------- | ------------- | ------------------------------- |
 | Да         | Da            | Yes                             |
 | Нет        | Net           | No, Not and Nope                |
-| Может быть | Mozhet byt    | Maybe                           |
+| Может быть | Mozhet byt'   | Maybe                           |
 | Вероятно   | Veroyatno     | Probably, Likely and Apparently |
 
 ## Numbers

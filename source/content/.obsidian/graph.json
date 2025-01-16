@@ -5,18 +5,33 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Projects  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431497
+      }
+    },
+    {
+      "query": "tag:#Archive  ",
+      "color": {
+        "a": 1,
+        "rgb": 16496
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.30485121090823164,
+  "centerStrength": 0.431750886669053,
+  "repelStrength": 8.41961409559757,
+  "linkStrength": 0.845215240946214,
+  "linkDistance": 165,
+  "scale": 0.1335834133636077,
   "close": false
 }

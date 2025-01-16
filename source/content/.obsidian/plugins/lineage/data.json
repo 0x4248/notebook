@@ -1,17 +1,38 @@
 {
-  "documents": {},
+  "documents": {
+    "99 Private/I FUCKING HATE THIS EXAM!!!.md": {
+      "documentFormat": "sections",
+      "viewType": "lineage",
+      "activeSection": "2",
+      "pinnedSections": {
+        "sections": []
+      }
+    },
+    "00 Maps/index.md": {
+      "documentFormat": "sections",
+      "viewType": "lineage",
+      "activeSection": "1",
+      "pinnedSections": {
+        "sections": [],
+        "activeSection": null
+      }
+    }
+  },
   "hotkeys": {
     "customHotkeys": {}
   },
   "view": {
     "fontSize": 16,
-    "theme": {},
+    "theme": {
+      "containerBg": "#141414",
+      "activeBranchBg": "#2e2e2e"
+    },
     "cardWidth": 550,
     "columnsGap": 150,
     "cardsGap": 150,
     "scrolling": {
       "revealChildren": false,
-      "horizontalScrollingMode": "reveal-active-card"
+      "horizontalScrollingMode": "keep-active-card-at-center"
     },
     "limitPreviewHeight": true,
     "zoomLevel": 1,

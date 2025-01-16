@@ -16,7 +16,7 @@
     },
     "sort": {
       "isEnabled": true,
-      "value": "file-name-asc"
+      "value": "modified-desc"
     },
     "custom": {
       "isEnabled": true,
@@ -69,10 +69,10 @@
     }
   },
   "confirmBeforeDelete": true,
-  "currentView": "grid",
+  "currentView": "table",
   "titleWrapping": "normal",
   "enableClockUpdates": true,
-  "enableFileIcons": false,
+  "enableFileIcons": true,
   "loadBodyTags": true,
   "shouldCollapseFilters": false,
   "pageSize": 25,

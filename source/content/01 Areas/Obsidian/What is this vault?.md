@@ -40,7 +40,6 @@ Notes that can not be public. This could be due to copyright or other reasons.
 Obsidian plugins can help allot with using your vault. This vault uses several plugins that help me. 
 ### The "Must have" plugins
 These plugins are really useful, and ones I *highly* recommend.
-
 - Completr
 - Excalidraw
 - Templater

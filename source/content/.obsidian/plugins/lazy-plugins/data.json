@@ -79,6 +79,12 @@
       },
       "vertical-tabs": {
         "startupType": "instant"
+      },
+      "obsidian-tidy-footnotes": {
+        "startupType": "instant"
+      },
+      "darlal-switcher-plus": {
+        "startupType": "instant"
       }
     }
   }

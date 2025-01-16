@@ -1,6 +1,6 @@
 - [[Sign, mantissa and exponent]]
 - [[Negative Exponents]]
 - [[Negative Mantissas]]
-- [[Database normalisation]]
+- [[Normalisation]]
 - [[Floating Point Addition and Subtraction]]
 - [[Underflow and Overflow]]
