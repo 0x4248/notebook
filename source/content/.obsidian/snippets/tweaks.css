@@ -156,3 +156,7 @@ body :is(strong, b, .cm-strong) {
     margin-right: 10px;
     white-space: nowrap;
 }
+
+.inline-title{
+    display: none;
+}

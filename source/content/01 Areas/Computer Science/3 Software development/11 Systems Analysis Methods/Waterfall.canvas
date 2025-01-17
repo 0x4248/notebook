@@ -1,20 +1,128 @@
 {
-	"nodes":[
-		{"id":"08a1955ce84babd4","x":7,"y":120,"width":250,"height":60,"type":"text","text":"curl https://alx.sh | sh"},
-		{"id":"ee088db71780d3d4","type":"text","text":"# Design","x":-38,"y":40,"width":302,"height":60},
-		{"id":"38092a994e6fdc10","type":"text","text":"# Implementation","x":-18,"y":120,"width":296,"height":60},
-		{"id":"4d5ee62aac68e770","type":"text","text":"# Analyais","x":-58,"y":-40,"width":302,"height":60},
-		{"id":"f4239954ce1b96c5","type":"text","text":"# Evaluation","x":2,"y":200,"width":302,"height":60},
-		{"id":"6664cf163512dd0a","type":"text","text":"# Maintenance","x":20,"y":280,"width":302,"height":60}
-	],
-	"edges":[
-		{"id":"b3cc1a691c581626","fromNode":"ee088db71780d3d4","fromSide":"left","toNode":"4d5ee62aac68e770","toSide":"left"},
-		{"id":"f0f4b5da8312497c","fromNode":"4d5ee62aac68e770","fromSide":"right","toNode":"ee088db71780d3d4","toSide":"right"},
-		{"id":"f8138f8648261ffe","fromNode":"38092a994e6fdc10","fromSide":"left","toNode":"ee088db71780d3d4","toSide":"left"},
-		{"id":"5034f62a7f010d6c","fromNode":"ee088db71780d3d4","fromSide":"right","toNode":"38092a994e6fdc10","toSide":"right"},
-		{"id":"cc534301a1ac574b","fromNode":"f4239954ce1b96c5","fromSide":"left","toNode":"38092a994e6fdc10","toSide":"left"},
-		{"id":"3b0e02da09d370f4","fromNode":"38092a994e6fdc10","fromSide":"right","toNode":"f4239954ce1b96c5","toSide":"right"},
-		{"id":"4084f4777a6cdfe4","fromNode":"6664cf163512dd0a","fromSide":"left","toNode":"f4239954ce1b96c5","toSide":"left"},
-		{"id":"241480a7005e7fb4","fromNode":"f4239954ce1b96c5","fromSide":"right","toNode":"6664cf163512dd0a","toSide":"right"}
-	]
+  "edges": [
+    {
+      "fromNode": "ee088db71780d3d4",
+      "fromSide": "left",
+      "id": "b3cc1a691c581626",
+      "toNode": "4d5ee62aac68e770",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4d5ee62aac68e770",
+      "fromSide": "right",
+      "id": "f0f4b5da8312497c",
+      "toNode": "ee088db71780d3d4",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "38092a994e6fdc10",
+      "fromSide": "left",
+      "id": "f8138f8648261ffe",
+      "toNode": "ee088db71780d3d4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ee088db71780d3d4",
+      "fromSide": "right",
+      "id": "5034f62a7f010d6c",
+      "toNode": "38092a994e6fdc10",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "f4239954ce1b96c5",
+      "fromSide": "left",
+      "id": "cc534301a1ac574b",
+      "toNode": "38092a994e6fdc10",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "38092a994e6fdc10",
+      "fromSide": "right",
+      "id": "3b0e02da09d370f4",
+      "toNode": "f4239954ce1b96c5",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "6664cf163512dd0a",
+      "fromSide": "left",
+      "id": "4084f4777a6cdfe4",
+      "toNode": "f4239954ce1b96c5",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f4239954ce1b96c5",
+      "fromSide": "right",
+      "id": "241480a7005e7fb4",
+      "toNode": "6664cf163512dd0a",
+      "toSide": "right"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "08a1955ce84babd4",
+      "styleAttributes": {
+      },
+      "text": "curl https://alx.sh | sh",
+      "type": "text",
+      "width": 250,
+      "x": 7,
+      "y": 120
+    },
+    {
+      "height": 60,
+      "id": "ee088db71780d3d4",
+      "styleAttributes": {
+      },
+      "text": "# Design",
+      "type": "text",
+      "width": 302,
+      "x": -38,
+      "y": 40
+    },
+    {
+      "height": 60,
+      "id": "38092a994e6fdc10",
+      "styleAttributes": {
+      },
+      "text": "# Implementation",
+      "type": "text",
+      "width": 296,
+      "x": -18,
+      "y": 120
+    },
+    {
+      "height": 60,
+      "id": "4d5ee62aac68e770",
+      "styleAttributes": {
+      },
+      "text": "# Analyais",
+      "type": "text",
+      "width": 302,
+      "x": -58,
+      "y": -40
+    },
+    {
+      "height": 60,
+      "id": "f4239954ce1b96c5",
+      "styleAttributes": {
+      },
+      "text": "# Evaluation",
+      "type": "text",
+      "width": 302,
+      "x": 2,
+      "y": 200
+    },
+    {
+      "height": 60,
+      "id": "6664cf163512dd0a",
+      "styleAttributes": {
+      },
+      "text": "# Maintenance",
+      "type": "text",
+      "width": 302,
+      "x": 20,
+      "y": 280
+    }
+  ]
 }

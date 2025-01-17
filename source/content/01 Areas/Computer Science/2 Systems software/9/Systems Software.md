@@ -10,6 +10,7 @@ cssclasses:
 # Systems Software
 ***
 System software is the software needed to run the computers hardware. This includes the:
-- Operating systemUtility programs
+- Operating system
+- Utility programs
 - Libraries
 - Programming language translators
