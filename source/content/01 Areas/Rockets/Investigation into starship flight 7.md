@@ -31,7 +31,7 @@ A part off starship begins to peel off which becomes more clear at `T+ 00:00:47`
 *Source: SpaceX livestream on X*
 ### T+ 00:01:14
 A visual confirmation by the SpaceX stream showed all engines on the booster were lit.
-![[Screenshot 2025-01-17 at 8.09.22 AM.webp|300]]
+![[Starship-flight-7-first-and-second-stage.webp|300]]
 *Source: SpaceX livestream on X*
 ### T+ 00:03:00
 MECO and hot staging was successful and both the booster and ship were on a nominal trajectory.
@@ -39,11 +39,11 @@ MECO and hot staging was successful and both the booster and ship were on a nomi
 One engine went out on starship during relight.
 ### T+ 00:06:28 - T+ 00:06:33
 Landing burn was successful and starship landed on the tower.
-![[Screenshot 2025-01-17 at 9.10.41 AM.webp|200]]![[Screenshot 2025-01-17 at 9.10.58 AM.webp|200]]
+![[Starship-flight-7-booster-reentery.webp|200]]![[Starship-flight-7-booster-landing.webp|241]]
 
 ### T+ 00:07:54
 The stream goes back to starship briefly showing visible orange glows from one of the actuators.
 
-![[Screenshot 2025-01-17 at 9.23.50 AM.webp|200]]![[Screenshot 2025-01-17 at 9.23.57 AM.webp|200]]
+![[Starship-flight-7-starship-fire.webp|200]]![[Starship-flight-7-starship-before.webp|224]]
 ### T+ 00:08:25
 Engines went out one by one and communications to starship was lost.

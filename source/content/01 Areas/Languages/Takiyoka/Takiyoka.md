@@ -10,7 +10,9 @@ cssclasses:
 ***
 >[!warning]+ WIP
 > This page "Takiyoka" is a work in progress.
-> 
+>
+> To follow progress on this [[Takiyoka project progress]]
+>  
 > *Date added: 2025-01-16*
 
 ![[Takiyoka logo.png|300]]
