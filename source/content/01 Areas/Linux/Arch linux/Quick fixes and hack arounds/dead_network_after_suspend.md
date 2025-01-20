@@ -3,7 +3,12 @@
 ***
 
 If you are experiencing a dead network after suspending your laptop, you can try the following:
-
+WIRELESS_CARD=$(ip link | grep wlp | cut -d: -f2 | tr -d ' ')
+SSID=$(iwctl station $WIRELESS_CARD show | grep SSID | cut -d: -f2 | tr -d ' ')
+sudo modprobe -r iwlmvm iwlwifi 
+sudo modprobe iwlmvm iwlwifi
+sudo systemctl restart NetworkManager
+iwctl station $WIRELESS_CARD connect $SSID
 ## Reloading kernel module
 
 ```bash

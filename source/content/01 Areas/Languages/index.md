@@ -19,13 +19,13 @@ Before reading this section you might encounter some problems with rendering the
 
 Here is some render tests for different writing systems (Russian, Greek, Japanese, and Korean):
 
-<p style="font-size:xx-large;text-align:center;margin:0;">Тест шрифта</p>
+<p style="font-size:xx-large;text-align:center;margin:2px;">Тест шрифта</p>
 
-<p style="font-size:xx-large;text-align:center;margin:0;">Δοκιμή γραμματοσειράς</p>
+<p style="font-size:xx-large;text-align:center;margin:2px;">Δοκιμή γραμματοσειράς</p>
 
-<p style="font-size:xx-large;text-align:center;margin:0;">フォントテスト</p>
+<p style="font-size:xx-large;text-align:center;margin:2px;">フォントテスト</p>
 
-<p style="font-size:xx-large;text-align:center;margin:0;">글꼴 테스트</p>
+<p style="font-size:xx-large;text-align:center;margin:2px;">글꼴 테스트</p>
 
 ## Languages
 - [[Russian alphabet|Russian]]
@@ -34,3 +34,4 @@ Here is some render tests for different writing systems (Russian, Greek, Japanes
 
 **Conlangs I have made**
 - [[Takiyoka]]
+- [[Aurlian]]

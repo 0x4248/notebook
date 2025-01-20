@@ -8,5 +8,6 @@
   "vimMode": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "promptDelete": false
 }
