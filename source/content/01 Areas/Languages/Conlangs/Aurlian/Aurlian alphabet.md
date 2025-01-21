@@ -8,7 +8,7 @@ cssclasses:
   - rounded-images
 ---
 # Aurlian alphabet
-# Аурлиан алфябета
+<p style="font-size:xx-large;text-align:center;margin:0;font-family:sanserif;">Тzек алфйабйет ачрлиан</p>
 
 ***
 
@@ -50,7 +50,7 @@ Over the language certain letters were replaced with new letters such as letters
 | ------ | ------- | ----------------------------------------------------------------------- |
 | Δ      | D       | Lowercase had lower readability when next to lowercase S                |
 | Ŧ      | F       | Replaced in alphabet redo                                               |
-| Ꙡ      | J       | Replaced in alphabet redo                                               |
+| Ꙡ      | J       | Replaced in alphabet redo and old Cyrillic removal.                     |
 | Ꙣ      | Q or La | Replaced in alphabet redo and old Cyrillic removal.                     |
 | Ω      | Om      | Replaced in alphabet redo and also dropped on the Greek letter removal. |
 | R      | Re      | Replaced in alphabet redo                                               |
@@ -58,5 +58,24 @@ Over the language certain letters were replaced with new letters such as letters
 | Ξ      | Ex      | Replaced in alphabet redo and also dropped on the Greek letter removal. |
 | N      | Nu      | Replaced in alphabet redo                                               |
 | Æ      | Ax      | Replaced in alphabet redo                                               |
-| Ꙗ      | La      |                                                                         |
-|        |         |                                                                         |
+| Ꙗ      | La      | Replaced in alphabet redo and old Cyrillic removal.                     |
+| Ꙙ      | Da      | Replaced in alphabet redo and old Cyrillic removal.                     |
+| Ꙥ      | Ar      | Replaced in alphabet redo and old Cyrillic removal.                     |
+| Ѧ      | Ta<br>  | Replaced in alphabet redo and old Cyrillic removal.                     |
+| Ҥ      | Th      | Replaced in alphabet redo and old Cyrillic removal.                     |
+## Dropped diacritics
+Aurlian used to have diacritics to merge one letter with another. Below is an example:
+![[Aurlian letter extentions.svg|460]]
+
+These were called letter extensions and were used to merge two letters into one. These were dropped due to problems with readability on certain fonts especially with greek letters.
+
+### Markings 
+
+>[!warning]+ Rendering problem
+> There may be a rendering problem whist viewing this page due to special unicode characters used below.
+
+| Letter | Symbol name | Meaning                                                                  |
+| ------ | ----------- | ------------------------------------------------------------------------ |
+| ◌      | Tah         | Used with a t like in wh**at** the a would have a line on top<br><br>ШHĀ |
+| ◌̌     | Ka          | Used with a k like in b**ik**e <br><br>**Example:** BǏE                  |
+| ◌᷉     | Na          | Used with a n like in b**an**d <br><br>**Example:** B᷉ND                 |

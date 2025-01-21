@@ -1,1 +1,1 @@
-<p style="font-size:xx-large;text-align:center;margin:0;font-family:sans;">Aa</p>
+<p style="font-size:xx-large;text-align:center;margin:0;font-family:sanserif;">Aa</p>
