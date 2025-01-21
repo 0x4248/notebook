@@ -1,4 +1,18 @@
-The [[Aurlian]] alphabet consists of 
+---
+tags:
+  - Languages/Aurlian
+date: 2025-01-21
+cssclasses:
+  - neo-headings
+  - bai-headings
+  - rounded-images
+---
+# Aurlian alphabet
+# Аурлиан алфябета
+
+***
+
+The [[Aurlian]] alphabet consists of 27 characters. Aurlian has also gone over several revisions of its alphabet in its early days. 
 
 | Eng | C   | L   | Name | Native name |
 | --- | --- | --- | ---- | ----------- |
@@ -29,3 +43,20 @@ The [[Aurlian]] alphabet consists of
 | Y   | У   | у   | Yu   | Уч          |
 | Z   | Z   | z   | Za   | Zа          |
 | O   | Ø   | ø   | Oche | Пcйе        |
+## Dropped letters
+Over the language certain letters were replaced with new letters such as letters that reduced readability. These include some [[Greek alphabet]] letters and old Cyrillic letters. Most of the alphabet uses the [[Russian alphabet]] and a few [[Greek alphabet]] letters.
+
+| Letter | Eng     | Reason for drop                                                         |
+| ------ | ------- | ----------------------------------------------------------------------- |
+| Δ      | D       | Lowercase had lower readability when next to lowercase S                |
+| Ŧ      | F       | Replaced in alphabet redo                                               |
+| Ꙡ      | J       | Replaced in alphabet redo                                               |
+| Ꙣ      | Q or La | Replaced in alphabet redo and old Cyrillic removal.                     |
+| Ω      | Om      | Replaced in alphabet redo and also dropped on the Greek letter removal. |
+| R      | Re      | Replaced in alphabet redo                                               |
+| ℧      | Mo      | Replaced in alphabet redo and also dropped on the Greek letter removal. |
+| Ξ      | Ex      | Replaced in alphabet redo and also dropped on the Greek letter removal. |
+| N      | Nu      | Replaced in alphabet redo                                               |
+| Æ      | Ax      | Replaced in alphabet redo                                               |
+| Ꙗ      | La      |                                                                         |
+|        |         |                                                                         |

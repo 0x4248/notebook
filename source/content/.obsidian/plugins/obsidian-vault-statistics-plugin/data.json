@@ -1,9 +1,9 @@
 {
   "displayIndividualItems": true,
-  "showNotes": true,
+  "showNotes": false,
   "showAttachments": false,
   "showFiles": false,
-  "showLinks": true,
+  "showLinks": false,
   "showWords": true,
   "showSize": true
 }

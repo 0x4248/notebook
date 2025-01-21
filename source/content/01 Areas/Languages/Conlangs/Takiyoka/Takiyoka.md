@@ -22,48 +22,9 @@ Takiyoka is a language inspired by Korean, Japanese and other languages alike. T
 ## Alphabet
 
 ### Alphabet 1 (`Tichimisoko`)
-Tichimisoko is the first alphabet of Takiyoka. It is a phonetic alphabet and was designed so every word in latin script can be written in Tichimisoko. The alphabet has 25 letters and is written from left to right.
-
-![[T.svg|45]] ![[01 Areas/Languages/Conlangs/Takiyoka/Tichimisoko/I.svg|52]] ![[C.svg|45]] ![[01 Areas/Languages/Conlangs/Takiyoka/Tichimisoko/I.svg|52]] ![[M.svg|45]] ![[01 Areas/Languages/Conlangs/Takiyoka/Tichimisoko/I.svg|52]] ![[S.svg|45]] ![[01 Areas/Languages/Conlangs/Takiyoka/Tichimisoko/O.svg|45]] ![[K.svg|45]] ![[01 Areas/Languages/Conlangs/Takiyoka/Tichimisoko/O.svg|45]]
-*Tichimisoko written in the alphabet*
-
-![[TI.svg]] ![[C.svg]] ![[H.svg]] ![[M.svg]] ![[01 Areas/Languages/Conlangs/Takiyoka/Kitaru/I.svg]] ![[S.svg]] ![[01 Areas/Languages/Conlangs/Takiyoka/Kitaru/O.svg]] ![[KO.svg]]
-
-|                             Letter                              | Transliteration |
-| :-------------------------------------------------------------: | --------------- |
-| ![[01 Areas/Languages/Conlangs/Takiyoka/Tichimisoko/A.svg\|25]] | a               |
-|                         ![[B.svg\|25]]                          | b               |
-|                         ![[C.svg\|25]]                          | c               |
-|                         ![[D.svg\|25]]                          | d               |
-| ![[01 Areas/Languages/Conlangs/Takiyoka/Tichimisoko/E.svg\|25]] | e               |
-|                         ![[F.svg\|25]]                          | f               |
-|                         ![[G.svg\|25]]                          | g               |
-|                         ![[H.svg\|25]]                          | h               |
-| ![[01 Areas/Languages/Conlangs/Takiyoka/Tichimisoko/I.svg\|25]] | i               |
-|                         ![[J.svg\|25]]                          | j               |
-|                         ![[K.svg\|25]]                          | k               |
-|                         ![[L.svg\|25]]                          | l               |
-|                         ![[M.svg\|25]]                          | m               |
-|                         ![[N.svg\|25]]                          | n               |
-| ![[01 Areas/Languages/Conlangs/Takiyoka/Tichimisoko/O.svg\|25]] | o               |
-|                         ![[P.svg\|25]]                          | p               |
-|                         ![[Q.svg\|25]]                          | q               |
-|                         ![[R.svg\|25]]                          | r               |
-|                         ![[S.svg\|25]]                          | s               |
-|                         ![[T.svg\|25]]                          | t               |
-| ![[01 Areas/Languages/Conlangs/Takiyoka/Tichimisoko/U.svg\|25]] | u               |
-|                         ![[V.svg\|25]]                          | v               |
-|                         ![[W.svg\|25]]                          | w               |
-|                         ![[X.svg\|25]]                          | x               |
-|                         ![[Y.svg\|25]]                          | y               |
-|                         ![[Z.svg\|25]]                          | z               |
-
-
+    
 ## Alphabet 2 (`Kitaru`)
 
-![[KI.svg]] ![[TA.svg]] ![[RU.svg]]
-
-![[KE.svg]] ![[01 Areas/Languages/Conlangs/Takiyoka/Kitaru/E.svg]] ![[01 Areas/Languages/Conlangs/Takiyoka/Kitaru/O.svg]]
 
 |      | a                                                          | e                                                          | i                                                          | o                                                          | u                                                          |
 | ---- | ---------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |

@@ -11,4 +11,4 @@ cssclasses:
 # index
 
 ***
-Blender is one of my favorite programs. This part of my vault shows some of my obsidian work and notes.
+Blender is one of my favourite programs. This part of my vault shows some of my obsidian work and notes.

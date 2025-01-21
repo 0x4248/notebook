@@ -7,7 +7,7 @@ cssclasses:
   - bai-headings
   - rounded-images
 ---
-# Investigation into starship flight 7
+# Investigation into Starship flight 7
 
 ***
 >[!warning]+ Non free content
@@ -17,7 +17,7 @@ cssclasses:
 > 
 > *Date added: 2025-01-17*
 
-Starship flight 7 was launched on 16/02/2025 and was to test starships payload function and attempt to catch the booster for the second time.
+Starship flight 7 was launched on 16/02/2025 and was to test Starship's payload function and attempt to catch the booster for the second time.
 ![[Flight 7 Path.png]]
 ## Events
 ### T+ 00:00:00
