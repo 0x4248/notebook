@@ -10,7 +10,7 @@ cssclasses:
 
 ***
 ## 22-01-2025
-German is added in the language folder
+German is added in the language folder and introduced [[File properties]].
 ## 09-01-2025
 Korean is added in the language folder
 ## 08-01-2025
