@@ -12,3 +12,7 @@ cssclasses:
 
 ***
 Blender is one of my favourite programs. This part of my vault shows some of my obsidian work and notes.
+## Galleries 
+
+![[2024 Gallery]]
+ 

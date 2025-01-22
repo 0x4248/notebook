@@ -17,6 +17,9 @@ Here is all the Russian letters in order:
 
 <p style="font-size:xx-large;text-align:center;margin:0;">АБВГДЕЖЗИЙКЛМНОРСТУФХЦЧШЩЪЫЬЭЮЯ</p>
 
+Vowels: `А, Е, Ё, И, О, У, Ы, Э, Ю, Я`
+Consonants: `Б, В, Г, Д, Ж, З, Й, К, Л, М, Н, П, Р, С, Т, Ф, Х, Ц, Ч, Ш, Щ`
+
 To show this more in detail here is a table:
 
 | Letter upper | Letter lower | Pronunciation/Common transliteration |
@@ -52,7 +55,7 @@ To show this more in detail here is a table:
 | Э            | э            | e                                    |
 | Ю            | ю            | yu, ju                               |
 | Я            | я            | ya, ja                               |
-## Similar letters
+## Similar letters from other languages
 Russian is a language that has the Greek alphabet as the parent system. This means there are some words that are very similar. *Such as the letter D* (In these examples the Russian letter is on the left and the Greek is on the right)
 <p style="font-size:xx-large;text-align:center;margin:0;"><span>Дд</span> <span>Δδ</span></p>
 

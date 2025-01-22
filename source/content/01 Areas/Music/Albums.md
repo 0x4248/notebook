@@ -9,6 +9,18 @@ cssclasses:
 ---
 # Albums
 ***
+>[!warning]+ Non free content
+> This page "Albums" contains non free content or content that is copyrighted. 
+> The used content here is solely for reference and educational purposes.
+> 
+> Sources of album covers:
+> - Wikipedia
+> - Genius
+> 
+> Please see [this page by the UK government for more information](https://www.gov.uk/guidance/exceptions-to-copyright#non-commercial-research-and-private-study)
+> 
+> *Date added: 2025-01-22*
+
 This file contains all my favorite albums.
 
 | Cover                                                                                                                                      | Name                    | Artist                       | Genre                                  | Year |

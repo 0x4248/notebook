@@ -11,7 +11,6 @@ cssclasses:
 <p style="font-size:xx-large;text-align:center;margin:0;font-family:sanserif;">Тzек алфйабйет ачрлиан</p>
 
 ***
-
 The [[Aurlian]] alphabet consists of 27 characters. Aurlian has also gone over several revisions of its alphabet in its early days. 
 
 | Eng | C   | L   | Name | Native name |
@@ -65,6 +64,7 @@ Over the language certain letters were replaced with new letters such as letters
 | Ҥ      | Th      | Replaced in alphabet redo and old Cyrillic removal.                     |
 ## Dropped diacritics
 Aurlian used to have diacritics to merge one letter with another. Below is an example:
+
 ![[Aurlian letter extentions.svg|460]]
 
 These were called letter extensions and were used to merge two letters into one. These were dropped due to problems with readability on certain fonts especially with greek letters.
