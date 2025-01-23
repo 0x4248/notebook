@@ -1,16 +1,3 @@
 .DS_Store
 source/content/99 Private/
-source/content/.obsidian/plugins/home-tab/data.json
-source/content/.obsidian/workspace.json
-source/content/.obsidian/plugins/obsidian-completr/scanned_words.txt
-source/content/.obsidian/plugins/github-copilot/data.json
-source/content/.obsidian/plugins/github-copilot/main.js
-source/content/.obsidian/plugins/github-copilot/manifest.json
-source/content/.obsidian/plugins/github-copilot/styles.css
-source/content/.obsidian/plugins/github-copilot/copilot-1.0.11/agent.cjs
-source/content/.obsidian/plugins/github-copilot/copilot-1.0.11/resources/cl100k_base.tiktoken
-source/content/.obsidian/plugins/github-copilot/copilot-1.0.11/resources/cl100k_base.tiktoken.noindex
-source/content/.obsidian/plugins/github-copilot/copilot-1.0.11/resources/o200k_base.tiktoken
-source/content/.obsidian/plugins/github-copilot/copilot-1.0.11/resources/o200k_base.tiktoken.noindex
-source/content/.obsidian/plugins/obsidian-completr/blacklisted_suggestions.txt
-source/content/.obsidian/graph.json
+source/content/.obsidian/
