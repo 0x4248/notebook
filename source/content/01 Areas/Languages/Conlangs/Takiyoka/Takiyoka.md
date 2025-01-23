@@ -17,11 +17,17 @@ cssclasses:
 
 ![[Takiyoka logo.png|300]]
 
+![[TA.svg]] ![[KI.svg]] ![[YO.svg]] ![[KA.svg]]
+
+![[T.svg]] ![[01 Areas/Languages/Conlangs/Takiyoka/Tichimisoko/A.svg]] ![[K.svg]] ![[01 Areas/Languages/Conlangs/Takiyoka/Tichimisoko/I.svg]] ![[Y.svg]] ![[01 Areas/Languages/Conlangs/Takiyoka/Tichimisoko/O.svg]] ![[K.svg]] ![[01 Areas/Languages/Conlangs/Takiyoka/Tichimisoko/A.svg]] 
+
 Takiyoka is a language inspired by Korean, Japanese and other languages alike. Takiyoka is a conlang, meaning it is a constructed language and is not a natural language.
 
 ## Alphabet
-
 ### Alphabet 1 (`Tichimisoko`)
-    
+![[Tichimisoko]]
 ## Alphabet 2 (`Kitaru`)
 ![[Kitaru]]
+
+## Words
+![[Takiyoka phrasebook]]

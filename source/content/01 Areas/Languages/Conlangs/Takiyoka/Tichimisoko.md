@@ -11,6 +11,13 @@ cssclasses:
 ***
 **Tichimisoko** is the first alphabet of Takiyoka. It is a phonetic alphabet and was designed so every word in Latin script can be written in Tichimisoko. The alphabet has 26 letters and is written from left to right.
 
+**Tichimisoko using several alphabets**
+
+![[TI.svg]] ![[C.svg]] ![[H.svg]] ![[I.svg]] ![[M.svg]] ![[I.svg]] ![[S.svg]] ![[O.svg]] ![[K.svg]] ![[O.svg]] ![[A.svg]]
+
+**Tichimisoko using tichimisoko**
+
+![[T.svg]] ![[01 Areas/Languages/Conlangs/Takiyoka/Tichimisoko/I.svg]] ![[C.svg]] ![[H.svg]] ![[01 Areas/Languages/Conlangs/Takiyoka/Tichimisoko/I.svg]] ![[M.svg]] ![[01 Areas/Languages/Conlangs/Takiyoka/Tichimisoko/I.svg]] ![[S.svg]] ![[01 Areas/Languages/Conlangs/Takiyoka/Tichimisoko/O.svg]] ![[K.svg]] ![[01 Areas/Languages/Conlangs/Takiyoka/Tichimisoko/O.svg]] ![[01 Areas/Languages/Conlangs/Takiyoka/Tichimisoko/A.svg]]
 ## Letter Stacking
 Letters can be stacked like in Korean.
 

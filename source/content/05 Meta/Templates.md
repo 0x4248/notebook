@@ -10,7 +10,8 @@ lang:
   - en
 properties-ver: "1.0"
 ---
-## Contents
+# Contents of templates
+***
 
 ## ! Templates
 "!" templates are pinned to the top of the template list. 
@@ -26,7 +27,7 @@ Block templates are large blocks of content that are used to create the main str
 - [[BLOCK_TOPIC]]
 
 ## Element templates
-Elements can be used troughout the page.
+Elements can be used throughout the page.
 - [[ELEMENT_IP]]
 - [[ELEMENT_LETTER_BLOCK]]
 - [[ELEMENT_LETTER_BLOCK_SANS]]

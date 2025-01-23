@@ -1,8 +1,0 @@
-front-matter
-ABC
-NAN
-NAND
-Mark
-Markdown
-Markus
-DAY

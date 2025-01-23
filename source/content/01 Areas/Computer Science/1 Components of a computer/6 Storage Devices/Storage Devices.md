@@ -1,0 +1,5 @@
+- [[Secondary Storage]]
+- [[Hard Disk]]
+- [[Optical]]
+- [[Solid State]]
+- [[RAM and ROM]]

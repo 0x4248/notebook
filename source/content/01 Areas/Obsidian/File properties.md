@@ -33,6 +33,7 @@ Base file:
 | date           | Date | Date the page was created                   |
 | properties-ver | Text | The version of the obsidian file properties |
 | stub           | Bool | Marks wether a page is a stub               |
+| aliases        | List | Other names                                 |
 ## Versions
 ### 1.0
 The first proper version where obsidian file properties were documented and versioned.

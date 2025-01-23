@@ -14,9 +14,9 @@ Main note: [[Takiyoka]]
 
 - [ ] Alphabets
     - [x] Tichimisoko [^1]
-    - [ ] Kitaru
+    - [ ] [[Kitaru]]
     - [ ] Others
 - [ ] Basic words
 - [ ] Grammar
 
-[^1]: To be redone since the original SVG file was lost
+[^1]: ~~To be redone since the original SVG file was lost~~
