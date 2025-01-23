@@ -3,7 +3,6 @@ tags:
   - Radios
 date: 2025-01-23
 aliases:
-  - index
   - radios
 cssclasses:
   - neo-headings
