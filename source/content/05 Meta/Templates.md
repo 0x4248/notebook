@@ -22,12 +22,14 @@ properties-ver: "1.0"
 Block templates are large blocks of content that are used to create the main structure of a page. 
 - [[BLOCK_FOOT]]
 - [[BLOCK_MAIN_FULL]]
+- [[BLOCK_MAIN_NO_TITLE]]
 - [[BLOCK_REF]]
 - [[BLOCK_SEE_ALSO]]
 - [[BLOCK_TOPIC]]
 
 ## Element templates
 Elements can be used throughout the page.
+- [[ELEMENT_H1_CENTER]]
 - [[ELEMENT_IP]]
 - [[ELEMENT_LETTER_BLOCK]]
 - [[ELEMENT_LETTER_BLOCK_SANS]]

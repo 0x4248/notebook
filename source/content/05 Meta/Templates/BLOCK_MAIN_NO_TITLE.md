@@ -11,6 +11,3 @@ lang:
   - en
 properties-ver: "1.1"
 ---
-# <% tp.file.title %>
-
-***

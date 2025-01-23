@@ -23,6 +23,7 @@ Base file:
 - cssclasses - css classes
 - lang - The language of the document
 - properties-ver - Version of obsidian file properties
+- aliases - Other names and the lowercase title
 
 
 ## All properties
@@ -33,8 +34,10 @@ Base file:
 | date           | Date | Date the page was created                   |
 | properties-ver | Text | The version of the obsidian file properties |
 | stub           | Bool | Marks wether a page is a stub               |
-| aliases        | List | Other names                                 |
+| aliases        | List | Other names and the lowercase title         |
 ## Versions
+### 1.1
+Lowercase title requirement added to aliases to help with linking notes within sentences.
 ### 1.0
 The first proper version where obsidian file properties were documented and versioned.
 

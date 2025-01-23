@@ -1,6 +1,6 @@
 ---
 tags:
-  - fleeting
+  - Fleeting
 date: 2024-11-16
 cssclasses:
   - neo-headings

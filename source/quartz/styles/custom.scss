@@ -52,6 +52,40 @@ article {
   }
 }
 
+code {
+  background-color: none;
+  border: 1.5px solid var(--lightgray);
+}
+
+.footnotes {
+  border-top: none;
+}
+
+#footnote-label {
+  display:none;
+  margin-top:none;
+}
+
+a.internal.tag-link {
+  border-radius: 4px;
+  margin: 0 .1rem;
+  padding: 0rem .4rem;
+  border: 1.5px solid var(--lightgray);
+  background: none;
+  font-family: var(--codeFont);
+  color: var(--bodyFont);
+}
+
+td {
+  border: 1px solid var(--lightgray);
+}
+
+th {
+  border: 1px solid var(--lightgray);
+  color: var(--dark);
+}
+
+
 /* X42 Tweaks */
 
 .X42-vtext-container {

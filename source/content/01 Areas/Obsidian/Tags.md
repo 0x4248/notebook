@@ -26,5 +26,5 @@ In this vault I use tags to organise what notes are related to what category.
 - #Radios 
 - #Rockets 
 - #Trains 
-- #fleeting 
+- #Fleeting 
 - #Projects 

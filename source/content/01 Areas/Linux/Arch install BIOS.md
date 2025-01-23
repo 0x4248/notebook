@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - Linux/Arch_Linux
 date: 2024-10-18
 cssclasses:
   - neo-headings

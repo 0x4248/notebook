@@ -1,7 +1,7 @@
 ---
 tags:
   - Rust
-  - fleeting
+  - Fleeting
 date: 2024-06-09
 cssclasses:
   - neo-headings

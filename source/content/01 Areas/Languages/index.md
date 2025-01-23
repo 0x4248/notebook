@@ -6,6 +6,9 @@ cssclasses:
   - neo-headings
   - bai-headings
   - rounded-images
+aliases:
+  - languages
+  - lang
 ---
 # Languages folder
 
@@ -31,6 +34,7 @@ Here is some render tests for different writing systems (Russian, Greek, Japanes
 - [[Russian alphabet|Russian]]
 - [[Greek alphabet|Greek]]
 - [[Hiragana|Japanese Hiragana]]
+- [[German alphabet|German]]
 
 **Conlangs I have made**
 - [[Takiyoka]]

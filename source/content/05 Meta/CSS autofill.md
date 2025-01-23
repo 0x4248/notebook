@@ -16,5 +16,7 @@ cssclasses:
   - kode-headings
   - sriracha-headings
   - bai-headings
+tags:
+  - Meta
 ---
 This is so that CSS autofill works.

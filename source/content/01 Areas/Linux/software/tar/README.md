@@ -1,4 +1,13 @@
+---
+outdated: true
+---
 # Tar
+
+>[!warning]+ Outdated page
+> This page "README" was imported and needs updating.
+> 
+> *Date added: 2025-01-23*
+
 
 **T**ape **ar**chive is a file format used to archive folders.
 
