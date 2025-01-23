@@ -18,5 +18,3 @@ Main note: [[Takiyoka]]
     - [ ] Others
 - [ ] Basic words
 - [ ] Grammar
-
-[^1]: ~~To be redone since the original SVG file was lost~~
