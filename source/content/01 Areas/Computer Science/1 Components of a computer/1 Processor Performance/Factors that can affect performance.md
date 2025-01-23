@@ -27,4 +27,4 @@ There are different levels of cache.
 - Level 2 - Fairly fast but larger
 - Level 3 - Some CPU's have this
 ## Pipelining
-Pipelining allows for the CPU to fetch the next instruction whilst executing the current instruction.
+Pipelining allows for the CPU to fetch the next instruction whilst executing the current instruction. This intern makes the CPU more quicker since the wait to get the next instruction and decode it will be shorter.
