@@ -9,6 +9,8 @@ cssclasses:
 # Change logs
 
 ***
+## 23-01-2025
+CSS updates to the website and updates to [[File properties]].
 ## 22-01-2025
 German is added in the language folder and introduced [[File properties]].
 ## 09-01-2025
