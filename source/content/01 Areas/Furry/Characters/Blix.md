@@ -1,6 +1,7 @@
 ---
 tags:
   - Furry
+  - Art
 date: 2025-01-23
 cssclasses:
   - neo-headings

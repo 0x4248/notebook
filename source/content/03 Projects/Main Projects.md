@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - Projects
 date: 2025-01-02
 cssclasses:
   - neo-headings

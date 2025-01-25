@@ -1,4 +1,12 @@
+---
+outdated: true
+---
 # Stdio
+
+>[!warning]+ Outdated page
+> This page "stdio" needs updating and may not be accurate or have missing information.
+> 
+> *Date added: 2025-01-24*
 
 The `stdio.h` header gives C standard input and output library functions. It is used to perform input and output operations in C programming language. 
 

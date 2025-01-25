@@ -6,7 +6,7 @@ cssclasses:
   - bai-headings
 ---
 # Flowcharts
-<p class="center" style="margin:0;color:gray;">A way of visually representing an algorithm</p>
+<p class="text-center" style="margin:0;color:gray;">A way of visually representing an algorithm</p>
 
 ***
 In computer science a **flowchart** is a visual diagram that shows the data flow and logic a computer system. A flowchart will show the start and end, inputs, outputs and steps that are taken to complete a task. A flowcharts are used commonly in computer science to help analyse, design and document how a system works.

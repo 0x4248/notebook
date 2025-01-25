@@ -10,4 +10,4 @@ cssclasses:
 # About this folder
 
 ***
-**The fleeting folder** is designed to contain short notes and ideas of things that I found somewhere else. These notes may be turned into a loner version in the Areas folder
+**The fleeting folder** is designed to contain short notes and ideas of things that I found somewhere else. These notes may be turned into a longer version in the Areas folder

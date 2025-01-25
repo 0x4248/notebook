@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - Hardware
 date: 2025-01-01
 cssclasses:
   - neo-headings
