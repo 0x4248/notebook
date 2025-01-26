@@ -20,4 +20,4 @@ The Harvard architecture physically separates the busses into data and instructi
 | Used in most computers                      | Used in digital signal processing and in embedded systems |
 | Data and instructions share the same memory | Data and instructions are held in separate memory.        |
 | One bus is used                             | Separate busses are used                                  |
-| Programs can be optimised                   | Programs                                                  |
+| Programs can be optimised                   | Programs are larger                                       |
