@@ -18,9 +18,7 @@ An operating system is software that manages the operations on a computer.
 - Processor scheduling
 - Backing store management
 - Management of all inputs and outputs
-
-<span class="anim">OEIFHUHEFIUHEHF</span>
-
+- File management
 ### Memory management
 Memory management in an operating system allows for memory to be allocated efficiently  
 ### Interrupts
