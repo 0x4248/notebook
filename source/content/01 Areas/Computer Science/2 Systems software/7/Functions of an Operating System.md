@@ -21,6 +21,12 @@ An operating system is software that manages the operations on a computer.
 - File management
 ### Memory management
 Memory management in an operating system allows for memory to be allocated efficiently  
+#### Paging
+In order for the operating system to effectively manage the memory, the memory needs to be first divided into fixed size blocks. These blocks are called pages.
+
+#### Virtual memory
+Virtual memory is a memory management technique that allows for the execution of processes that may not be completely in memory. Virtual memory is a combination of RAM and disk space.
+
 ### Interrupts
 An interrupt is a signal from software or hardware that can trigger a function.
 ### Processor scheduling

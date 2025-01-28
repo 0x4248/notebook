@@ -8,7 +8,6 @@ cssclasses:
   - rounded-images
 ---
 # Arrays, Tuples and Records
-<p class="text-center" style="margin:0;color:gray;">Subtitle</p>
 
 ***
 - [[Data structures]]

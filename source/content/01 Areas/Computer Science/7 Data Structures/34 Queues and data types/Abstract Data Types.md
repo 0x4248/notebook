@@ -7,7 +7,6 @@ cssclasses:
   - rounded-images
 ---
 # Abstract Data Types
-<p class="text-center" style="margin:0;color:gray;">Subtitle</p>
 
 ***
 An abstract data type is a [[Data Types|data type]] created by the programmer.

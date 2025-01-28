@@ -8,7 +8,6 @@ cssclasses:
   - rounded-images
 ---
 # Arrays
-<p class="text-center" style="margin:0;color:gray;">Subtitle</p>
 
 ***
 ## Key terms
