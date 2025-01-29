@@ -9,7 +9,7 @@ cssclasses:
 ---
 # Butterflies Art
 ***
-Since I have an interest in butterflies, I did some artwork using photos from a butterfly museum I went to.
+Since I have an interest in butterflies, I did some artwork using photos from a butterfly museum I went to. I quite like digital and watercolour art, so I did a few different versions of the same piece.
 
 ## Watercolour
 
