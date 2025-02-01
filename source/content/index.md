@@ -48,6 +48,6 @@ Short example:
 ## Languages
 Some pages are not in english but most of this vault is in english. 
 
-To find pages in russian please search for the tag #Lang_ru
+To find pages in Russian please search for the tag #Lang_ru
 
 Чтобы найти страницы на русском языке, пожалуйста, найдите тег #Lang_ru 
