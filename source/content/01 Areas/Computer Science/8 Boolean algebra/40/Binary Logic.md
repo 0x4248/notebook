@@ -37,14 +37,62 @@ An and gate checks if input A *and* B are true. If they are both true the output
 | 0       | 0       | 0      |
 | 1       | 0       | 0      |
 | 0       | 1       | 0      |
-| 1       | 1       | 0      |
+| 1       | 1       | 1      |
 
 ![[and.svg]]
 ### NAND
+A NAND gate checks if input A *and* B are true. If they are both true the output is false. In short its just an inverted AND gate.
+
+| Input A | Input B | Output |
+| ------- | ------- | ------ |
+| 0       | 0       | 1      |
+| 1       | 0       | 1      |
+| 0       | 1       | 1      |
+| 1       | 1       | 0      |
+
 ![[nand.svg]]
 ### OR
+An OR gate checks if either of the inputs are true then the output is true.
+
+| Input A | Input B | Output |
+| ------- | ------- | ------ |
+| 0       | 0       | 0      |
+| 1       | 0       | 1      |
+| 0       | 1       | 1      |
+| 1       | 1       | 1      |
+
 ![[or.svg]]
 ### NOR
+A NOR gate is an inverted OR gate.
+
+| Input A | Input B | Output |
+| ------- | ------- | ------ |
+| 0       | 0       | 1      |
+| 1       | 0       | 0      |
+| 0       | 1       | 0      |
+| 1       | 1       | 0      |
+
 ![[nor.svg]]
 ### XOR
+An exclusive or only is true if one of the inputs is true but not both.
+
+| Input A | Input B | Output |
+| ------- | ------- | ------ |
+| 0       | 0       | 0      |
+| 1       | 0       | 1      |
+| 0       | 1       | 1      |
+| 1       | 1       | 0      |
+
 ![[xor.svg]]
+
+## Symbols
+Sometimes symbols are used to show the logic gates. Here are some common symbols.
+
+$$
+\begin{aligned}
+\text{AND = }\land \\
+\text{OR = }\lor \\
+\text{NOT = }\lnot \\
+\text{XOR = }\underline\lor \\
+\end{aligned}
+$$
