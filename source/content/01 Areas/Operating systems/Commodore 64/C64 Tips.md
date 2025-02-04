@@ -14,8 +14,10 @@ properties-ver: "1.1"
 # C64 Tips
 
 ***
-
+*For poke commands please see:* [[C64 POKE hacks]]
 ## Clear the screen
+Quickly clears the screen using the `CHR` function.
+
 ```
 PRINT CHR$(147)
 ```

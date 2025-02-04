@@ -86,7 +86,7 @@ An exclusive or only is true if one of the inputs is true but not both.
 ![[xor.svg]]
 
 ## Symbols
-Sometimes symbols are used to show the logic gates. Here are some common symbols.
+Sometimes symbols are used to show the logic gates. Here are some common symbols. 
 
 $$
 \begin{aligned}
