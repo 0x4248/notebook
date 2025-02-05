@@ -1,9 +1,8 @@
 
 ***
 ## See also
-INSERT
-
+- 
 ## References
-INSERT
-
-%% FOOTNOTES GO HERE %%
+- 
+## Footnotes
+[^1]:

@@ -1,6 +1,7 @@
 ---
 tags:
   - Languages/Russian
+  - Lang_ru
 date: 2025-01-02
 cssclasses:
   - neo-headings
@@ -17,7 +18,7 @@ Here is a list of common words and phrases in Russian.
 | Russian    | Pronunciation | English   |
 | ---------- | ------------- | --------- |
 | Привет     | Privet        | Hello     |
-| Пока       | Paka          | Bye       |
+| Пока       | Poka          | Bye       |
 | Спасибо    | Spasibo       | Thanks    |
 | Пожалуйста | Pozhaluysta   | Please    |
 | Извините   | Izvinite      | Excuse me |

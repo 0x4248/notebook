@@ -1,5 +1,7 @@
 ---
-tags: 
+tags:
+  - Operating_systems
+  - C64
 date: 2025-01-28
 aliases:
   - c64 tips

@@ -1,3 +1,22 @@
+---
+tags:
+  - Photography
+date: 2025-02-05
+aliases:
+  - photography
+  - my photos
+cssclasses:
+  - neo-headings
+  - bai-headings
+  - rounded-images
+lang:
+  - en
+properties-ver: "1.1"
+---
+# Photography
+
+***
+I have two DLSR camreas, 4000D and the 5D  Mark IV.
 ## 2024
 ### Collection 1 (Sunsets)
 ![[AT0A4745.webp]]

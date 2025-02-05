@@ -16,7 +16,7 @@ properties-ver: "1.1"
 # C64 POKE hacks
 
 ***
-Here I list some interesting POKE hacks for the Commodore 64. Back in the 70s and 80s, magazines would publish a section of poke commands that you can try out on your C64 to get some interesting effects. 
+Here I list some interesting POKE hacks for the [[Commodore 64]]. Back in the 70s and 80s, magazines would publish a section of poke commands that you can try out on your C64 to get some interesting effects. 
 
 | POKE number | Param | Effect                                                                                                     |
 | ----------- | ----- | ---------------------------------------------------------------------------------------------------------- |

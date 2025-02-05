@@ -1,6 +1,7 @@
 ---
 tags:
   - Languages/Russian
+  - Lang_ru
 date: 2024-12-30
 cssclasses:
   - neo-headings
@@ -55,18 +56,3 @@ To show this more in detail here is a table:
 | Э            | э            | e                                    |
 | Ю            | ю            | yu, ju                               |
 | Я            | я            | ya, ja                               |
-## Similar letters from other languages
-Russian is a language that has the Greek alphabet as the parent system. This means there are some words that are very similar. *Such as the letter D* (In these examples the Russian letter is on the left and the Greek is on the right)
-<p style="font-size:xx-large;text-align:center;margin:0;"><span>Дд</span> <span>Δδ</span></p>
-
-*The letter L*
-
-<p style="font-size:xx-large;text-align:center;margin:0;"><span>Лл</span> <span>Λλ</span></p>
-
-*Τhe letter F*
-
-<p style="font-size:xx-large;text-align:center;margin:0;"><span>Фф</span> <span>Φφ</span></p>
-
-*And the letter P*
-
-<p style="font-size:xx-large;text-align:center;margin:0;"><span>Пп</span> <span> Ππ</span></p>

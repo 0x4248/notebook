@@ -15,8 +15,7 @@ A distributed operating system is a type of operating system that spreads it loa
 ## Multi tasking system
 A multi tasking system allows for several programs to be running at the same time.
 
-Multi tasking systems also have support for multi users.
-
+Some multi tasking systems also have support for multiple users to be logged in at the same time.
 ## Embedded operating systems
 Embedded operating systems are usually found things like washing machines, microwaves and control systems. These embedded systems don't have many features.
 ## Real time operating system
