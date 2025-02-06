@@ -47,9 +47,21 @@ There are three main types of interrupts:
 4. ISR Execution
     - The processor transfers control to the ISR and executes the routine to handle the interrupt.
 5. Interrupt Exit
-        - After the interrupt has been handled the processor restores the registers and continues executing the program.z
+    - After the interrupt has been handled the processor restores the registers and continues executing the program.z
 ### Processor scheduling
-In order for computers to run multiple tasks at once there needs to be scheduling. Scheduling allows for the CPU to allocate processing time to each process.
+In order for computers to run multiple tasks at once there needs to be scheduling. Scheduling allows for the CPU to allocate processing time to each process. There are different types of scheduling algorithms:
+#### Preemptive
+Preemptive scheduling is when jobs are activity made to start and stop the operating system.
+
+Examples:
+- First come first serve
+- Round robin
+#### Non-preemptive
+Non-preemptive scheduling is when jobs is started it is left alone until it is completed. 
+
+Examples:
+- Shortest job first
+- Priority scheduling
 #### Round robin
 In a round robin system process are on a first in first out basis. Each process takes its turn.
 #### First come first serve
