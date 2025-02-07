@@ -10,5 +10,5 @@ cssclasses:
 # About this folder
 
 ***
-In here go... well archives.
-`This is just filler text for now`
+- Old blog
+- Old BTEC revision notes
