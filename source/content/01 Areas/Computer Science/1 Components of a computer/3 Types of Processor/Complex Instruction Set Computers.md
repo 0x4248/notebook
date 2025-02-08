@@ -9,4 +9,4 @@ cssclasses:
 ---
 # Complex Instruction Set Computers
 ***
-A complex instruction set computer uses a large instruction which allows programmers to write programs in as few lines of assembly.
+A complex instruction set computer uses a large instruction that allows programmers to write programs in as few lines of assembly code as possible.
