@@ -13,9 +13,9 @@ cssclasses:
 
 ***
 ## The front
-The front contains a shield which covers some components. On the board this is labeled as `FRAME6`. The front contains mostly SMC components and an large chip.
+At the front of the board is a shield that covers some of the components. This is labelled `FRAME6` on the board. The front contains mostly SMC components and a large chip.
 ### KIOXIA 070314
-Located below `FRAME6` there is a [[KIOXIA 070314]] chip.
+Under `FRAME6` is a [[KIOXIA 070314]] chip.
 ## The back
 The back contains most of the larger components and I/O.
 ### FPE RJ45 Transformer
