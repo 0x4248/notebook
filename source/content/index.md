@@ -46,8 +46,6 @@ Short example:
 ```
 
 ## Languages
-Some pages are not in english but most of this vault is in english. 
+This vault is primarily in english, some pages are in other languages which are tagged with the language tag. For example the tag would be lang with the country code such as UK for Ukrainian or GR for Greek.
 
-To find pages in Russian please search for the tag #Lang_ru
-
-Чтобы найти страницы на русском языке, пожалуйста, найдите тег #Lang_ru 
+To find pages in Russian please search for the tag #Lang_ru. Чтобы найти страницы на русском языке, пожалуйста, найдите тег #Lang_ru .

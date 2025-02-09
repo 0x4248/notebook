@@ -2,6 +2,7 @@
 tags:
   - Meta
   - Meta/maps
+  - Lang_ru
 date: 2024-10-13
 cssclasses:
   - neo-headings
@@ -16,6 +17,9 @@ stub: true
 > This page "index" is a stub and is missing content. Check back later for more content.
 > 
 > *Date added: 2025-01-17*
+
+## Maps
+- [[Карты РУС]]
 ## Areas
 - [[Computer Science topics|Computer Science]]
 - Furry
