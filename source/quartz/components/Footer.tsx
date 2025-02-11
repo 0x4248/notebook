@@ -13,12 +13,8 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`} style="font-size: 0.8rem;">
-        <p style="margin-bottom: 0;">
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
-        </p>
         <p style="margin-top: 0;">
-          Obsidian content: CC BY-SA 4.0 © 0x4248 2025
+          <strong>Copyright © 2025 0x4248, 4248 Media and Contributors.</strong><br></br>Licensed under the Creative Commons Share-Alike Attribution License (CC BY-SA 4.0).
         </p>
       </footer>
     )
