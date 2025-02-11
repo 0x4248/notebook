@@ -1,4 +1,19 @@
-# 0x4248's Notebook
+---
+tags:
+  - Meta
+date: 2025-02-11
+aliases:
+  - home
+  - homepage
+cssclasses:
+  - neo-headings
+  - bai-headings
+  - rounded-images
+lang:
+  - en
+properties-ver: "1.1"
+---
+# Welcome to my notebook
 
 ***
 %%TO EDITOR: DO NOT REMOVE OR MOVE THIS FILE IT WILL BRICK THE SITE UNTILL MOVED BACK%%
