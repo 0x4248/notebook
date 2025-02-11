@@ -8,7 +8,7 @@ cssclasses:
   - bai-headings
   - rounded-images
 ---
-# index
+# Blender
 
 ***
 Blender is one of my favourite programs. This part of my vault shows some of my obsidian work and notes.

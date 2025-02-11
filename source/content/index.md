@@ -36,15 +36,22 @@ Since the content of this vault is licensed under `CC BY-SA 4.0` you can use the
 Here is an example of how to credit me:
 
 ```markdown
-Content from 0x4248's Notebook. (c) 2025 0x4248. Licensed under CC BY-SA 4.0.
+Content from 0x4248's Notebook. Copyright © 2025 0x4248, 4248 Media and Contributors.
 ```
 
 Short example:
 
 ```markdown
-(c) 2025 0x4248. CC BY-SA 4.0.
+CC BY-SA 4.0 © 2025 0x4248 .
 ```
 
+In this vault there are also many images. All images in this vault are my own unless stated otherwise at the top of the file. You may see a banner saying "Non free content".
+
+If you do use an image from my vault that I took or made please use the 4248 Media copyright or the 0x4248 copyright
+
+```
+Copyright © 2025 4248 Media, A division of 0x4248. Licensed under CC BY-SA 4.0.
+```
 ## Languages
 This vault is primarily in english, some pages are in other languages which are tagged with the language tag. For example the tag would be lang with the country code such as UK for Ukrainian or GR for Greek.
 
