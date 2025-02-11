@@ -14,9 +14,9 @@ In this vault I use tags to organise what notes are related to what category.
 
 ## Main tags 
 - #Art 
--  #Blender 
--  #computer_science 
--  #Furry 
+- #Blender 
+- #computer_science 
+- #Furry 
 - #Hardware 
 - #Languages 
 - #Linux 
@@ -28,3 +28,4 @@ In this vault I use tags to organise what notes are related to what category.
 - #Trains 
 - #Fleeting 
 - #Projects 
+- #Photography 
