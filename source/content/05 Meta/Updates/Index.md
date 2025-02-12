@@ -6,6 +6,9 @@ cssclasses:
   - neo-headings
   - bai-headings
   - rounded-images
+aliases:
+  - Updates
+  - updates
 ---
 # 4248 Notebook News and Updates
 

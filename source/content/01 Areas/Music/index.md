@@ -6,6 +6,9 @@ cssclasses:
   - neo-headings
   - bai-headings
   - rounded-images
+aliases:
+  - Music
+  - music
 ---
 # index
 ***
