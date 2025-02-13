@@ -25,7 +25,6 @@ Base file:
 - properties-ver - Version of obsidian file properties
 - aliases - Other names and the lowercase title
 
-
 ## All properties
 | Name           | Type | Description                                 |
 | -------------- | ---- | ------------------------------------------- |

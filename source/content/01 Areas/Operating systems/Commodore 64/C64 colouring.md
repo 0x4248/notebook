@@ -18,6 +18,8 @@ properties-ver: "1.1"
 ***
 The C64 can display 16 colours. These colours can be set by using [[C64 POKE|POKE]] commands to set the colour of the background, text, and sprites.
 
+## Colour codes
+
 | Colour name         | POKE | key       | HEX colour |
 | ------------------- | ---- | --------- | ---------- |
 | Black               | 0    | CTRL  + 1 | `#000000`  |
@@ -37,7 +39,7 @@ The C64 can display 16 colours. These colours can be set by using [[C64 POKE|POK
 | Light blue          | 14   | C=  + 7   | `#0088FF`  |
 | Light grey / grey 3 | 15   | C=  + 8   | `#BBBBBB`  |
 
- Adresses for colours
+## Adresses for colours
 
 | Address | Description          |
 | ------- | -------------------- |
