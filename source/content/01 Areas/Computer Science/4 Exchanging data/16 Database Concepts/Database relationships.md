@@ -13,18 +13,12 @@ cssclasses:
 ***
 Entities can be linked between databases, this is called a relationship.
 ## Types of relationships
-- One to one
-- One to many
-- Many to many
+- **One-to-one** Examples of such a relationship include the relatIonship between Husband and Wife, Country and Prime Minister.
+- **One-to-many** Examples include the relationship between Father and Child, Costumer and Order.
+- **Many-to-many** Examples include the relationship between Student and Course, Stock Item and Supplier, Film and Actor.
 
-**One-to-one** Examples of such a relationship include the relatIonship between Husband and Wife, Country and Prime Minister.
-
-**One-to-many** Examples include the relationship between Father and Child, Costumer and Order.
-
-**Many-to-many** Examples include the relationship between Student and Course, Stock Item and Supplier, Film and Actor.
-
-## Relationship modeling
-Relationships can be modeled using an entity relationship diagram.
+## Relationship modelling
+Relationships can be modelled using an entity relationship diagram.
 ## Relational databases
 There are a few concepts with a relational database.
 ### Foreign key
