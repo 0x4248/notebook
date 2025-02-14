@@ -10,7 +10,7 @@ aliases:
   - Music
   - music
 ---
-# index
+# Music
 ***
 This section focuses on my music interest. When I was 16 I took  a music GCSE and got a grade 6 from it (Equivalent to an B grade[^1]). 
 

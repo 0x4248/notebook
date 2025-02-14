@@ -68,10 +68,7 @@ If you do use an image from my vault that I took or made please use the 4248 Med
 Copyright © 2025 4248 Media, A division of 0x4248. Licensed under CC BY-SA 4.0.
 ```
 ## Languages
-This vault is primarily in english, some pages are in other languages which are tagged with the language tag. For example the tag would be lang with the country code such as UK for Ukrainian or GR for Greek.
-
-To find pages in Russian please search for the tag #Lang_ru. Чтобы найти страницы на русском языке, пожалуйста, найдите тег #Lang_ru. Поскольку я все еще изучаю язык, некоторые страницы на русском могут содержать неправильную грамматику.
-
+This vault is primarily in english, some pages are in other languages which are tagged with the language tag. For example the tag would be lang with the country code such as UK for Ukrainian or GR for Greek. 
 ## Tagging system
 This vault works with a [[Tags|tagging system]]. This is to ensure that each page is categorised. Here are some of the main tags:
 #Art #Blender #computer_science #Furry #Hardware #Languages #Linux #Music #Meta #Programming #Radios #Trains #Fleeting #Projects 
