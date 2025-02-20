@@ -15,7 +15,6 @@ properties-ver: "1.0"
 
 ***
 In order to add more information about the current file, obsidian file proprieties are added. These properties are standardised within this vault and are versioned so outdated documents can be updated with the newer standard if needed.
-
 ## How a base file looks
 Base file:
 - Tags - *Blank*
