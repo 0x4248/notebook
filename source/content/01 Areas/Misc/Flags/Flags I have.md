@@ -15,12 +15,9 @@ properties-ver: "1.1"
 
 ***
 For a long time I have had an interest in flags and have collected some. I have always wanted to hang them outside but I cant do that due to the local opinions.
-
 ## Gay (Male)
 ![[Gay_men.webp|500]]
-
 ## Aromantic
 ![[Aromantic.webp|500]]
-
 ## Asexual
 ![[Asexual.webp|500]]
