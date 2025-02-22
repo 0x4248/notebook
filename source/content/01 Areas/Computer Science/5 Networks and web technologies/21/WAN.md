@@ -18,7 +18,7 @@ properties-ver: "1.1"
 # WANS
 
 ***
-A wide area network is a network that composes of multiple [[LAN|LANS]]. WANS often cover a large geographical area.[^1]
+A **wide area network** is a network that composes of multiple [[LAN|LANS]]. WANS often cover a large geographical area.[^1]
 
 ***
 ## See also
