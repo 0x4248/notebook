@@ -21,5 +21,6 @@ Here are my notes on the C64 system. Most of the information here is provided fr
 Now since I don't have a C64 with me I am using an emulator called VICE[^1].
 
 ## Contents
+- [[C64 LOAD]]
 - [[C64 colouring]]
 - [[C64 Tips]]
