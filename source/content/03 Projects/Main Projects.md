@@ -13,7 +13,6 @@ cssclasses:
 
 ## Primary projects on GitHub
 These are the main projects I am working on or have worked on in the past. They are hosted on GitHub and are open source.
-
 - [Lab Space](https://github.com/0x4248/lab_space)
 - [Shell](https://github.com/0x4248/Shell)
 - [Linux](https://github.com/0x4248/linux)
