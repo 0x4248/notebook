@@ -21,7 +21,6 @@ These are the main projects I am working on or have worked on in the past. They 
 - [JScan](https://github.com/0x4248/JScan)
 
 ## Things im currently learning and want to learn in the future
-
 * Go
 * x86 OS development
 * Learning UART hacking
