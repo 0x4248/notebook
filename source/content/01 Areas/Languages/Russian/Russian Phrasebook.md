@@ -32,21 +32,3 @@ Here is a list of common words and phrases in Russian.
 | Может быть | Mozhet byt'   | Maybe                           |
 | Вероятно   | Veroyatno     | Probably, Likely and Apparently |
 
-## Numbers
-
-| Russian | Pronunciation | English         |
-| ------- | ------------- | --------------- |
-| Один    | Odin          | One             |
-| Два     | Dva           | Two             |
-| Три     | Tri           | Three           |
-| Четыре  | Chetyre       | Four            |
-| Пять    | Pyat          | Five            |
-| Шесть   | Shest         | Six             |
-| Семь    | Sem           | Seven           |
-| Восемь  | Vosem         | Eight           |
-| Девять  | Devyat        | Nine (*Note 1*) |
-| Десять  | Desyat        | Ten (*Note 1*)  |
-| Сто     | Sto           | Hundred         |
-| Тысяча  | Tysyacha      | Thousand        |
-
-**Note 1**: These can be easily misspelled, so be careful when using them. 
