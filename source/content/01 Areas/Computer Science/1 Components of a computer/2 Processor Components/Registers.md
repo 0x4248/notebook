@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - computer_science/1
 date: 2025-02-02
 aliases:
   - registers

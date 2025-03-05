@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - computer_science/1
 date: 2025-01-30
 aliases:
   - control unit

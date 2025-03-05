@@ -21,10 +21,12 @@ cssclasses:
 > 
 > *Date added: 2025-01-22*
 
-This file contains all my favorite albums.
+This file contains all my favourite albums, that I want to collect on record or CD.
 
 | Cover                                                                                                                                      | Name                    | Artist                       | Genre                                  | Year |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | ---------------------------- | -------------------------------------- | ---- |
+| <img width=150 src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Radioheadokcomputer.png/220px-Radioheadokcomputer.png">           | OK Computer             | Radiohead                    | Alternative Rock                       | 1997 |
+| <img width=150 src="https://upload.wikimedia.org/wikipedia/en/0/02/Radioheadkida.png">                                                     | Kid A                   | Radiohead                    | Experimental Rock                      | 2000 |
 | <img width=150 src="https://upload.wikimedia.org/wikipedia/en/d/d2/King_Geedorah_-_Take_Me_to_Your_Leader_album_cover.jpg">                | Take Me to Your Leader  | King Geedorah                | Underground Hip-Hop                    | 2003 |
 | <img width=150 src="https://upload.wikimedia.org/wikipedia/en/5/5e/Madvillainy_cover.png">                                                 | Madvillainy             | Madvillain                   | Hip-Hop                                | 2004 |
 | <img width=150 src="https://upload.wikimedia.org/wikipedia/en/8/8a/Mmfood.jpg">                                                            | MM..FOOD                | MF DOOM                      | Hip-Hop                                | 2004 |
@@ -40,6 +42,7 @@ This file contains all my favorite albums.
 | <img width=150 src="https://upload.wikimedia.org/wikipedia/en/d/d3/Call_Me_If_You_Get_Lost_album_cover.jpg">                               | Call Me If You Get Lost | Tyler, The Creator           | Hip-Hop, Jazz                          | 2021 |
 | <img width=150 src="https://t2.genius.com/unsafe/1908x0/https%3A%2F%2Fimages.genius.com%2F2fcd8a23dca945bd28b9892da73ee80c.999x999x1.png"> | Super Temco Bo          | Boldy James  & The Alchemist | Hip-Hop, Jazz                          | 2021 |
 | <img width=150 src="https://upload.wikimedia.org/wikipedia/en/a/ac/Beware_of_the_Monkey.album.jpg">                                        | Beware of the Monn      | MIKE                         | Hip-Hop                                | 2022 |
+| <img width=150 src="https://upload.wikimedia.org/wikipedia/en/a/a4/The_Kid_Laroi_-_The_First_Time.png">                                    | THE FIRST TIME          | The Kid LAROI                | Pop Rap                                | 2023 |
 | <img width=150 src="https://upload.wikimedia.org/wikipedia/en/5/5b/Chromakopia_CD_cover.jpg">                                              | Chromakopia             | Tyler, The Creator           | Hip-Hop, Jazz                          | 2024 |
 | <img width=150 src="https://upload.wikimedia.org/wikipedia/en/9/93/Kendrick_Lamar_-_GNX.png">                                              | GNX                     | Kendrick Lamar               | Hip-Hop                                | 2024 |
 

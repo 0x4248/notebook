@@ -41,5 +41,3 @@ Taking the table from [[Assembly Instructions|assembly instructions]] we can see
 
 ## References
 - [Little man computer website](https://peterhigginson.co.uk/LMC/))
-
-
