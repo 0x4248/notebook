@@ -28,6 +28,8 @@ This site is a merge of my old blog, wiki and obsidian vaults into one place. Th
 
 > [!warning]+ 🚧 Still under construction. 🚧
 > Since this is a new vault as of 01-01-2025, it is still under construction. Please check back later for more content.
+> 
+> **Update**: (*6th march 2025*) The vault is still growing, check the graph to see progress.
 
 ## Where to start?
 I recommend starting in the `01 Areas` folder since that has most of the content. Or use a map at [[00 Maps/index|this page]]. Here are some also quick links to main pages: [[Computer Science topics]], [[01 Areas/Languages/index|Languages]], [[03 Projects/index|Projects]]

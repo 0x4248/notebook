@@ -40,4 +40,4 @@ Taking the table from [[Assembly Instructions|assembly instructions]] we can see
 - [[Programming Basics]]
 
 ## References
-- [Little man computer website](https://peterhigginson.co.uk/LMC/))
+- [Little man computer website](https://peterhigginson.co.uk/LMC/))k
