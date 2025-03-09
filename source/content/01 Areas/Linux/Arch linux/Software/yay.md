@@ -10,8 +10,7 @@ cssclasses:
 # yay
 
 ***
-
-Yay (Yet Another Yaourt) is an AUR helper written in Go. It is a modern AUR helper that is easy to use and has a lot of features.
+**Yay** (Yet Another Yaourt) is an AUR helper written in Go. It is a modern AUR helper that is easy to use and has a lot of features.
 
 ## Installation
 
