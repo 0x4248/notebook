@@ -11,7 +11,7 @@ cssclasses:
 <p class="text-center" style="margin:0;color:gray;">About this vault</p>
 
 ***
-This is my **public** obsidian vault. Here I will put my public notes and research. This vault will also include my public study notes.
+This is my **public** obsidian vault. Here I will put my public notes and research. This vault will also include my public study notes which can be mainly found under the computer science part.
 ## How is this vault structured?
 I have structured this vault in a way that allows for organisation of notes.
 ### Layout 
