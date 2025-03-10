@@ -75,4 +75,6 @@ This vault is primarily in english, some pages are in other languages which are 
 This vault works with a [[Tags|tagging system]]. This is to ensure that each page is categorised. Here are some of the main tags:
 #Art #Blender #computer_science #Furry #Hardware #Languages #Linux #Music #Meta #Programming #Radios #Trains #Fleeting #Projects 
 
+***
+
 ![[footer_logo.svg|100%]]
