@@ -9,6 +9,7 @@ cssclasses:
   - neo-headings
   - bai-headings
   - rounded-images
+  - wide-images
 lang:
   - en
 properties-ver: "1.1"
