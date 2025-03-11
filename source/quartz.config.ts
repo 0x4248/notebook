@@ -21,8 +21,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Bai Jamjuree",
-        body: "Noto Sans",
+        header: "Libre Baskerville",
+        body: "Merriweather",
         code: "JetBrains Mono",
       },
       colors: {
