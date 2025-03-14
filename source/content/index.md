@@ -17,7 +17,7 @@ properties-ver: "1.1"
 # Welcome to my notebook
 
 ***
-%%TO EDITOR: DO NOT REMOVE OR MOVE THIS FILE IT WILL BRICK THE SITE UNTILL MOVED BACK%%
+%%TO EDITOR: DO NOT REMOVE OR MOVE THIS FILE IT WILL BRICK THE SITE UNTIL MOVED BACK%%
 ## What is this site?
 
 This site contains all my notes, tutorials, and other stuff that I find interesting. Think of this place as a mega wiki of all the things I find interesting and currently learning/researching. In short this is my digital garden or vault. 
