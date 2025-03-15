@@ -13,7 +13,7 @@ cssclasses:
 ***
 How to install arch linux on a laptop using a BIOS system. 
 
-***Important note***: This install will not allow dual booting since we are not installing with UEFI.
+**Important note**: This install will not allow dual booting since we are not installing with UEFI.
 ## Disk partitioning
 ```
 fdisk /dev/vda
