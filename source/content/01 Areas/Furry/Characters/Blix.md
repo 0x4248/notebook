@@ -14,7 +14,11 @@ properties-ver: "1.0"
 # Blix
 
 ***
-Blix is a anthropomorphic folf which is my fursona. Blix is a blue, white and black fox. His name comes from several things. The `Bl` part comes from the main colour of his fur which is blue. The `x` at the end comes from the second character from my username `0x4248`.
+**Blix** is a anthropomorphic folf which is my fursona. Blix is a blue, white and black fox. His name comes from several things. The `Bl` part comes from the main colour of his fur which is blue. The `x` at the end comes from the second character from my username `0x4248`.
+
+## Icon artwork
+![icon|400](https://github.com/0x4248.png)
+
 
 ## Ref sheet
 
