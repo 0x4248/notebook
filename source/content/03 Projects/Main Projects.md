@@ -36,7 +36,7 @@ These projects involve modifying hardware and software to do things that they we
 - Also have the hub two to compare
 - SeaBIOS (In progress)
 - OpenBIOS (Modifying and running in QEMU)
-- ~~Custom Linux for the Raspberry Pi 4~~ (In process)
+- ~~Custom Linux for the Raspberry Pi 4~~ (In progress)
 - Custom PI Pico OS
 - SerneityOS (Building from source and modifying)
 - TI Nspire CX II (Trying to put Linux on it, in progress but difficult)
