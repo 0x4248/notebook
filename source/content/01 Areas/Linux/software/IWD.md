@@ -1,9 +1,23 @@
-# iwd
+---
+tags:
+  - Linux
+  - Software
+date: 2025-03-25
+aliases:
+  - iwd
+cssclasses:
+  - neo-headings
+  - bai-headings
+  - rounded-images
+lang:
+  - en
+properties-ver: "1.1"
+---
+# IWD
 
-iwd is a wireless daemon for [[Linux]]
-
+***
+IDW is a wireless daemon for [[Linux]] that have intel wireless cards.
 ## Installation
-
 You can install `iwd` using your distribution's package manager. 
 
 ### Debian/Ubuntu
