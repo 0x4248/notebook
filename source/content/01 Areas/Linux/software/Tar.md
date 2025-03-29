@@ -1,14 +1,21 @@
 ---
-outdated: true
+tags:
+  - Linux
+  - Software
+date: 2025-03-25
+aliases:
+  - tar
+cssclasses:
+  - neo-headings
+  - bai-headings
+  - rounded-images
+lang:
+  - en
+properties-ver: "1.1"
 ---
 # Tar
 
->[!warning]+ Outdated page
-> This page "README" was imported and needs updating.
-> 
-> *Date added: 2025-01-23*
-
-
+***
 **T**ape **ar**chive is a file format used to archive folders.
 
 ## Command usage
@@ -18,6 +25,11 @@ tar <option> <file>
 ```
 
 ### Operations
+- Append
+- Create
+- Extract
+- List
+- Update
 
 #### Append
 

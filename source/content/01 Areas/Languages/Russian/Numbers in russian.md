@@ -32,6 +32,9 @@ properties-ver: "1.1"
 | Десять  | Desyat        | Ten     |
 ## Large numbers
 
-| Сто     | Sto           | Hundred  |
-| ------- | ------------- | -------- |
-| Тысяча  | Tysyacha      | Thousand |
+| Russian  | Pronunciation | English  |
+| -------- | ------------- | -------- |
+| Сто      | Sto           | Hundred  |
+| Тысяча   | Tysyacha      | Thousand |
+| Миллион  | Million       | Million  |
+| Миллиард | Milliard      | Billion  |

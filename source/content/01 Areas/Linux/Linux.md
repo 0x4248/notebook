@@ -18,7 +18,7 @@ stub: true
 >[!info]+ Update
 > I plan on heavily redoing this section since it is long outdated and there are just random notes now.
 >
-> And annoying thing about linux is its so massive and diverse meaning its hard to cover everything. But isn't that what makes the whole thing so interesting?
+> And the annoying thing about linux is its so massive and diverse meaning its hard to cover everything. But isn't that what makes the whole thing so interesting?
 
 **Linux** is a open source UNIX system that was created by Linus Torvalds in 1991. Linux is used almost everywhere, from servers to smartphones. Linux is also the base for the Android operating system[^1]. 
 ## Linux distributions
@@ -34,5 +34,5 @@ Here are the main Linux distributions (not including the many derivatives):
 ## See also
 - [[Building the linux kernel]]
 
-
+## Footnotes
 [^1]: https://en.wikipedia.org/wiki/Linux "Wikipedia - Linux"

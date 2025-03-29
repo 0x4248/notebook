@@ -35,6 +35,7 @@ Here is some render tests for different writing systems (Russian, Greek, Japanes
 - [[Greek alphabet|Greek]]
 - [[Hiragana|Japanese Hiragana]]
 - [[German alphabet|German]]
+- [[Polish alphabet|Polish]]
 
 **Conlangs I have made**
 - [[Takiyoka]]
