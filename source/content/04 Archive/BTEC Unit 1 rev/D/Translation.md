@@ -7,7 +7,7 @@ cssclasses:
 ---
 # Translation 
 ***
-Translation is where code is converted from one programming language into another. This process is also called porting.
+**Translation** is where code is converted from one programming language into another. This process is also called porting.
 ## Reasons to translate a program
 - The old programming language can not meet the needs for the solution.
 - Support for the existing programming language is ending.
