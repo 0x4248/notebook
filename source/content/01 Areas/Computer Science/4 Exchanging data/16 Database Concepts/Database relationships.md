@@ -10,6 +10,7 @@ cssclasses:
 ---
 # Database relationships
 <p class="text-center" style="margin:0;color:gray;">Relationships between database</p>
+
 ***
 Entities can be linked between databases, this is called a relationship.
 ## Types of relationships
