@@ -23,7 +23,7 @@ Letters can be stacked like in Korean.
 
 ### Basic rules
 ![[stacking.svg|700]]
-Letters can be stacked with 2,3 or 4 letters per syllable. 
+Letters can be stacked with 2,3 or 4 letters per syllable. Letters do not need to be stacked.
 
 |                             Letter                              | Transliteration |
 | :-------------------------------------------------------------: | --------------- |
