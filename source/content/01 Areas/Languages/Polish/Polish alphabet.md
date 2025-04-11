@@ -17,11 +17,9 @@ properties-ver: "1.1"
 <p style="font-size:x-large;text-align:center;margin:0;font-family:Times;">Alfabet polski</p>
 
 ***
-The polish alphabet is based on the [[Latin alphabet]] script 
+The polish alphabet is based on the [[Latin alphabet]] script. There are 32 letters in the Polish alphabet, containing 9 vowels and 23 consonants.
 
 <p style="font-size:xx-large;text-align:center;margin:0;">AĄBCĆDEĘFGHIJKLŁMNŃOÓPRSŚTUWYZŹŻ</p>
-
-There are 32 letters in the Polish alphabet, containing 9 vowels and 23 consonants.
 
 **Vowels**: `A, Ą, E, Ę, I, O, Ó, U, Y`
 **Constants**: `B, C, Ć, D, F, G, H, J, K, L, Ł, M, N, Ń, P, R, S, Ś, T, W, Z, Ź, Ż`
