@@ -13,4 +13,4 @@ aliases:
 # Projects folder
 
 ***
-This folder contains the main projects that I have worked on.
+This folder contains the main projects that I have worked on. Although this part of the vault mainly contains checklists and links pointing to the main notes for the projects. Some notes maybe put in here like change logs and other things related to the project. 
