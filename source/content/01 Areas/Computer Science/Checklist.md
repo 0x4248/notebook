@@ -1,0 +1,375 @@
+---
+tags: 
+date: 2025-01-24
+aliases:
+  - checklist
+  - Computer Science checklist
+cssclasses:
+  - neo-headings
+  - bai-headings
+  - rounded-images
+lang:
+  - en
+properties-ver: "1.1"
+---
+# Checklist
+
+***
+A checklist of the current revision progress.
+## Paper 1
+- [ ] Processor Components	
+	- [ ] The Central Processing Unit (CPU)
+	- [ ] Control Unit
+	- [ ] Buses - Control, Data and Address
+	- [ ] Arithmetic Logic Unit (ALU)
+	- [ ] Registers
+	- [ ] The Fetch, Decode, Execute Cycle
+- [ ] Processor Performance	
+	- [ ] Factors that can affect performance
+    	- [ ] Clock Speed
+    	- [ ] Number of Cores
+    	- [ ] Cache Memory
+    	- [ ] Pipelining
+- [ ] Types of Processor	
+	- [ ] The von Nuemann Machine
+	- [ ] Harvard Architecture
+	- [ ] Complex Instruction Set Computers (CISC)
+	- [ ] Reduced Instruction Set Computers (RISC)
+	- [ ] Multi-core and parallel systems
+	- [ ] Graphics Processing Unit (GPU)
+- [ ] Input Devices	
+	- [ ] Barcodes
+	- [ ] Digital Cameras
+	- [ ] Radio Frequency Identification (RFID)
+- [ ] Output Devices	
+	- [ ] Screens
+	- [ ] Printers
+	- [ ] Multimedia Projectors
+	- [ ] Computer Speakers
+	- [ ] Actuators
+- [ ] Storage Devices	
+	- [ ] Secondary Storage
+	- [ ] Hard Disk
+	- [ ] Optical
+	- [ ] Solid State
+	- [ ] RAM and ROM
+- [ ] Functions of an Operating System	
+	- [ ] Functions
+	- [ ] Memory Management
+    	- [ ] Paging
+    	- [ ] Virtual memory
+	- [ ] Paging segmentation
+	- [ ] Interrupts [^1]
+	- [ ] Scheduling
+	- [ ] Peripheral Management
+- [ ] Types of Operating System	
+	- [ ] Distributed Operating Systems
+	- [ ] Multitasking System
+	- [ ] Mobile Operating system
+	- [ ] Embedded Systems
+	- [ ] Real-time Operating Systems
+	- [ ] BIOS
+	- [ ] Device Drivers
+- [ ] The Nature of Applications	
+	- [ ] Systems Software
+	- [ ] Operating System
+	- [ ] Utility Programs
+	- [ ] Backup
+	- [ ] Updates
+	- [ ] Virus Checker
+	- [ ] Compression
+	- [ ] Application Software
+	- [ ] Open Vs Closed Source
+- [ ] Programming Language Translators	
+	- [ ] Assembler
+	- [ ] Compiler
+	- [ ] Interpreter
+	- [ ] ByteCode
+	- [ ] Stages of Compilation
+	- [ ] Linkers and Loaders
+	- [ ] Use of Libraries
+- [ ] Systems Analysis Methods	
+	- [ ] Analysis
+	- [ ] Design
+	- [ ] Programming and Testing
+	- [ ] Implementation
+	- [ ] Evaluation
+	- [ ] The Waterfall Cycle
+	- [ ] Spiral Model
+	- [ ] Agile Modelling
+	- [ ] Extreme Programming
+	- [ ] Rapid Application Development RAD
+- [ ] Writing and Following Algorithms	
+	- [ ] Properties of an Algorithm
+	- [ ] A "Divide and Conquer" Algorithm
+	- [ ] Drawing a Trace Table
+- [ ] Programming Paradigms	
+	- [ ] Programming Paradigms
+	- [ ] Procedual Languages
+	- [ ] Object-Oriented Languages
+	- [ ] Inheritance
+	- [ ] Polymorphism
+	- [ ] Constructors and Inheritance
+- [ ] Assembly Language	
+	- [ ] Instructions
+	- [ ] LMC
+	- [ ] Addressing Modes
+- [ ] Compression, Encryption and Hashing	
+	- [ ] Lossy
+	- [ ] Lossless
+	- [ ] Run Length Encoding
+	- [ ] Dictionary Based Compression
+	- [ ] Encryption
+	- [ ] Caesar Cipher
+	- [ ] The Verman Cipher
+	- [ ] Symmetric Encryption
+	- [ ] Asymetric Encryption 
+	- [ ] Hashing
+	- [ ] Digital Signatures
+- [ ] Database Concepts	
+	- [ ] Flat File
+	- [ ] Relationships
+	- [ ] Composite Keys
+	- [ ] Referential Integrity
+- [ ] ==Relational Databases and Normalisation==
+	- [ ] ==Relational Database Design==
+	- [ ] ==Linking Databases==
+	- [ ] ==Normalisation==
+- [ ] Introduction to SQL	
+	- [ ] SQL
+	- [ ] SELECT FROM WHERE
+	- [ ] Conditions
+	- [ ] Specifying Order
+	- [ ] SQL JOIN
+- [ ] Defining and Updating Tables using SQL	
+	- [ ] Data Types
+	- [ ] Altering a Table
+	- [ ] Linked Tables
+	- [ ] Inserting, updating and deleting data using SQL
+	- [ ] The SQL UPDATE statement
+- [ ] Transaction Processing	
+	- [ ] Capturing Data
+	- [ ] Selecting and Managing Data
+	- [ ] Exchanging Data
+	- [ ] Transcation Processing and ACID
+	- [ ] Multi-user databases
+- [ ] Structure of the Internet	
+	- [ ] The history of the internet and WWW
+	- [ ] URLs
+	- [ ] DNS
+	- [ ] FQDN
+	- [ ] IP Addresses
+	- [ ] WANS
+	- [ ] LANS
+	- [ ] Topologies
+	- [ ] Wi-Fi
+	- [ ] WAP
+- [ ] Internet Communication	
+	- [ ] Circuit Switching
+	- [ ] Packet Switching
+	- [ ] Routing Packets across Internet
+	- [ ] Routers and Gateways
+	- [ ] MAC Addresses
+	- [ ] Protocols
+	- [ ] TCP/IP
+- [ ] Network Security and Threats	
+	- [ ] Firewalls
+	- [ ] Encryption
+	- [ ] Worms, Trojans and Viruses
+	- [ ] System Vulnerabilities
+- [ ] HTML and CSS	
+	- [ ] HTML
+	- [ ] CSS
+- [ ] Webforms and Javascript	
+	- [ ] Forms
+	- [ ] Javascript
+	- [ ] Validation
+	- [ ] Arrays in Javascript
+- [ ] Search Engine Indexing	
+	- [ ] Search Engines
+	- [ ] PageRank Algorithm
+- [ ] Client Server and Peer-Peer	
+	- [ ] Client Server Networking
+	- [ ] Cloud Computing
+	- [ ] Peer-to-peer networks
+	- [ ] Client and Server side Processing
+	- [ ] API (Application Programming Interface)
+	- [ ] Thin vs thick client computing
+- [ ] Primitive Data Types, Binary and Hex	
+	- [ ] Number Bases
+	- [ ] Binary
+	- [ ] Hexadecimal
+	- [ ] Conversions
+- [ ] ASCII and Unicode	
+	- [ ] Bits and Bytes
+	- [ ] Unit Nomenclature
+	- [ ] ASCII Code
+	- [ ] Unicode
+- [ ] Binary Arithmetic	
+	- [ ] Binary Addition
+	- [ ] Overflow
+	- [ ] ==Sign and Magnitude==
+	- [ ] ==Two's Complement
+	- [ ] ==Fixed Point Binary==
+- [ ] ==Floating Point Arithmetic==
+	- [ ] ==Negative Exponents==
+	- [ ] ==Negative Mantissas==
+	- [ ] ==Normalisation==
+	- [ ] ==Floating Point Addition and Subtraction==
+	- [ ] ==Underflow and Overflow==
+- [ ] Bitwise Manipulation and Masks	
+	- [ ] Logical Shift Instructions
+	- [ ] Arithmetic Shift Instructions
+	- [ ] Circular Shift Instructions
+	- [ ] Logical Instructions
+- [ ] Arrays, Tuples and Records	
+	- [ ] Data Structures
+	- [ ] 2D Arrays
+	- [ ] Tuples
+	- [ ] Records
+- [ ] Queues	
+	- [ ] Abstract Data Types
+	- [ ] Queues
+	- [ ] Operations on a Queue
+	- [ ] Linear Queue
+	- [ ] Circular Queue
+	- [ ] Priority Queues
+- [ ] ==Lists and Linked Lists==
+	- [ ] Operations on a list
+	- [ ] Using an array
+	- [ ] ==Linked Lists==
+- [ ] Stacks	
+	- [ ] Applications of Stacks
+	- [ ] Implementation of Stacks
+	- [ ] Functions to call Stacks
+- [ ] Hash Tables	
+	- [ ] Hashing
+	- [ ] Searching for an Item
+	- [ ] Hashing Algorithms 
+	- [ ] Collision
+	- [ ] Dictionaries
+- [ ] Graphs	
+	- [ ] Transversing a Graph
+	- [ ] Breadth-First Search
+- [ ] Trees	
+	- [ ] Binary Search Tree
+	- [ ] Tree Traversal Algorithms
+- [ ] Logic Gates and Truth Tables	
+	- [ ] Binary Logic
+	- [ ] NOT Gate
+	- [ ] OR Gate
+	- [ ] XOR Gate
+	- [ ] AND Gate
+	- [ ] Logic Circuits
+	- [ ] Boolean Logic
+- [ ] Simplifying Boolean Expressions	
+	- [ ] De Morgans Law
+	- [ ] Rules of Boolean Algebra
+- [ ] Karnaugh Maps	
+	- [ ] Two Variable Problem
+	- [ ] Three Variable Problem
+	- [ ] Four Variable Problem
+- [ ] Adders and D-type flip flops	
+	- [ ] Half Adders
+	- [ ] Full Adders
+	- [ ] D-type Flip Flops
+- [ ] Computing Related Legislation	
+	- [ ] The Data Protection Act 1998
+	- [ ] The Computer Misuse Act 1990
+	- [ ] The Copyright Designs and Patents Act 1988
+	- [ ] The Regulation of Investigatory Powers Act 2000
+	- [ ] Analysing Personal Information
+- [ ] Ethical, Moral and Cultural Issues	
+	- [ ] The Economic Impact of the internet
+	- [ ] Computers in the Workplace
+	- [ ] User Generated content
+	- [ ] Algorithms and Ethics
+	- [ ] Driverless Cars
+	- [ ] Artifical Intelligence
+	- [ ] Environemntal Effects of Computers
+- [ ] Privacy and Censorship	
+	- [ ] Trolls on the Internet
+	- [ ] Censorship and the Internet
+	- [ ] Monitoring behaviour
+
+***
+## Paper 2
+- [ ] Thinking Abstractly	
+	- [ ] Computational Thinking
+	- [ ] ==Abstraction==
+- [ ] Thinking Ahead	
+	- [ ] Computational Problems
+	- [ ] Nature and Benefits of Caching. 
+- [ ] Thinking Procedurally	
+	- [ ] Procedural Abstraction
+	- [ ] Problem Decomposition
+	- [ ] Hierarchy Charts
+- [ ] Thinking Logically, Thinking Cocurrently	
+	- [ ] Structured Approach
+	- [ ] Tools for Designing Algorithms
+	- [ ] Thinking Cocurrently
+- [ ] Problem Recognition	
+	- [ ] Methods of Problem Solving
+	- [ ] Enumeration
+	- [ ] Strategies of Problem Solving
+	- [ ] Automation
+- [ ] Problem Solving	
+	- [ ] Visualisation
+	- [ ] Backtracking
+	- [ ] Data Mining
+	- [ ] Intractable Problems
+	- [ ] Heuristic Methods
+	- [ ] Perfomance Modelling
+	- [ ] Pipelining
+- [ ] Programming Basics	
+	- [ ] What is an algorithm
+	- [ ] Using pseudocode
+	- [ ] String Handling Functions
+	- [ ] Constants and Variables
+- [ ] Selection	
+	- [ ] Program Constructs
+	- [ ] Selection
+	- [ ] Boolean Operators
+- [ ] Iteration	
+	- [ ] Loop
+	- [ ] While Loop
+	- [ ] Nested Loop
+- [ ] Subroutines and Recursion	
+	- [ ] Types of Subroutine
+	- [ ] Local and Global Variables
+	- [ ] Modular Programming
+	- [ ] Call Stack
+- [ ] Use of IDE	
+	- [ ] New Program
+	- [ ] Compiling and Running
+	- [ ] Testing
+- [ ] Use of object-oriented Techniques	
+	- [ ] Procedural Programming
+	- [ ] OOP
+	- [ ] Classes
+	- [ ] Instantiation
+	- [ ] Encapsulation
+	- [ ] Inheritance
+	- [ ] Polymorphism
+- [ ] Analysis and Design of Algorithms
+	- [ ] Comparing Algorithms
+	- [ ] Linear Function
+	- [ ] Polynomial Function
+	- [ ] Exponential Function
+	- [ ] Permutations
+	- [ ] Big-O Notation
+- [ ] ==Searching Algorithms==
+	- [ ] ==Linear search==
+	- [ ] ==Binary Search==
+	- [ ] ==A Recursive Algorithm==
+	- [ ] ==Binary Search Tree==
+- [ ] Bubble Sort and Insertion Sort	
+	- [ ] Bubble Sort
+	- [ ] Insertion Sort
+- [ ] Merge sort and Quick Sort	
+	- [ ] Merge Sort
+	- [ ] Quick Sort
+- [ ] Graph Traversal Algorithms	
+- [ ] Optimisation Algorithms	
+	- [ ] Dijkstra's Shortest Path
+	- [ ] ==The A* algorithm==
