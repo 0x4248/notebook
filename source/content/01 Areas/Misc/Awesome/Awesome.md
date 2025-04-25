@@ -16,7 +16,7 @@ properties-ver: "1.1"
 # Awesome
 
 ***
-Awesome is a list of awesome things. On my website i have created my own awesome lists.
+Awesome is a list of awesome things. On my website I have created my own awesome lists.
 
 **KEY**
 - ⭐ - Good lists
@@ -24,3 +24,4 @@ Awesome is a list of awesome things. On my website i have created my own awesome
 **INDEX**
 - [[Awesome Linux Websites]] ⭐
 - [[Awesome Documentation Websites]]
+- [[Awesome obsidian websites]]

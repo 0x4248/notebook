@@ -15,7 +15,7 @@ properties-ver: "1.1"
 # Awesome Linux Websites
 ***
 >[!warning]+ Special characters
-> ![[missing char.png|50]] This page contains characters that may not be on your system. If you see boxes with an X or question mark this may be the reason. 
+>  This page contains characters that may not be on your system. If you see boxes with an X or question mark this may be the reason. 
 ## Archives and Mirrors
 - [Ibiblio distro archive](https://distro.ibiblio.org/)
     - [Browse Exhibits · ibiblio catalog](https://www.ibiblio.org/catalog/exhibits)

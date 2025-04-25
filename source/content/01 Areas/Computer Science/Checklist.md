@@ -209,7 +209,7 @@ A checklist of the current revision progress.
 	- [ ] Binary Addition
 	- [ ] Overflow
 	- [ ] ==Sign and Magnitude==
-	- [ ] ==Two's Complement
+	- [ ] ==Two's Complement==
 	- [ ] ==Fixed Point Binary==
 - [ ] ==Floating Point Arithmetic==
 	- [ ] ==Negative Exponents==
@@ -251,9 +251,9 @@ A checklist of the current revision progress.
 - [ ] Graphs	
 	- [ ] Transversing a Graph
 	- [ ] Breadth-First Search
-- [ ] Trees	
-	- [ ] Binary Search Tree
-	- [ ] Tree Traversal Algorithms
+- [ ] ==Trees==
+	- [ ] ==Binary Search Tree==
+	- [ ] ==Tree Traversal Algorithms==
 - [ ] Logic Gates and Truth Tables	
 	- [ ] Binary Logic
 	- [ ] NOT Gate

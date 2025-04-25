@@ -45,7 +45,7 @@ This is the alphabet of the conlang Calevera. The alphabet has 30 letters.
 | R          | /r/                       | rolled r (like Italian and russian) |
 | S          | /s/                       | **s**un                             |
 | T          | /t/                       | **t**op                             |
-| U          | /u/                       | f**l**ute                           |
+| U          | /u/                       | fl**u**te                           |
 | V          | /v/                       | **v**oice                           |
 | W          | /w/                       | **w**ater                           |
 | X          | /ks/                      | bo**x**                             |
