@@ -13,8 +13,6 @@ cssclasses:
 
 ***
 
-## Maps
-- [[Карты РУС]]
 ## Areas
 - [[Computer Science topics|Computer Science]]
 - Furry
