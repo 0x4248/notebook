@@ -37,7 +37,19 @@ Here is some render tests for different writing systems (Russian, Greek, Japanes
 - [[German alphabet|German]]
 - [[Polish alphabet|Polish]]
 
-**Conlangs I have made**
-- [[Takiyoka]]
-- [[Aurlian]]
-- [[Calvera]]
+<div class="X42-star-break-line-container">
+<hr>
+<p class="X42-star-break-line">***</p>
+<hr>
+</div>
+# Conlangs
+I have always had in interest in making conlangs (and even conations). Firstly what is a conlang?
+
+<p style="font-size:x-large;text-align:center;margin:0;font-family:sanserif;"><i>A conlang is a constructed language. It isnt real and made up.</i></p>
+
+## In progress
+- [[Calvera]] - Based on Latin and Italian
+- 
+## Scrapped conlangs
+- [[Takiyoka]] - Japanese and Korean influences 
+- [[Aurlian]] - Based on Greek and Cyrillic 
