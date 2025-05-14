@@ -68,6 +68,13 @@ Here is a list of every topic that is covered on the A Level Computer Science. W
 44. [[Computing Related Legislation]]
 45. [[Ethical, Moral and Cultural Issues]]
 46. [[Privacy and Censorship]]
+
+ <div class="X42-star-break-line-container">
+<hr>
+<p class="X42-star-break-line">***</p>
+<hr>
+</div>
+
 ### 10 - Computational thinking
 47. [[Thinking Abstractly]]
 48. [[Thinking Ahead]]

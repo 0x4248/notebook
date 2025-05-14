@@ -12,7 +12,7 @@ lang:
   - en
 properties-ver: "1.1"
 ---
-            # Checklist
+# Checklist
 
 ***
 A checklist of the current revision progress.
