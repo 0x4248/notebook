@@ -16,3 +16,4 @@ Normalisation is the process used to make the best possible design for a relatio
 - The database should allow all kinds of data queries done to the database.
 ## First normal form
 A database is in its first normal form if it doesn't contain any repeating attribute.
+

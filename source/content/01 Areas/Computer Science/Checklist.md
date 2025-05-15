@@ -134,7 +134,7 @@ A checklist of the current revision progress.
 - [ ] ==Relational Databases and Normalisation==
 	- [ ] ==Relational Database Design==
 	- [ ] ==Linking Databases==
-	- [ ] ==Normalisation==
+	- [x] ==Normalisation==
 - [ ] Introduction to SQL	
 	- [ ] SQL
 	- [ ] SELECT FROM WHERE
