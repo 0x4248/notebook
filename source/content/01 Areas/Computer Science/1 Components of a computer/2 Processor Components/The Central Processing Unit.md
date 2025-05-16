@@ -21,7 +21,6 @@ A bus commonly comes in 8, 16, 32 or 64 lines and can be split into three types:
 - Data bus 
 - Address bus
 - Control bus
-
 #### Data
 A data bus transports data between the CPU and memory.
 #### Control bus

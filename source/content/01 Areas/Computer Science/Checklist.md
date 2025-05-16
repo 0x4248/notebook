@@ -17,36 +17,36 @@ properties-ver: "1.1"
 ***
 A checklist of the current revision progress.
 ## Paper 1
-- [ ] Processor Components	
-	- [ ] The Central Processing Unit (CPU)
-	- [ ] Control Unit
-	- [ ] Buses - Control, Data and Address
-	- [ ] Arithmetic Logic Unit (ALU)
-	- [ ] Registers
-	- [ ] The Fetch, Decode, Execute Cycle
-- [ ] Processor Performance	
-	- [ ] Factors that can affect performance
-    	- [ ] Clock Speed
-    	- [ ] Number of Cores
-    	- [ ] Cache Memory
-    	- [ ] Pipelining
-- [ ] Types of Processor	
-	- [ ] The von Nuemann Machine
-	- [ ] Harvard Architecture
-	- [ ] Complex Instruction Set Computers (CISC)
-	- [ ] Reduced Instruction Set Computers (RISC)
+- [x] Processor Components	
+	- [x] The Central Processing Unit (CPU)
+	- [x] Control Unit
+	- [x] Buses - Control, Data and Address
+	- [x] Arithmetic Logic Unit (ALU)
+	- [x] Registers
+	- [x] The Fetch, Decode, Execute Cycle
+- [x] Processor Performance	
+	- [x] Factors that can affect performance
+    	- [x] Clock Speed
+    	- [x] Number of Cores
+    	- [x] Cache M emory
+    	- [x] Pipelining
+- [x] Types of Processor	
+	- [x] The von Nuemann Machine
+	- [x] Harvard Architecture
+	- [x] Complex Instruction Set Computers (CISC)
+	- [x] Reduced Instruction Set Computers (RISC)
 	- [ ] Multi-core and parallel systems
-	- [ ] Graphics Processing Unit (GPU)
-- [ ] Input Devices	
-	- [ ] Barcodes
-	- [ ] Digital Cameras
-	- [ ] Radio Frequency Identification (RFID)
-- [ ] Output Devices	
-	- [ ] Screens
-	- [ ] Printers
-	- [ ] Multimedia Projectors
-	- [ ] Computer Speakers
-	- [ ] Actuators
+	- [x] Graphics Processing Unit (GPU)
+- [x] Input Devices	
+	- [x] Barcodes
+	- [x] Digital Cameras
+	- [x] Radio Frequency Identification (RFID)
+- [x] Output Devices	
+	- [x] Screens
+	- [x] Printers
+	- [x] Multimedia Projectors
+	- [x] Computer Speakers
+	- [x] Actuators
 - [ ] Storage Devices	
 	- [ ] Secondary Storage
 	- [ ] Hard Disk
@@ -70,16 +70,16 @@ A checklist of the current revision progress.
 	- [ ] Real-time Operating Systems
 	- [ ] BIOS
 	- [ ] Device Drivers
-- [ ] The Nature of Applications	
-	- [ ] Systems Software
-	- [ ] Operating System
-	- [ ] Utility Programs
-	- [ ] Backup
-	- [ ] Updates
-	- [ ] Virus Checker
-	- [ ] Compression
-	- [ ] Application Software
-	- [ ] Open Vs Closed Source
+- [x] The Nature of Applications	
+	- [x] Systems Software
+	- [x] Operating System
+	- [x] Utility Programs
+	- [x] Backup
+	- [x] Updates
+	- [x] Virus Checker
+	- [x] Compression
+	- [x] Application Software
+	- [x] Open Vs Closed Source
 - [ ] Programming Language Translators	
 	- [ ] Assembler
 	- [ ] Compiler
@@ -153,17 +153,17 @@ A checklist of the current revision progress.
 	- [ ] Exchanging Data
 	- [ ] Transcation Processing and ACID
 	- [ ] Multi-user databases
-- [ ] Structure of the Internet	
-	- [ ] The history of the internet and WWW
-	- [ ] URLs
-	- [ ] DNS
-	- [ ] FQDN
-	- [ ] IP Addresses
-	- [ ] WANS
-	- [ ] LANS
-	- [ ] Topologies
-	- [ ] Wi-Fi
-	- [ ] WAP
+- [x] Structure of the Internet	
+	- [x] The history of the internet and WWW
+	- [x] URLs
+	- [x] DNS
+	- [x] FQDN
+	- [x] IP Addresses
+	- [x] WANS
+	- [x] LANS
+	- [x] Topologies
+	- [x] Wi-Fi
+	- [x] WAP
 - [ ] Internet Communication	
 	- [ ] Circuit Switching
 	- [ ] Packet Switching
@@ -177,14 +177,14 @@ A checklist of the current revision progress.
 	- [ ] Encryption
 	- [ ] Worms, Trojans and Viruses
 	- [ ] System Vulnerabilities
-- [ ] HTML and CSS	
-	- [ ] HTML
-	- [ ] CSS
-- [ ] Webforms and Javascript	
-	- [ ] Forms
-	- [ ] Javascript
-	- [ ] Validation
-	- [ ] Arrays in Javascript
+- [x] HTML and CSS	
+	- [x] HTML
+	- [x] CSS
+- [x] Webforms and Javascript	
+	- [x] Forms
+	- [x] Javascript
+	- [x] Validation
+	- [x] Arrays in Javascript
 - [ ] Search Engine Indexing	
 	- [ ] Search Engines
 	- [ ] PageRank Algorithm
@@ -195,16 +195,16 @@ A checklist of the current revision progress.
 	- [ ] Client and Server side Processing
 	- [ ] API (Application Programming Interface)
 	- [ ] Thin vs thick client computing
-- [ ] Primitive Data Types, Binary and Hex	
-	- [ ] Number Bases
-	- [ ] Binary
-	- [ ] Hexadecimal
-	- [ ] Conversions
-- [ ] ASCII and Unicode	
-	- [ ] Bits and Bytes
-	- [ ] Unit Nomenclature
-	- [ ] ASCII Code
-	- [ ] Unicode
+- [x] Primitive Data Types, Binary and Hex	
+	- [x] Number Bases
+	- [x] Binary
+	- [x] Hexadecimal
+	- [x] Conversions
+- [x] ASCII and Unicode	
+	- [x] Bits and Bytes
+	- [x] Unit Nomenclature
+	- [x] ASCII Code
+	- [x] Unicode
 - [ ] Binary Arithmetic	
 	- [ ] Binary Addition
 	- [ ] Overflow
@@ -227,27 +227,27 @@ A checklist of the current revision progress.
 	- [ ] 2D Arrays
 	- [ ] Tuples
 	- [ ] Records
-- [ ] Queues	
-	- [ ] Abstract Data Types
-	- [ ] Queues
-	- [ ] Operations on a Queue
-	- [ ] Linear Queue
+- [x] Queues	
+	- [x] Abstract Data Types
+	- [x] Queues
+	- [x] Operations on a Queue
+	- [x] Linear Queue
 	- [ ] Circular Queue
 	- [ ] Priority Queues
 - [ ] ==Lists and Linked Lists==
 	- [ ] Operations on a list
 	- [ ] Using an array
 	- [ ] ==Linked Lists==
-- [ ] Stacks	
-	- [ ] Applications of Stacks
-	- [ ] Implementation of Stacks
-	- [ ] Functions to call Stacks
-- [ ] Hash Tables	
-	- [ ] Hashing
-	- [ ] Searching for an Item
-	- [ ] Hashing Algorithms 
-	- [ ] Collision
-	- [ ] Dictionaries
+- [x] Stacks	
+	- [x] Applications of Stacks
+	- [x] Implementation of Stacks
+	- [x] Functions to call Stacks
+- [x] Hash Tables	
+	- [x] Hashing
+	- [x] Searching for an Item
+	- [x] Hashing Algorithms 
+	- [x] Collision
+	- [x] Dictionaries
 - [ ] Graphs	
 	- [ ] Transversing a Graph
 	- [ ] Breadth-First Search
@@ -273,33 +273,33 @@ A checklist of the current revision progress.
 	- [ ] Half Adders
 	- [ ] Full Adders
 	- [ ] D-type Flip Flops
-- [ ] Computing Related Legislation	
-	- [ ] The Data Protection Act 1998
-	- [ ] The Computer Misuse Act 1990
-	- [ ] The Copyright Designs and Patents Act 1988
-	- [ ] The Regulation of Investigatory Powers Act 2000
-	- [ ] Analysing Personal Information
-- [ ] Ethical, Moral and Cultural Issues	
-	- [ ] The Economic Impact of the internet
-	- [ ] Computers in the Workplace
-	- [ ] User Generated content
-	- [ ] Algorithms and Ethics
-	- [ ] Driverless Cars
-	- [ ] Artifical Intelligence
-	- [ ] Environemntal Effects of Computers
-- [ ] Privacy and Censorship	
-	- [ ] Trolls on the Internet
-	- [ ] Censorship and the Internet
-	- [ ] Monitoring behaviour
+- [x] Computing Related Legislation	
+	- [x] The Data Protection Act 1998
+	- [x] The Computer Misuse Act 1990
+	- [x] The Copyright Designs and Patents Act 1988
+	- [x] The Regulation of Investigatory Powers Act 2000
+	- [x] Analysing Personal Information
+- [x] Ethical, Moral and Cultural Issues	
+	- [x] The Economic Impact of the internet
+	- [x] Computers in the Workplace
+	- [x] User Generated content
+	- [x] Algorithms and Ethics
+	- [x] Driverless Cars
+	- [x] Artifical Intelligence
+	- [x] Environemntal Effects of Computers
+- [x] Privacy and Censorship	
+	- [x] Trolls on the Internet
+	- [x] Censorship and the Internet
+	- [x] Monitoring behaviour
 
 ***
 ## Paper 2
-- [ ] Thinking Abstractly	
-	- [ ] Computational Thinking
+- [x] Thinking Abstractly	
+	- [x] Computational Thinking
 	- [ ] ==Abstraction==
-- [ ] Thinking Ahead	
-	- [ ] Computational Problems
-	- [ ] Nature and Benefits of Caching. 
+- [x] Thinking Ahead	
+	- [x] Computational Problems
+	- [x] Nature and Benefits of Caching. 
 - [ ] Thinking Procedurally	
 	- [ ] Procedural Abstraction
 	- [ ] Problem Decomposition
@@ -326,23 +326,23 @@ A checklist of the current revision progress.
 	- [ ] Using pseudocode
 	- [ ] String Handling Functions
 	- [ ] Constants and Variables
-- [ ] Selection	
-	- [ ] Program Constructs
-	- [ ] Selection
-	- [ ] Boolean Operators
-- [ ] Iteration	
-	- [ ] Loop
-	- [ ] While Loop
-	- [ ] Nested Loop
-- [ ] Subroutines and Recursion	
-	- [ ] Types of Subroutine
-	- [ ] Local and Global Variables
-	- [ ] Modular Programming
+- [x] Selection	
+	- [x] Program Constructs
+	- [x] Selection
+	- [x] Boolean Operators
+- [x] Iteration	
+	- [x] Loop
+	- [x] While Loop
+	- [x] Nested Loop
+- [x] Subroutines and Recursion	
+	- [x] Types of Subroutine
+	- [x] Local and Global Variables
+	- [x] Modular Programming
 	- [ ] Call Stack
-- [ ] Use of IDE	
-	- [ ] New Program
-	- [ ] Compiling and Running
-	- [ ] Testing
+- [x] Use of IDE	
+	- [x] New Program
+	- [x] Compiling and Running
+	- [x] Testing
 - [ ] Use of object-oriented Techniques	
 	- [ ] Procedural Programming
 	- [ ] OOP
@@ -363,9 +363,9 @@ A checklist of the current revision progress.
 	- [ ] ==Binary Search==
 	- [ ] ==A Recursive Algorithm==
 	- [ ] ==Binary Search Tree==
-- [ ] Bubble Sort and Insertion Sort	
-	- [ ] Bubble Sort
-	- [ ] Insertion Sort
+- [x] Bubble Sort and Insertion Sort	
+	- [x] Bubble Sort
+	- [x] Insertion Sort
 - [ ] Merge sort and Quick Sort	
 	- [ ] Merge Sort
 	- [ ] Quick Sort

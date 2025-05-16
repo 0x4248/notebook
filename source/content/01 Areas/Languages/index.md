@@ -49,7 +49,7 @@ I have always had in interest in making conlangs (and even conations). Firstly w
 
 ## In progress
 - [[Calvera]] - Based on Latin and Italian
-- 
+- [[Stravik]] - Based on Cyrillic and Greek
 ## Scrapped conlangs
 - [[Takiyoka]] - Japanese and Korean influences 
 - [[Aurlian]] - Based on Greek and Cyrillic 

@@ -10,8 +10,7 @@ cssclasses:
 # Encryption
 
 ***
-Encryption is the transformation from one form to another in order to prevent unauthorized access to the original data.
-
+Encryption is the transformation from one form to another in order to prevent unauthorised access to the original data.
 ## Key terms
 - Plaintext - the original data
 - Cipher text -  the encrypted data 
