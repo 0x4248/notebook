@@ -16,6 +16,3 @@ properties-ver: "1.1"
 
 ***
 In relational databases, the data is held in tables that are linked together. Each table has a primary key that **uniquely identifies each record in the table.** A row in the table is called a record and the column is called an attribute.
-
-| 
-
