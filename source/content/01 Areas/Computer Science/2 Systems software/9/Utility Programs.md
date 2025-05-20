@@ -9,9 +9,6 @@ cssclasses:
 ---
 # Utility Programs
 ***
-Utility software is [[Systems Software]] designed to optimise the performance of the computer or do tasks that can 
-## Disk defragmentation
-A disk defragmenter is a program that optimises a magnetic hard disk to make it faster to read files. 
-## Automatic backup
+Utility software is [[Systems Software]] designed to optimise the performance of the computer or do tasks that can maintain the system.
 
-## Virus checker
+These 

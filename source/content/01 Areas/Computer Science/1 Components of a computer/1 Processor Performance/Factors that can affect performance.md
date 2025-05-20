@@ -14,7 +14,6 @@ cssclasses:
 - Clock speed
 - Number of cores
 - Cache memory
-
 ## Clock speed
 Every cpu activity is begun with a clock pulse. The more of these clock pulses there are per second the more instructions can be ran. Speeding up the clock speed will allow the processor.
 ## Number of cores
