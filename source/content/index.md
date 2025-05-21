@@ -60,7 +60,7 @@ Content from 0x4248's Notebook. Copyright © 2025 0x4248, 4248 Media and Contrib
 Short example:
 
 ```markdown
-CC BY-SA 4.0 © 2025 0x4248 .
+CC BY-SA 4.0 © 2025 0x4248.
 ```
 
 In this vault there are also many images. All images in this vault are my own unless stated otherwise at the top of the file. You may see a banner saying "Non free content".
