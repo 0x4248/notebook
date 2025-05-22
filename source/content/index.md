@@ -68,7 +68,7 @@ In this vault there are also many images. All images in this vault are my own un
 If you do use an image from my vault that I took or made please use the 4248 Media copyright or the 0x4248 copyright
 
 ```
-Copyright © 2025 4248 Media, A division of 0x4248. Licensed under CC BY-SA 4.0.
+Copyright © 2025 4248 Media, A part of 0x4248. Licensed under CC BY-SA 4.0.
 ```
 ## Languages
 This vault is primarily in english, some pages are in other languages which are tagged with the language tag. For example the tag would be lang with the country code such as UK for Ukrainian or GR for Greek. 
