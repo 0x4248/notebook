@@ -47,12 +47,12 @@ A checklist of the current revision progress.
 	- [x] Multimedia Projectors
 	- [x] Computer Speakers
 	- [x] Actuators
-- [ ] Storage Devices	
-	- [ ] Secondary Storage
-	- [ ] Hard Disk
-	- [ ] Optical
-	- [ ] Solid State
-	- [ ] RAM and ROM
+- [x] Storage Devices	
+	- [x] Secondary Storage
+	- [x] Hard Disk
+	- [x] Optical
+	- [x] Solid State
+	- [x] RAM and ROM
 - [ ] Functions of an Operating System	
 	- [ ] Functions
 	- [ ] Memory Management

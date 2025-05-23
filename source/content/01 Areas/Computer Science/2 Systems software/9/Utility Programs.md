@@ -10,5 +10,3 @@ cssclasses:
 # Utility Programs
 ***
 Utility software is [[Systems Software]] designed to optimise the performance of the computer or do tasks that can maintain the system.
-
-These 

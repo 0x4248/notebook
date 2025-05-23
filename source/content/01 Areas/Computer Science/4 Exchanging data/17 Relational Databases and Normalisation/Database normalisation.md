@@ -19,7 +19,7 @@ A database is in its first normal form if it doesn't contain any repeating attri
 
  %%
  
-For a table to be in first normal form it must:
+%% For a table to be in first normal form it must:
 - Contain atomic values
     - Each column in a table must contain single, indivisible values        
 - Have no repeating groups
@@ -27,5 +27,9 @@ For a table to be in first normal form it must:
 - Have unique column names
     - Each column must have a unique name within the table
 - Have a unique identifier (primary key)
-    - Each row must have a unique identifier to distinguish it from other rows
+    - Each row must have a unique identifier to distinguish it from other rows %%
 
+## What is normalisation?
+Normalisation is the process of creating a database structure that has the best possible design. The tables should designed so that:
+- Data is not duplicated without a reason
+- The data is kept consistent
