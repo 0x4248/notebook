@@ -32,4 +32,5 @@ A database is in its first normal form if it doesn't contain any repeating attri
 ## What is normalisation?
 Normalisation is the process of creating a database structure that has the best possible design. The tables should designed so that:
 - Data is not duplicated without a reason
-- The data is kept consistent
+- The data is kept consistent in the databases
+-  
