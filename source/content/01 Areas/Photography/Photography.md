@@ -16,7 +16,7 @@ properties-ver: "1.1"
 # Photography
 
 ***
-I have two DLSR camreas, 4000D and the 5D  Mark IV.
+I have two DLSR cameras, 4000D and the 5D  Mark IV.
 ## 2024
 ### Collection 1 (Sunsets)
 ![[AT0A4745.webp]]

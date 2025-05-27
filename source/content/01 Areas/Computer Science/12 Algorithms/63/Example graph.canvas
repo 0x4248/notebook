@@ -1,0 +1,123 @@
+{
+  "edges": [
+    {
+      "fromNode": "54cdfbee903742c2",
+      "fromSide": "top",
+      "id": "4c53c95d38793439",
+      "styleAttributes": {
+      },
+      "toNode": "93645c9036aa304b",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "93645c9036aa304b",
+      "fromSide": "top",
+      "id": "cb16acd525de7188",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "bcbe3c7f90e71684",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "9f5a4a87925c96fe",
+      "fromSide": "top",
+      "id": "2d6401bc23435aaa",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "bcbe3c7f90e71684",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "5f9cd34abf7e5d79",
+      "fromSide": "top",
+      "id": "22676f7e3824de6f",
+      "styleAttributes": {
+        "path": null,
+        "pathfindingMethod": null
+      },
+      "toEnd": "none",
+      "toNode": "9f5a4a87925c96fe",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "c2b397a49fd9d2eb",
+      "fromSide": "top",
+      "id": "c65abd3bce915064",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "5f9cd34abf7e5d79",
+      "toSide": "bottom"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "54cdfbee903742c2",
+      "styleAttributes": {
+      },
+      "text": "<p style=\"text-align:center;\">Adam</p>",
+      "type": "text",
+      "width": 260,
+      "x": -1050,
+      "y": 40
+    },
+    {
+      "height": 60,
+      "id": "9f5a4a87925c96fe",
+      "styleAttributes": {
+      },
+      "text": "<p style=\"text-align:center;\">Dennis</p>",
+      "type": "text",
+      "width": 260,
+      "x": -400,
+      "y": -140
+    },
+    {
+      "height": 60,
+      "id": "93645c9036aa304b",
+      "styleAttributes": {
+      },
+      "text": "<p style=\"text-align:center;\">Bill</p>",
+      "type": "text",
+      "width": 260,
+      "x": -920,
+      "y": -140
+    },
+    {
+      "height": 60,
+      "id": "5f9cd34abf7e5d79",
+      "styleAttributes": {
+      },
+      "text": "<p style=\"text-align:center;\">Eric</p>",
+      "type": "text",
+      "width": 260,
+      "x": -270,
+      "y": 10
+    },
+    {
+      "height": 60,
+      "id": "c2b397a49fd9d2eb",
+      "styleAttributes": {
+      },
+      "text": "<p style=\"text-align:center;\">Fiona</p>",
+      "type": "text",
+      "width": 260,
+      "x": -440,
+      "y": 160
+    },
+    {
+      "height": 60,
+      "id": "bcbe3c7f90e71684",
+      "styleAttributes": {
+      },
+      "text": "<p style=\"text-align:center;\">Charlie</p>",
+      "type": "text",
+      "width": 260,
+      "x": -660,
+      "y": -360
+    }
+  ]
+}
