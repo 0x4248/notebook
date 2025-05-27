@@ -12,11 +12,7 @@ cssclasses:
 ## Contents
 - [[Aspects of software development]]
 - [[Development Models]]
-- [[The Waterfall Cycle]]
-- [[Spiral Model]]
-- [[Agile Modeling]]
-- [[Extreme Programming]]
-- [[Rapid Application Development RAD]]
+
 
 ![[Aspects of software development]]
 ![[Development Models]]

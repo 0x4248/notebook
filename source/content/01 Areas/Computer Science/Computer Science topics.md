@@ -18,8 +18,8 @@ Here is a list of every topic that is covered on the A Level Computer Science. W
 2. [[Processor Performance]]
 3. [[Types of Processor]]
 4. [[Input Devices]]
-5. [[Output Devices]]
-6. [[Storage Devices]]
+    1. [[Output Devices]]
+5. [[Storage Devices]]
 ### 2 - Systems software
 7. [[Functions of an Operating System]]
 8. [[Types of Operating System]]

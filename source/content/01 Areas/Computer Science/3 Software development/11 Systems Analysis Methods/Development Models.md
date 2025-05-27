@@ -13,8 +13,8 @@ cssclasses:
 There are many different development lifecycles that can be used to develop a system. Some of the most common ones are:
 - [[#The Waterfall Cycle]]
 - [[#Spiral Model]]
-- Agile Modeling
-- Extreme Programming
+- [[#Agile Modeling]]
+- [[#Extreme Programming]]
 
 ## The Waterfall Cycle
 The Waterfall Cycle is a linear model that has the following stages:
