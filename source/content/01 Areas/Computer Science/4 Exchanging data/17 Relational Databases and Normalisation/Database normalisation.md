@@ -9,27 +9,13 @@ cssclasses:
 ---
 # Normalisation
 ***
-%% Normalisation is the process used to make the best possible design for a relational database.
-- No data is duplicated without a reason
-- Data is consistent throughout
-- The structure of the database should be flexible so the user can add as little or as many amount of data to the database
-- The database should allow all kinds of data queries done to the database.
-## First normal form
-A database is in its first normal form if it doesn't contain any repeating attribute.
-
- %%
- 
-%% For a table to be in first normal form it must:
-- Contain atomic values
-    - Each column in a table must contain single, indivisible values        
-- Have no repeating groups
-    - Columns must not contain arrays or lists of values
-- Have unique column names
-    - Each column must have a unique name within the table
-- Have a unique identifier (primary key)
-    - Each row must have a unique identifier to distinguish it from other rows %%
 
 ## What is normalisation?
-Normalisation is the process of creating a database structure that has the best possible design. The tables should designed so that:
-- Data is not duplicated without a reason
-- The data is kept consistent in the databases
+Normalisation is the process of creating a database structure that has the best possible design. There are three stages of this. 1NF, 2NF and 3NF.
+
+| 0NF                  | 1NF                                   | 2NF                                             | 3NF                                                                             |
+| -------------------- | ------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------- |
+| A flat file database | No columns with repeated data         | Must have 1NF rules                             | Must have 1NF and 2NF rules                                                     |
+|                      | Each row is unique with a primary key | Each of the fields must rely on the primary key | No field should rely on another non key field *E.g A DB cant store age and DOB* |
+|                      | Each fields must have a unique name   |                                                 |                                                                                 |
+
