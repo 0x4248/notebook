@@ -15,6 +15,7 @@ properties-ver: "1.1"
 
 ***
 **Stravik** is a conlang that uses Latin, Cyrillic and Greek characters. It has its own official script but also has a unicode assigned letter for unicode support.
+![[01 Areas/Languages/Conlangs/Stravik/Letters/P.svg]] ![[01 Areas/Languages/Conlangs/Stravik/Letters/R.svg]] ![[YE.svg]]
 
 | Official script                                               | Unicode Letter | Sound             | Base     |
 | ------------------------------------------------------------- | -------------- | ----------------- | -------- |
@@ -37,7 +38,7 @@ properties-ver: "1.1"
 | ![[01 Areas/Languages/Conlangs/Stravik/Letters/O.svg\|20]]    | О              | /o/               | Cyrillic |
 | ![[01 Areas/Languages/Conlangs/Stravik/Letters/P.svg\|20]]    | П              | /p/               | Cyrillic |
 | ![[01 Areas/Languages/Conlangs/Stravik/Letters/R.svg\|20]]    | Р              | /r/               | Cyrillic |
-| ![[01 Areas/Languages/Conlangs/Stravik/Letters/S.svg\|20]]    | **Σ**          | /s/               | Greek    |
+| ![[01 Areas/Languages/Conlangs/Stravik/Letters/S.svg\|20]]    | Σ              | /s/               | Greek    |
 | ![[01 Areas/Languages/Conlangs/Stravik/Letters/T.svg\|20]]    | Т              | /t/               | Cyrillic |
 | ![[01 Areas/Languages/Conlangs/Stravik/Letters/U.svg\|20]]    | У              | /u/               | Cyrillic |
 | ![[01 Areas/Languages/Conlangs/Stravik/Letters/F.svg\|20]]    | Ф              | /f/               | Cyrillic |
@@ -52,4 +53,4 @@ properties-ver: "1.1"
 | ![[01 Areas/Languages/Conlangs/Stravik/Letters/E.svg\|20]]    | Э              | /ze/ (after soft) | Cyrillic |
 | ![[01 Areas/Languages/Conlangs/Stravik/Letters/YU.svg\|20]]   | Ю              | /yu/              | Cyrillic |
 | ![[01 Areas/Languages/Conlangs/Stravik/Letters/YA.svg\|20]]   | Я              | /ya/              | Cyrillic |
-| ![[01 Areas/Languages/Conlangs/Stravik/Letters/Q.svg\|20]]    | **Λ**          | /q/               | Greek    |
+| ![[01 Areas/Languages/Conlangs/Stravik/Letters/Q.svg\|20]]    | Λ              | /q/               | Greek    |
