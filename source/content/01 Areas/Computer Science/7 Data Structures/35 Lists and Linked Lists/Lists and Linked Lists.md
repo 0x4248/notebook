@@ -19,11 +19,10 @@ aliases:
 # Lists and Linked Lists
 ***
 ## Contents
-- What is a list?
-- [[Operations on a list]]
-- [[Using an array]]
-- [[Linked Lists]]
-
+- [[#What is a list?]]
+- [[#Operations on a list]]
+- [[#Examples]]
+- [[#Linked lists]]
 ## What is a list?
 A list is an abstract data type that contains a number of items of the same datatype. This can be a list of arrays or a list of characters.
 ### Examples
@@ -56,11 +55,6 @@ In this example I will use the list `[A,B,C,D]`. This list will be called `demo`
 <p class="X42-star-break-line">***</p>
 <hr>
 </div>
-<h2 style="text-align: center;">Linked Lists</h2>
-**What are linked lists**
-A linked list is a dynamic data structure that holds a ordered data structure, where each element points to the next element.  
 
-
-The items which form the sequence are net necessarily held in contiguous data locations, cr in the order in which they occur in the sequence.
-
-Each item in the list is called a node and contains a data field and a next address field called a link or pointer field (the data field may consist of several subfields.) • ' he data field holds the actual data associated with the list item, and the pointer field contains the address of the next item in the sequence • ' he link Held in the last item indicates that there are nc further items by the use of a null pointer • Associated with the list is a pointer variable which points to (i.e. contains the address of) the first node in the list
+## Linked lists
+A linked list is a dynamic data structure that holds a ordered data structure, where each element points to the next element. 
