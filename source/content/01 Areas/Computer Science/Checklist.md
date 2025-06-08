@@ -103,17 +103,17 @@ A checklist of the current revision progress.
 	- [ ] Properties of an Algorithm
 	- [ ] A "Divide and Conquer" Algorithm
 	- [ ] Drawing a Trace Table
-- [ ] Programming Paradigms	
-	- [ ] Programming Paradigms
-	- [ ] Procedual Languages
-	- [ ] Object-Oriented Languages
-	- [ ] Inheritance
-	- [ ] Polymorphism
-	- [ ] Constructors and Inheritance
-- [ ] Assembly Language	
-	- [ ] Instructions
-	- [ ] LMC
-	- [ ] Addressing Modes
+- [x] Programming Paradigms	
+	- [x] Programming Paradigms
+	- [x] Procedual Languages
+	- [x] Object-Oriented Languages
+	- [x] Inheritance
+	- [x] Polymorphism
+	- [x] Constructors and Inheritance
+- [x] Assembly Language	
+	- [x] Instructions
+	- [x] LMC
+	- [x] Addressing Modes
 - [ ] Compression, Encryption and Hashing	
 	- [ ] Lossy
 	- [ ] Lossless
