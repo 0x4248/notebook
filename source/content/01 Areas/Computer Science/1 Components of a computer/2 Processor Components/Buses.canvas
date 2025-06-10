@@ -1,19 +1,142 @@
 {
-	"nodes":[
-		{"id":"b77a6487ef6d7ff9","x":-140,"y":60,"width":300,"height":160,"color":"2","type":"group","label":"Memory"},
-		{"id":"65201f220305cd8a","type":"text","text":"# Data bus","x":240,"y":170,"width":240,"height":50,"color":"6"},
-		{"id":"0d20855da8b85da0","type":"text","text":"# Control bus","x":240,"y":110,"width":240,"height":50,"color":"4"},
-		{"id":"14f7bc1cdc9460cb","type":"text","text":"# Address bus","x":240,"y":230,"width":240,"height":50,"color":"5"},
-		{"id":"5878f391324fc7a8","x":-117,"y":85,"width":250,"height":50,"color":"4","type":"text","text":"Instruction"},
-		{"id":"3f177e4af0f7885a","x":-117,"y":145,"width":245,"height":50,"color":"4","type":"text","text":"Data"},
-		{"id":"027c621f51619f82","x":560,"y":167,"width":114,"height":56,"color":"1","type":"text","text":"# CPU"}
-	],
-	"edges":[
-		{"id":"0c04c049ca7f1b1b","fromNode":"027c621f51619f82","fromSide":"left","toNode":"14f7bc1cdc9460cb","toSide":"right","color":"5"},
-		{"id":"af967356d874d7ad","fromNode":"3f177e4af0f7885a","fromSide":"right","toNode":"65201f220305cd8a","toSide":"left","fromEnd":"arrow","color":"6"},
-		{"id":"24389e828e642fb4","fromNode":"5878f391324fc7a8","fromSide":"right","toNode":"0d20855da8b85da0","toSide":"left","fromEnd":"arrow","color":"4"},
-		{"id":"22b36019f0ea0281","fromNode":"65201f220305cd8a","fromSide":"right","toNode":"027c621f51619f82","toSide":"left","fromEnd":"arrow","color":"6"},
-		{"id":"e97db9424066c195","fromNode":"0d20855da8b85da0","fromSide":"right","toNode":"027c621f51619f82","toSide":"left","fromEnd":"arrow","color":"4"},
-		{"id":"0c0e2dc9bc661d98","fromNode":"14f7bc1cdc9460cb","fromSide":"left","toNode":"b77a6487ef6d7ff9","toSide":"bottom","color":"5"}
-	]
+  "edges": [
+    {
+      "color": "5",
+      "fromNode": "027c621f51619f82",
+      "fromSide": "left",
+      "id": "0c04c049ca7f1b1b",
+      "toNode": "14f7bc1cdc9460cb",
+      "toSide": "right"
+    },
+    {
+      "color": "6",
+      "fromEnd": "arrow",
+      "fromNode": "3f177e4af0f7885a",
+      "fromSide": "right",
+      "id": "af967356d874d7ad",
+      "toNode": "65201f220305cd8a",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromEnd": "arrow",
+      "fromNode": "5878f391324fc7a8",
+      "fromSide": "right",
+      "id": "24389e828e642fb4",
+      "toNode": "0d20855da8b85da0",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromEnd": "arrow",
+      "fromNode": "65201f220305cd8a",
+      "fromSide": "right",
+      "id": "22b36019f0ea0281",
+      "toNode": "027c621f51619f82",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromEnd": "arrow",
+      "fromNode": "0d20855da8b85da0",
+      "fromSide": "right",
+      "id": "e97db9424066c195",
+      "toNode": "027c621f51619f82",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "14f7bc1cdc9460cb",
+      "fromSide": "left",
+      "id": "0c0e2dc9bc661d98",
+      "toNode": "b77a6487ef6d7ff9",
+      "toSide": "bottom"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "2",
+      "height": 160,
+      "id": "b77a6487ef6d7ff9",
+      "label": "Memory",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 300,
+      "x": -140,
+      "y": 60
+    },
+    {
+      "color": "6",
+      "height": 50,
+      "id": "65201f220305cd8a",
+      "styleAttributes": {
+      },
+      "text": "# Data bus",
+      "type": "text",
+      "width": 240,
+      "x": 240,
+      "y": 170
+    },
+    {
+      "color": "4",
+      "height": 50,
+      "id": "0d20855da8b85da0",
+      "styleAttributes": {
+      },
+      "text": "# Control bus",
+      "type": "text",
+      "width": 240,
+      "x": 240,
+      "y": 110
+    },
+    {
+      "color": "5",
+      "height": 50,
+      "id": "14f7bc1cdc9460cb",
+      "styleAttributes": {
+      },
+      "text": "# Address bus",
+      "type": "text",
+      "width": 240,
+      "x": 240,
+      "y": 230
+    },
+    {
+      "color": "4",
+      "height": 50,
+      "id": "5878f391324fc7a8",
+      "styleAttributes": {
+      },
+      "text": "Instruction",
+      "type": "text",
+      "width": 250,
+      "x": -117,
+      "y": 85
+    },
+    {
+      "color": "4",
+      "height": 50,
+      "id": "3f177e4af0f7885a",
+      "styleAttributes": {
+      },
+      "text": "Data",
+      "type": "text",
+      "width": 245,
+      "x": -117,
+      "y": 145
+    },
+    {
+      "color": "1",
+      "height": 56,
+      "id": "027c621f51619f82",
+      "styleAttributes": {
+      },
+      "text": "# CPU",
+      "type": "text",
+      "width": 114,
+      "x": 560,
+      "y": 167
+    }
+  ]
 }
