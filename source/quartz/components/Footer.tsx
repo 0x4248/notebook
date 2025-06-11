@@ -14,7 +14,11 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`} style="font-size: 0.8rem;">
         <p style="margin-top: 0;">
-          <strong>Copyright © 2025 0x4248, 4248 Media and Contributors.</strong><br></br>Licensed under the Creative Commons Share-Alike Attribution License (CC BY-SA 4.0).
+          <strong>Copyright:</strong>
+          © 2025 0x4248<br></br>
+          © 2025 4248 Media, 4248 Music and 4248 Sound Recording, a part of 0x4248<br></br>
+          Licensed under the Creative Commons Share-Alike Attribution License (CC BY-SA 4.0). <br></br>
+          Some content may be under different licenses or copyrights and may be noted as such.
         </p>
       </footer>
     )
