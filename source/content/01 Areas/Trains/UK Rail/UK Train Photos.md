@@ -9,6 +9,8 @@ cssclasses:
 ---
 # British Train Photos
 ***
+
+Here are some images I have taken of British trains, along with their classes and operators.
 ## High speed passenger
 
 | Image                    | Class         | Operator          | Manufacturer    |
