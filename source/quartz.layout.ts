@@ -27,9 +27,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Breadcrumbs(),
-    Component.ContentMeta(),
-    Component.TagList(),
+    Component.DesktopOnly(Component.Breadcrumbs()),
+    Component.DesktopOnly(Component.ContentMeta()),
+    Component.DesktopOnly(Component.TagList()),
     Component.Graph({
       localGraph: {
         drag: true, // whether to allow panning the view around
@@ -59,7 +59,7 @@ export const defaultContentPageLayout: PageLayout = {
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.DesktopOnly(Component.Backlinks()),
   ],
 }
 
