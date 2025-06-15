@@ -5,8 +5,7 @@ cssclasses:
   - neo-headings
   - bai-headings
   - rounded-images
-  - page-slate
-  - page-slate-headings
+  - page-blue
 ---
 # Home hub one images
 ***

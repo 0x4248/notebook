@@ -6,8 +6,7 @@ cssclasses:
   - neo-headings
   - bai-headings
   - rounded-images
-  - page-slate
-  - page-slate-headings
+  - page-blue
 ---
 # Home hub two images without heat plates
 

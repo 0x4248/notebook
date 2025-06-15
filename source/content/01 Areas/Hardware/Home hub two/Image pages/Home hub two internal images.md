@@ -6,8 +6,7 @@ cssclasses:
   - neo-headings
   - bai-headings
   - rounded-images
-  - page-slate
-  - page-slate-headings
+  - page-blue
 ---
 # Home hub two internal images
 <p class="text-center" style="margin:0;color:gray;">Images of the internal board of the home hub two</p>

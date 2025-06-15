@@ -25,3 +25,4 @@ properties-ver: "1.1"
 - [Notas sobre el ahora - Ouroboros lab](https://lab.marconoris.com/now) `ES` `IT` `CA`
 - [● - emrah.ca](https://emrah.ca)
 - [Fork My Brain - Fork My Brain](https://notes.nicolevanderhoeven.com/Fork+My+Brain)
+- [The Quantum Well](https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well!)

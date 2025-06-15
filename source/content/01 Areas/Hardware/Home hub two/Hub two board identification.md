@@ -6,10 +6,9 @@ cssclasses:
   - neo-headings
   - bai-headings
   - rounded-images
-  - page-slate
-  - page-slate-headings
+  - page-blue
 ---
-§# Hub two board identification
+# Hub two board identification
 
 ***
 ## Part number

@@ -27,13 +27,20 @@ This site is a merge of my old blog, wiki and obsidian vaults into one place. Th
 <div class="X42-card-container">
 <p>Open source</p><p>All in Markdown (and HTML)</p><p>All free content (CC BY-SA 4.0)</p></div>
 
-> [!warning]+ 🚧 Still under construction. 🚧
-> Since this is a new vault as of 01-01-2025, it is still under construction. Please check back later for more content.
-> 
-> **Update**: (*6th march 2025*) The vault is still growing, check the graph to see progress.
+## How is it structured?
+This is quite hard to explain since the folder system uses different systems like the Zettelkasten system and the Para system but here is a basic overview of the structure:
+- Maps - Maps of content
+- Areas - The main area separated into *areas* of interest
+- Fleeting - Quick notes and snippets of things like stack overflow answers e.g [[Superscript in LaTeX]].
+- Projects - Projects I am working on or have worked on (quite empty)
+- Archive - Old notes or notes from other vaults
+- Meta - Meta notes about this vault and how it works
+- Private - Non public notes or notes that are not copyright free and therefore cant be published.
 
-## Where to start?
-I recommend starting in the `01 Areas` folder since that has most of the content. Or use a map at [[00 Maps/index|this page]]. Here are some also quick links to main pages: [[Computer Science topics]], [[01 Areas/Languages/index|Languages]], [[03 Projects/index|Projects]]
+## Changelog and updates
+Check out the #Daily tag for notes made on a daily basis. In this vault daily notes are not going to be my personal daily planner, think of it more as a git log tracking major changed and new files.
+
+
 <div class="X42-star-break-line-container">
 <hr>
 <p class="X42-star-break-line">***</p>
@@ -74,7 +81,10 @@ Copyright © 2025 4248 Media, A part of 0x4248. Licensed under CC BY-SA 4.0.
 This vault is primarily in english, some pages are in other languages which are tagged with the language tag. For example the tag would be lang with the country code such as UK for Ukrainian or GR for Greek. 
 ## Tagging system
 This vault works with a [[Tags|tagging system]]. This is to ensure that each page is categorised. Here are some of the main tags:
-#Art #Blender #computer_science #Furry #Hardware #Languages #Linux #Music #Meta #Programming #Radios #Trains #Fleeting #Projects 
+
+#Art #Blender #computer_science #Furry #Hardware #Languages #Linux #Music #Meta #Programming #Radios #Trains #Fleeting #Projects #Maths 
+
+Some tags may be put into a "sub" tag like #computer_science/2 so that it is more specific. It also looks way better on the graph.
 
 ***
 

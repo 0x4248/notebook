@@ -7,6 +7,7 @@ cssclasses:
   - neo-headings
   - bai-headings
   - rounded-images
+  - page-blue
 ---
 # Computer Science topics
 

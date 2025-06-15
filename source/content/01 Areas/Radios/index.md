@@ -22,7 +22,6 @@ This part of the vault contains information about various radios, HAM radios, an
 ## Pages
 - [Common band plans](band-plans.md)
 - [PMR446](PMR446.md)
-- [РАДИОСТАНЦИЯ УБВ-76](РАДИОСТАНЦИЯ УБВ-76.md) `RU`
 
 ## Pages not in this folder
 - [[Baofeng UV-5RM Plus]]

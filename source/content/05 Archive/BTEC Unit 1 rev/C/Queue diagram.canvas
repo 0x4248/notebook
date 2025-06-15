@@ -1,0 +1,103 @@
+{
+  "edges": [
+    {
+      "fromNode": "c23f9529aa4b8894",
+      "fromSide": "left",
+      "id": "f5c896657fc08b28",
+      "toNode": "fee711b37d0a4437",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "fee711b37d0a4437",
+      "fromSide": "left",
+      "id": "2cbc14a4a73c3659",
+      "toNode": "5dfe1a52c3db9349",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "5dfe1a52c3db9349",
+      "fromSide": "left",
+      "id": "e16854fa9c422b96",
+      "styleAttributes": {
+        "arrow": null,
+        "path": null
+      },
+      "toNode": "9452f92582f29cd6",
+      "toSide": "right"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "4",
+      "height": 100,
+      "id": "c0fdc62c45c4d9a8",
+      "label": "In queue",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 720,
+      "x": -120,
+      "y": -140
+    },
+    {
+      "color": "1",
+      "height": 100,
+      "id": "7d44dc6a348c6e5d",
+      "label": "Popped",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 240,
+      "x": -380,
+      "y": -140
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "5dfe1a52c3db9349",
+      "styleAttributes": {
+      },
+      "text": "<h1 style=\"text-align:center\">Item 2</h1>",
+      "type": "text",
+      "width": 200,
+      "x": -100,
+      "y": -120
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "fee711b37d0a4437",
+      "styleAttributes": {
+      },
+      "text": "<h1 style=\"text-align:center\">Item 3</h1>",
+      "type": "text",
+      "width": 200,
+      "x": 140,
+      "y": -120
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "c23f9529aa4b8894",
+      "styleAttributes": {
+      },
+      "text": "<h1 style=\"text-align:center\">Item 4</h1>",
+      "type": "text",
+      "width": 200,
+      "x": 380,
+      "y": -120
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "9452f92582f29cd6",
+      "styleAttributes": {
+      },
+      "text": "<h1 style=\"text-align:center\">Item 1</h1>",
+      "type": "text",
+      "width": 200,
+      "x": -360,
+      "y": -120
+    }
+  ]
+}

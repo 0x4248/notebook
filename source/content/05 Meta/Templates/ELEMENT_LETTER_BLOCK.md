@@ -1,1 +1,0 @@
-<p style="font-size:xx-large;text-align:center;margin:0;">Aa</p>

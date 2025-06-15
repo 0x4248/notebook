@@ -7,7 +7,7 @@ cssclasses:
   - neo-headings
   - bai-headings
   - rounded-images
-  - page-slate
+  - page-blue
 ---
 # Home hub two images
 ***

@@ -15,4 +15,5 @@ properties-ver: "1.1"
 # Registers
 
 ***
-Registers are small memory cells that are very fast. They are used to temporarily store data that is being used by [[The Central Processing Unit|CPU]]. Registers are faster than RAM.
+Registers are small memory cells that are very fast. They are used to temporarily store data that is being used by [[The Central Processing Unit|CPU]].
+

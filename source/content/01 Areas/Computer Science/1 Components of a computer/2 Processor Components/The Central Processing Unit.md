@@ -10,7 +10,6 @@ cssclasses:
 # The Central Processing Unit
 ***
 The CPU is the main processor in a computer.
-
 ## Key components
 ### Control unit
 The control unit controls all the activities that are done within the CPU.

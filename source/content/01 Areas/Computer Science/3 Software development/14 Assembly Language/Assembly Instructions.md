@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - computer_science/1
 date: 2025-01-25
 aliases:
   - assembly instructions
