@@ -27,7 +27,7 @@ This site is a merge of my old blog, wiki and obsidian vaults into one place. Th
 <div class="X42-card-container">
 <p>Open source</p><p>All in Markdown (and HTML)</p><p>All free content (CC BY-SA 4.0)</p></div>
 
-This vault looks *wayyy* better in obsidian, but I have made the configs private so opening it on the website looks 80% accurate. If there are problems such as incorrect colours and images looking off, please don't hesitate and submit a issue. This vault also has a option for light mode if you really want to singe your eyes, just note that some of the images may look off since this vault is designed for dark mode. The vault in obsidian does have coloured pages but this doesn't show on the website, although I could add this it would take a lot of time and effort to do so (page theming in general just looks better in obsidian anyways).
+This vault looks *way* better in obsidian, but I have made the configs private so opening it on the website looks 80% accurate. If there are problems such as incorrect colours and images looking off, please don't hesitate and submit a issue. This vault also has a option for light mode if you really want to singe your eyes, just note that some of the images may look off since this vault is designed for dark mode. The vault in obsidian does have coloured pages but this doesn't show on the website, although I could add this it would take a lot of time and effort to do so (page theming in general just looks better in obsidian anyways).
 
 On the website there is a sidebar with the pages and on the right there is the date it was created, tags, a graph and a table of contents to help you navigate the longer notes. Some notes are quite long and some are just a few sentences (It really depends on the note and how much I have written it).  
 ## How is it structured?
@@ -83,9 +83,7 @@ Copyright © 2025 4248 Media, A part of 0x4248. Licensed under CC BY-SA 4.0.
 ## Languages
 This vault is primarily in english, some pages are in other languages which are tagged with the language tag. For example the tag would be lang with the country code such as UK for Ukrainian or GR for Greek. 
 ## Tagging system
-This vault works with a [[Tags|tagging system]]. This is to ensure that each page is categorised. Here are some of the main tags:
-
-#Art #Blender #computer_science #Furry #Hardware #Languages #Linux #Music #Meta #Programming #Radios #Trains #Fleeting #Projects #Maths 
+This vault works with a [[Tags|tagging system]]. This is to ensure that each page is categorised.
 
 Some tags may be put into a "sub" tag like #computer_science/2 so that it is more specific. It also looks way better on the graph.
 
