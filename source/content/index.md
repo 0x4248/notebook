@@ -10,6 +10,7 @@ cssclasses:
   - bai-headings
   - rounded-images
   - wide-images
+  - page-blue
 lang:
   - en
 properties-ver: "1.1"

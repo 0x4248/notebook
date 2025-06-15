@@ -18,7 +18,6 @@ properties-ver: "1.1"
 *Parts of this page was imported from my wiki*
 
 This part of the vault contains information about various radios, HAM radios, and other radio-related topics.
-#test
 ## Pages
 - [Common band plans](band-plans.md)
 - [PMR446](PMR446.md)

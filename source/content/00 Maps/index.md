@@ -22,5 +22,5 @@ cssclasses:
 - [[Albums|Music]]
 - Obsidian
 - Programming
-- [[01 Areas/Radios/index|Radios]]
+- [[Radios|Radios]]
 - [[Trains]]
