@@ -11,8 +11,6 @@ cssclasses:
 
 ***
 **Big O** notation is a way of comparing algorithms using a formula to annotate the efficiency.
-Logarithmic time
-Big-O allows you to see the time complexity of algorithms.
 
 | Formula  | Relative to      |
 | -------- | ---------------- |

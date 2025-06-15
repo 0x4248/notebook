@@ -22,4 +22,4 @@ Content here is also tagged with #meta and #Meta/Updates. Some meta content is s
 ## Content
 - [[Templates]]
 - [[Change logs]]
-- [[06 Meta/Updates/Index|Updates]]
+- [[Updates|Updates]]

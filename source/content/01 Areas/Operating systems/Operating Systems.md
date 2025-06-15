@@ -12,7 +12,7 @@ lang:
   - en
 properties-ver: "1.1"
 ---
-# index
+# Operating sytems
 
 ***
 In this part of the vault, all my notes relating to operating systems are stored here. 

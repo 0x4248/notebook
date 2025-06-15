@@ -17,7 +17,7 @@ cssclasses:
 - [[Computer Science topics|Computer Science]]
 - Furry
 - Hardware
-- [[01 Areas/Languages/index|Languages]]
+- [[Languages folder|Languages]]
 - [[Linux]]
 - [[Albums|Music]]
 - Obsidian
