@@ -9,8 +9,11 @@ cssclasses:
   - bai-headings
   - rounded-images
   - center-images
-  - pen-green
-  - img-green
+  - img-blue
+  - page-tan
+  - pen-blue
+  - cursive-font
+  - cursive-headings
 lang:
   - en
 properties-ver: "1.1"
@@ -48,9 +51,18 @@ B = (4, 4) \\
 \left( \frac{-4 + 4}{2}, \frac{8 + 4}{2} \right) = (0, 6)
 \end{aligned}
 $$
+## Finding a endpoint with a midpoint
+For this section were going to associate cords Q with a and b.
 
-***
-## See also
-- INSERT
-## References
-- INSERT
+$$
+\begin{aligned}
+A = (a, b) \\
+M = (1,4) \\
+B= (6, 8) \\
+\left( \frac{6 + a}{2}, \frac{8 + b}{2} \right) = (1, 4) \\
+\left( \frac{6 + a}{2} = 1 \right) \land \left( \frac{8 + b}{2} = 4 \right)\\
+\left( 6 + a = 2 \right) \land \left( 8 + b = 8 \right)\\
+\left( a = 2 - 6 \right) \land \left( b = 8 - 8 \right)\\
+A = (-4, 0)
+\end{aligned}
+$$
