@@ -1,6 +1,8 @@
 ---
 tags:
   - Maths
+  - Maths/Geometry
+  - Maths/Algebraic_expressions
 date: 2025-06-15
 aliases:
   - maths

@@ -1,2 +1,0 @@
-- [[Search Engines]]
-- [[PageRank Algorithm]]

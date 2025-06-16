@@ -6,6 +6,7 @@ cssclasses:
   - neo-headings
   - bai-headings
   - rounded-images
+  - bai-font
 stub: true
 ---
 # Linux
@@ -25,10 +26,10 @@ stub: true
 
 Here are the main Linux distributions (not including the many derivatives):
 - **Debian**: A distribution that is known for its stability and security. 
-- **Arch Linux**: A distribution that is known for its simplicity and customizability.
+- **Arch Linux**: A distribution that is known for its simplicity and customisability.
 - **Fedora**: A distribution that is known for its cutting-edge software.
 - **Slackware**: A distribution that is known for its simplicity and stability.
-- **Gentoo**: A distribution that is known for its customizability and performance.
+- **Gentoo**: A distribution that is known for its customisability and performance.
 
 ***
 ## See also

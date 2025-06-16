@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - computer_science/4
 date: 2025-05-15
 aliases:
   - relational databases and normalisation
@@ -16,5 +17,4 @@ properties-ver: "1.1"
 ***
 
 - [[Relational Database Design]]
-- [[Linking Databases]]
 - [[Database Normalisation]]

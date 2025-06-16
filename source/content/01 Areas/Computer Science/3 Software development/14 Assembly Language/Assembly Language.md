@@ -13,4 +13,3 @@ cssclasses:
 Assembly language was the first type of programming language to come out after machine code.
 - [[Assembly Instructions]]
 - [[LMC]]
-- [[Addressing Modes]]

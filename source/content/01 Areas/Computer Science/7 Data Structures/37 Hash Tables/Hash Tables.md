@@ -1,5 +1,0 @@
-- [[Hashing]]
-- [[Searching for an Item]]
-- [[Hashing Algorithms ]]
-- [[Collision]]
-- [[Dictionaries]]

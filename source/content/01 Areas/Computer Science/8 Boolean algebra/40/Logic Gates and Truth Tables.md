@@ -14,5 +14,3 @@ properties-ver: "1.0"
 
 ***
 - [[Binary Logic]]
-- [[Logic Circuits]]
-- [[Boolean Logic]]

@@ -1,2 +1,1 @@
 - [[De Morgans Law]]
-- [[Rules of Boolean Algebra]]

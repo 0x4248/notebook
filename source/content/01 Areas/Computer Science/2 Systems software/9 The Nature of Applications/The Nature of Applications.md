@@ -16,9 +16,6 @@ In computing there are a few types of software.
 ## Contents
 - [[Systems Software]]
 - [[Utility Programs]]
-- [[Backup]]
 - [[Updates]]
-- [[Virus Checker]]
 - [[Compression]]
 - [[Application Software]]
-- [[Open Vs Closed Source]]

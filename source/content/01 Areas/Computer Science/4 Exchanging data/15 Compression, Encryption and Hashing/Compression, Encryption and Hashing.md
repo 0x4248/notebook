@@ -13,8 +13,6 @@ cssclasses:
 - [[Compression]]
 - [[Encryption]]
 - [[Caesar Cipher]]
-- [[The Verman Cipher]]
 - [[Symmetric Encryption]]
 - [[Asymmetric Encryption]]
 - [[Hashing]]
-- [[Digital Signatures]]

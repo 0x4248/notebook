@@ -15,13 +15,9 @@ properties-ver: "1.1"
 # Structure of the Internet
 
 ***
-- [[The history of the internet and WWW]]
-- [[URLs]]
+
 - [[DNS]]
 - [[FQDN]]
-- [[Ip Addresses]]
+- [[IP Addresses]]
 - [[WAN]]
 - [[LAN]]
-- [[Topologies]]
-- [[Wi-Fi]]
-- [[WAP]]

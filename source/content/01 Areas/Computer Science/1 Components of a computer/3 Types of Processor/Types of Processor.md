@@ -9,7 +9,6 @@ cssclasses:
 ---
 # Types of Processor
 ***
-
 - [[The von Nuemann Machine]]
 - [[Harvard Architecture]]
 - [[Complex Instruction Set Computers]]

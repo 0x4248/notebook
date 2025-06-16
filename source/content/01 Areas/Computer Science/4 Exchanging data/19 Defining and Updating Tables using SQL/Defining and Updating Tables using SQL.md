@@ -1,5 +1,0 @@
-- [[Data Types]]
-- [[Altering a Table]]
-- [[Linked Tables]]
-- [[Inserting, updating and deleting data using SQL]]
-- [[The SQL UPDATE statement]]

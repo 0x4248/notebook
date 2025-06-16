@@ -1,3 +1,0 @@
-- [[Barcodes]]
-- [[Digital Cameras]]
-- [[Radio Frequency Identification]]

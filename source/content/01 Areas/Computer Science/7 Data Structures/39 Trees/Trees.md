@@ -1,2 +1,0 @@
-- [[Binary Search Tree]]
-- [[Tree Traversal Algorithms]]

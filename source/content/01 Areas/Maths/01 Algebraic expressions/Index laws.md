@@ -1,7 +1,6 @@
 ---
 tags:
-  - Maths
-  - Maths_1
+  - Maths/Algebraic_expressions
 date: 2025-06-15
 aliases:
   - index laws
@@ -9,7 +8,7 @@ cssclasses:
   - neo-headings
   - bai-headings
   - rounded-images
-  - pen-light-blue
+  - pen-cyan
 lang:
   - en
 properties-ver: "1.1"

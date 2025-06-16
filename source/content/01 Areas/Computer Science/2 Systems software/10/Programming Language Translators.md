@@ -1,7 +1,0 @@
-- [[Assembler]]
-- [[Compiler]]
-- [[Interpreter]]
-- [[ByteCode]]
-- [[Stages of Compilation]]
-- [[Linkers and Loaders]]
-- [[Use of Libraries]]

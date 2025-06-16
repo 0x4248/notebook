@@ -1,4 +1,0 @@
-- [[Logical Shift Instructions]]
-- [[Arithmetic Shift Instructions]]
-- [[Circular Shift Instructions]]
-- [[Logical Instructions]]

@@ -1,4 +1,0 @@
-- [[Forms]]
-- [[Javascript]]
-- [[Validation]]
-- [[Arrays in Javascript]]
