@@ -10,10 +10,10 @@ cssclasses:
   - rounded-images
   - center-images
   - img-blue
-  - page-tan
   - pen-blue
   - cursive-font
   - cursive-headings
+  - page-white
 lang:
   - en
 properties-ver: "1.1"
