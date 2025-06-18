@@ -94,23 +94,23 @@ Just before an exam (like a day or two) I like to flick trough past papers, just
 
 *Paper 2*
 ### 10 - Computational thinking
-47. [[Thinking Abstractly]]
-48. [[Thinking Ahead]]
-49. [[Thinking Procedurally]]
-50. [[Thinking Logically, Thinking Cocurrently]]
-51. [[Problem Recognition]]
-52. [[Problem Solving]]
+47. ~~Thinking Abstractly~~
+48. ~~Thinking Ahead~~
+49. ~~Thinking Procedurally~~
+50. ~~Thinking Logically, Thinking Concurrently~~
+51. ~~Problem Recognition~~
+52. ~~Problem Solving~~
 ### 11 - Programming techniques
-53. [[Programming Basics]]
-54. [[Selection and Programming Constructs]]
-55. [[Iteration]]
-56. [[Subroutines and Recursion]]
+53. ~~Programming Basics~~
+54. ~~Selection and Programming Constructs~~
+55. ~~Iteration~~
+56. ~~Subroutines and Recursion~~
 57. [[Use of IDE]]
-58. [[Use of object-oriented Techniques]]
+58. ~~Use of object-oriented Techniques~~
 ### 12 - Algorithms
-59. [[Analysis and Design of Algorithms]]
-60. [[Searching Algorithms]]
-61. [[Bubble Sort and Insertion Sort]]
-62. [[Merge sort and Quick Sort]]
-63. [[Graph Traversal Algorithms]]
-64. [[Optimisation Algorithms]]
+59. ~~Analysis and Design of Algorithms~~
+60. ~~Searching Algorithms~~
+61. ~~Bubble Sort and Insertion Sort~~
+62. ~~Merge sort and Quick Sort~~
+63. ~~Graph Traversal Algorithms~~
+64. ~~Optimisation Algorithms~~

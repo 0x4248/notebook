@@ -14,7 +14,7 @@ properties-ver: "1.1"
 ---
 # Use of IDE
 ***
-An **Intergrated Development Environment** (IDE) is a [[Utility Programs|program]] which makes it easter for developers to develop and debug software.
+An **Integrated Development Environment** (IDE) is a [[Utility Programs|program]] which makes it easter for developers to develop and debug software.
 ## Examples
 - Visual Studio Code
 - InteliJ

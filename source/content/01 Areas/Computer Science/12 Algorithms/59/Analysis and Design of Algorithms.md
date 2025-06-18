@@ -1,6 +1,0 @@
-- [[Comparing Algorithms]]
-- [[Linear Function]]
-- [[Polynomial Function]]
-- [[Exponential Function]]
-- [[Permutations]]
-- [[Big-O Notation]]

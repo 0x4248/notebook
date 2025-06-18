@@ -1,7 +1,0 @@
-- [[Procedural Programming]]
-- [[OOP]]
-- [[Classes]]
-- [[Instantiation]]
-- [[Encapsulation]]
-- [[Inheritance]]
-- [[Polymorphism]]
