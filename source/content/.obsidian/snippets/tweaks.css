@@ -10,7 +10,6 @@ body {
 }
 
 
-
 body :is(strong, b, .cm-strong) {
   font-weight: 800;
 }
@@ -78,7 +77,7 @@ body :is(strong, b, .cm-strong) {
     .HyperMD-header.HyperMD-header-5,
     .HyperMD-header.HyperMD-header-6
   ) {
-  text-align: center;
+  text-align: center !important;
 }
 
 .center-titles:is(h1, h2, .HyperMD-header.HyperMD-header-1, .HyperMD-header.HyperMD-header-2, ) {

@@ -11,7 +11,12 @@ cssclasses:
 ---
 # Computer Science topics
 
-***
+<div class="X42-star-break-line-container">
+<p class="X42-star-break-line">**</p>
+<hr>
+<p class="X42-star-break-line">**</p>
+</div>
+
 Here is a list of every topic that is covered on the A Level Computer Science. When you click a page you will be able to see the notes I have made for that topic.
 
 **Why are so many crossed out?**

@@ -7,9 +7,9 @@
   "enabledCssSnippets": [
     "page-blue",
     "tweaks",
+    "animations",
     "fonts",
-    "themes",
-    "animations"
+    "themes"
   ],
   "translucency": false,
   "baseFontSize": 19,

@@ -6,8 +6,9 @@
   --font-text: Georgia, 'Noto Serif', 'Linux Libertine', serif;
 }
 
-.sans-italic {
+.sans-italic-font {
   --font-text: Georgia, 'Noto Serif', 'Linux Libertine', serif;
+  font-style: italic;
 }
 
 .gohu-font {

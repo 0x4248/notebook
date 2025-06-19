@@ -19,7 +19,7 @@ https://github.com/CyanVoxel/Obsidian-Vault-Template
 
 :root {
   --pen-white: #edf1fc;
-  --pen-gray: #5f5d58;
+  --pen-grey: #5f5d58;
   --pen-black: #26241f;
   --pen-red: #ed5f5f;
   --pen-orange: #f57c20;
@@ -40,7 +40,7 @@ https://github.com/CyanVoxel/Obsidian-Vault-Template
   --page-red: #2f0a0a;
   --page-green: #061f06;
   --page-purple: #1e0a2f;
-  --page-gray: #1e1e1e;
+  --page-grey: #1e1e1e;
   --page-blueprint: #3a68ff;
 }
 
@@ -55,7 +55,7 @@ https://github.com/CyanVoxel/Obsidian-Vault-Template
 .page-red,
 .page-green,
 .page-black,
-.page-gray,
+.page-grey,
 .page-purple {
   --text-normal: var(--accent-color);
   --text-muted: var(--accent-color);
@@ -68,8 +68,8 @@ https://github.com/CyanVoxel/Obsidian-Vault-Template
   --h6-color: var(--accent-color);
   --link-color: var(--accent-color);
   --link-color-hover: var(--accent-color);
-  --link-unresolved-color: var(--pen-gray);
-
+  --link-unresolved-color: var(--pen-grey);
+  --caret-color: var(--accent-color);
   --hr-color: var(--accent-color);
   --blockquote-border-color: var(--accent-color);
   --embed-border-left: 2px solid var(--accent-color);
@@ -102,8 +102,10 @@ https://github.com/CyanVoxel/Obsidian-Vault-Template
   --page-color: var(--page-tan);
   --accent-color: var(--pen-black);
   --link-color: var(--pen-black);
-  --link-color-hover: var(--pen-gray);
-  --link-unresolved-color: var(--pen-gray);
+  --link-external-color: var(--pen-black);
+  --link-external-color-hover: var(--pen-grey);
+  --link-color-hover: var(--pen-grey);
+  --link-unresolved-color: var(--pen-grey);
   --accent-color-trans: color-mix(in srgb,
       var(--accent-color) 15%,
       transparent);
@@ -119,8 +121,10 @@ https://github.com/CyanVoxel/Obsidian-Vault-Template
   --page-color: var(--page-white);
   --accent-color: var(--neutral-pen-black);
   --link-color: var(--pen-black);
-  --link-color-hover: var(--pen-gray);
-  --link-unresolved-color: var(--pen-gray);
+  --link-color-hover: var(--pen-grey);
+  --link-external-color: var(--pen-black);
+  --link-external-color-hover: var(--pen-grey);
+  --link-unresolved-color: var(--pen-grey);
   --accent-color-trans: color-mix(in srgb,
       var(--accent-color) 15%,
       transparent);
@@ -152,6 +156,8 @@ https://github.com/CyanVoxel/Obsidian-Vault-Template
   --link-color: var(--pen-blue);
   --link-color-hover: var(--pen-cyan);
   --link-unresolved-color: var(--pen-red);
+  --link-external-color: var(--pen-blue);
+  --link-external-color-hover: var(--pen-cyan);
   --h1-color: color-mix(in srgb, var(--pen-blue) 60%, white);
   --h2-color: var(--pen-blue);
   --h3-color: var(--pen-blue);
@@ -172,6 +178,8 @@ https://github.com/CyanVoxel/Obsidian-Vault-Template
   --h1-color: color-mix(in srgb, var(--pen-red) 60%, white);
   --link-color: var(--pen-red);
   --link-color-hover: var(--pen-orange);
+  --link-external-color: var(--pen-red);
+  --link-external-color-hover: var(--pen-orange);
   --link-unresolved-color: var(--pen-yellow);
   --h2-color: var(--pen-red);
   --h3-color: var(--pen-red);
@@ -192,6 +200,8 @@ https://github.com/CyanVoxel/Obsidian-Vault-Template
   --h1-color: color-mix(in srgb, var(--pen-green) 60%, white);
   --link-color: var(--pen-green);
   --link-color-hover: var(--pen-lime);
+  --link-external-color: var(--pen-green);
+  --link-external-color-hover: var(--pen-lime);
   --link-unresolved-color: var(--pen-red);
   --h2-color: var(--pen-green);
   --h3-color: var(--pen-green);
@@ -211,6 +221,8 @@ https://github.com/CyanVoxel/Obsidian-Vault-Template
   --h1-color: color-mix(in srgb, var(--pen-purple) 60%, white);
   --link-color: var(--pen-purple);
   --link-color-hover: var(--pen-pink);
+  --link-external-color: var(--pen-purple);
+  --link-external-color-hover: var(--pen-pink);
   --link-unresolved-color: var(--pen-pink);
   --h2-color: var(--pen-purple);
   --h3-color: var(--pen-purple);
@@ -249,8 +261,10 @@ div>pre {
   --accent-color: var(--pen-white);
   --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
   --link-color: var(--pen-black);
-  --link-color-hover: var(--pen-gray);
-  --link-unresolved-color: var(--pen-gray);
+  --link-color-hover: var(--pen-grey);
+  --link-external-color: var(--pen-black);
+  --link-external-color-hover: var(--pen-grey);
+  --link-unresolved-color: var(--pen-grey);
   color: var(--accent-color);
   --hr-color: var(--accent-color);
 }
@@ -260,6 +274,8 @@ div>pre {
   --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
   --link-color: var(--pen-blue);
   --link-color-hover: var(--pen-cyan);
+  --link-external-color: var(--pen-blue);
+  --link-external-color-hover: var(--pen-cyan);
   --link-unresolved-color: var(--pen-red);
   color: var(--accent-color);
   --hr-color: var(--accent-color);
@@ -287,6 +303,8 @@ div>pre {
   --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
   --link-color: var(--pen-orange);
   --link-color-hover: var(--pen-yellow);
+  --link-external-color: var(--pen-orange);
+  --link-external-color-hover: var(--pen-yellow);
   --link-unresolved-color: var(--pen-green);
   color: var(--accent-color);
   --hr-color: var(--accent-color);
@@ -297,6 +315,8 @@ div>pre {
   --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
   --link-color: var(--pen-yellow);
   --link-color-hover: var(--pen-green);
+  --link-external-color: var(--pen-yellow);
+  --link-external-color-hover: var(--pen-green);
   --link-unresolved-color: var(--pen-blue);
   color: var(--accent-color);
   --hr-color: var(--accent-color);
@@ -307,6 +327,8 @@ div>pre {
   --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
   --link-color: var(--pen-green);
   --link-color-hover: var(--pen-lime);
+  --link-external-color: var(--pen-green);
+  --link-external-color-hover: var(--pen-lime);
   --link-unresolved-color: var(--pen-blue);
   color: var(--accent-color);
   --hr-color: var(--accent-color);
@@ -315,6 +337,11 @@ div>pre {
 .pen-lime {
   --accent-color: var(--pen-lime);
   --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
+  --link-color: var(--pen-lime);
+  --link-color-hover: var(--pen-green);
+  --link-external-color: var(--pen-lime);
+  --link-external-color-hover: var(--pen-green);
+  --link-unresolved-color: var(--pen-blue);
   color: var(--accent-color);
   --hr-color: var(--accent-color);
 }
@@ -323,17 +350,21 @@ div>pre {
   --accent-color: var(--pen-black);
   --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
   --link-color: var(--pen-black);
-  --link-color-hover: var(--pen-gray);
-  --link-unresolved-color: var(--pen-gray);
+  --link-color-hover: var(--pen-grey);
+  --link-external-color: var(--pen-black);
+  --link-external-color-hover: var(--pen-grey);
+  --link-unresolved-color: var(--pen-grey);
   color: var(--accent-color);
   --hr-color: var(--accent-color);
 }
 
-.pen-gray {
-  --accent-color: var(--pen-gray);
+.pen-grey {
+  --accent-color: var(--pen-grey);
   --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
-  --link-color: var(--pen-gray);
+  --link-color: var(--pen-grey);
   --link-color-hover: var(--pen-black);
+  --link-external-color: var(--pen-grey);
+  --link-external-color-hover: var(--pen-black);
   --link-unresolved-color: var(--pen-black);
   color: var(--accent-color);
   --hr-color: var(--accent-color);
@@ -354,6 +385,8 @@ div>pre {
   --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
   --link-color: var(--pen-pink);
   --link-color-hover: var(--pen-purple);
+  --link-external-color: var(--pen-pink);
+  --link-external-color-hover: var(--pen-purple);
   --link-unresolved-color: var(--pen-purple);
   color: var(--accent-color);
   --hr-color: var(--accent-color);
@@ -397,4 +430,12 @@ div>pre {
 
 .img-invert img {
   filter: invert(1)
+}
+
+.img-tan img {
+  filter: sepia(400%);
+}
+
+.img-blueprint img {
+  filter: sepia(100%) contrast(200%) brightness(1000%)  hue-rotate(155deg);
 }

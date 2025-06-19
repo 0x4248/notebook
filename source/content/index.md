@@ -10,7 +10,7 @@ cssclasses:
   - bai-headings
   - rounded-images
   - wide-images
-  - page-blue
+  - page-purple
 lang:
   - en
 properties-ver: "1.1"
@@ -28,7 +28,7 @@ This site is a merge of my old blog, wiki and obsidian vaults into one place. Th
 <div class="X42-card-container">
 <p>Open source</p><p>All in Markdown (and HTML)</p><p>All free content (CC BY-SA 4.0)</p></div>
 
-This vault looks *way* better in obsidian, but I have made the configs private so opening it on the website looks 80% accurate. If there are problems such as incorrect colours and images looking off, please don't hesitate and submit a issue. This vault also has a option for light mode if you really want to singe your eyes, just note that some of the images may look off since this vault is designed for dark mode. The vault in obsidian does have coloured pages but this doesn't show on the website, although I could add this it would take a lot of time and effort to do so (page theming in general just looks better in obsidian anyways).
+This vault looks *way* better in obsidian, ~~but I have made the configs private~~ (Partially public now most of the configs are there just not plugins and plugin data. *There kinda massive*) so opening it on the website looks 80% accurate. If there are problems such as incorrect colours and images looking off, please don't hesitate and submit a issue. This vault also has a option for light mode if you really want to singe your eyes, just note that some of the images may look off since this vault is designed for dark mode. The vault in obsidian does have coloured pages but this doesn't show on the website, although I could add this it would take a lot of time and effort to do so (page theming in general just looks better in obsidian anyways).
 
 On the website there is a sidebar with the pages and on the right there is the date it was created, tags, a graph and a table of contents to help you navigate the longer notes. Some notes are quite long and some are just a few sentences (It really depends on the note and how much I have written it).  
 ## How is it structured?
@@ -43,7 +43,6 @@ This is quite hard to explain since the folder system uses different systems lik
 
 ## Changelog and updates
 Check out the #Daily tag for notes made on a daily basis. In this vault daily notes are not going to be my personal daily planner, think of it more as a git log tracking major changed and new files.
-
 
 <div class="X42-star-break-line-container">
 <hr>

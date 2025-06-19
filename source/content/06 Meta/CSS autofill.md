@@ -1,6 +1,88 @@
 ---
-cssclasses: []
+cssclasses:
+  - page-white
+  - page-tan
+  - page-blue
+  - page-red
+  - page-green
+  - page-black
+  - page-purple
+  - page-blueprint
+  - pen-white
+  - pen-blue
+  - pen-red
+  - pen-blue
+  - pen-cyan
+  - pen-red
+  - pen-orange
+  - pen-yellow
+  - pen-green
+  - pen-lime
+  - pen-black
+  - pen-grey
+  - pen-purple
+  - pen-pink
+  - img-blue
+  - img-cyan
+  - img-red
+  - img-orange
+  - img-yellow
+  - img-green
+  - img-lime
+  - img-purple
+  - img-pink
+  - img-invert
+  - img-tan
+  - img-blueprint
+  - cursive-font
+  - bai-font
+  - sans-font
+  - sans-font
+  - sans-italic-font
+  - gohu-font
+  - ms-dos-font
+  - kode-font
+  - sriracha-font
+  - tiny5-font
+  - sanchez-font
+  - orbitron-font
+  - audiowide-font
+  - lato-font
+  - lexend-font
+  - roboto-font
+  - roboto-mono-font
+  - ubuntu-font
+  - determination-mono-font
+  - cursive-headings
+  - bai-headings
+  - sans-headings
+  - sans-headings
+  - sans-italic-headings
+  - gohu-headings
+  - ms-dos-headings
+  - kode-headings
+  - sriracha-headings
+  - tiny5-headings
+  - sanchez-headings
+  - orbitron-headings
+  - audiowide-headings
+  - lato-headings
+  - lexend-headings
+  - roboto-headings
+  - roboto-mono-headings
+  - ubuntu-headings
+  - determination-mono-headings
+  - text-center
+  - space-images
+  - rounded-images
+  - center-images
+  - no-embed-border
+  - neo-headings
+  - center-headings
+  - center-titles 
 tags:
   - Meta
 ---
 This is so that CSS autofill works.
+
+Nothing else is in this file.

@@ -9,9 +9,8 @@ cssclasses:
   - bai-headings
   - rounded-images
   - center-images
+  - page-white
   - img-blue
-  - pen-blue
-  - cursive-font
 lang:
   - en
 properties-ver: "1.1"
@@ -28,7 +27,7 @@ B= (x_2, y_2) \\
 \left( \frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2} \right)
 \end{aligned}
 $$
-For example we can find the midpoint of $A(1, 2)$ and $B(3, 4)$:
+For example we can find the midpoint of $A(1, 2)$ and $B(3, 4)$: 
 $$
 \begin{aligned}
 A = (1, 2) \\

@@ -19,10 +19,6 @@
   animation: scale-in-other 0.2s ease-in-out;
 }
 
-.metadata-container{
-    animation: scale-in 0.2s ease-out;
-}
-
 @keyframes scale-in {
   from {
     opacity: 0.4;
