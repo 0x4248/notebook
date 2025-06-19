@@ -11,7 +11,6 @@ cssclasses:
   - neo-headings
   - bai-headings
   - rounded-images
-  - page-purple
 lang:
   - en
 properties-ver: "1.1"

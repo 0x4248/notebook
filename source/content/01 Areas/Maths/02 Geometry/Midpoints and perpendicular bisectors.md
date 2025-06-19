@@ -12,8 +12,6 @@ cssclasses:
   - img-blue
   - pen-blue
   - cursive-font
-  - cursive-headings
-  - page-white
 lang:
   - en
 properties-ver: "1.1"

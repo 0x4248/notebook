@@ -10,7 +10,6 @@ cssclasses:
 # Two's Complement
 ***
 Two's compliment allows us to convert numbers from positive to negative and vice versa.
-
 ### Steps
 1. Flip all the bits.
 2. Add 1.

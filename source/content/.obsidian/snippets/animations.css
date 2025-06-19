@@ -1,0 +1,45 @@
+.view-content {
+  border-radius: 10px;
+  animation: scale-in 0.1s ease-out;
+}
+
+.prompt {
+  animation: scale-in 0.1s ease-out;
+}
+
+.modal {
+  animation: scale-in 0.1s ease-out;
+}
+
+.tree-item-inner {
+    animation: scale-in-other 0.2s ease-in-out;
+}
+
+.vertical-tab-content {
+  animation: scale-in-other 0.2s ease-in-out;
+}
+
+.metadata-container{
+    animation: scale-in 0.2s ease-out;
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0.4;
+    transform: scale(0.98);
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+    scale: 1;
+  }
+}
+
+@keyframes scale-in-other    {
+  from {
+    opacity: 0.0;
+  }
+  to {
+    opacity: 1;
+  }
+}

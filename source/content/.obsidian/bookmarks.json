@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1737716029307,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1737716033746,
+          "path": "01 Areas/Computer Science/Computer Science topics.md"
+        }
+      ],
+      "title": "Computer Science"
+    },
+    {
+      "type": "file",
+      "ctime": 1737969457555,
+      "path": "01 Areas/Computer Science/Checklist.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1750326921762,
+      "path": "01 Areas/Maths/Maths.md",
+      "title": "Maths "
+    }
+  ]
+}
