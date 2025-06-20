@@ -76,4 +76,4 @@ $$
 ## See also
 - [[Expanding brackets]]
 ## References
-- Edexcel AS and A Level Mathematics Pure Mathematics `PAGE 2`
+- Edexcel AS and A Level Mathematics Pure Mathematics (Page 2) `BOOK`

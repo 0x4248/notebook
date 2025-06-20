@@ -1,6 +1,7 @@
 {
   "pinned": [
     "templater-obsidian:insert-templater",
-    "editor:toggle-source"
+    "editor:toggle-source",
+    "obsidian-git:push"
   ]
 }
