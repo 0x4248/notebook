@@ -43,10 +43,6 @@ This is quite hard to explain since the folder system uses different systems lik
 ## Changelog and updates
 Check out the #Daily tag for notes made on a daily basis. In this vault daily notes are not going to be my personal daily planner, think of it more as a git log tracking major changed and new files.
 
-```query
-path:"04 Daily"  
-```
-
 <div class="X42-star-break-line-container">
 <hr>
 <p class="X42-star-break-line">***</p>
