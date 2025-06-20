@@ -22,3 +22,4 @@ Again like with [[Maths]], I don't take physics as a subject in college but I li
 ## Contents
 1. Foundations of physics
     - [[Units in physics]]
+    - [[Vectors and scalars]]
