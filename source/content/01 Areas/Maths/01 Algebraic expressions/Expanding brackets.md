@@ -17,7 +17,7 @@ properties-ver: "1.1"
 
 ***
 ## Expanding basic single brackets
-To expand a simple bracket multiply the numbers in the bracket by the number outside the bracket. The basic forumla is:
+To expand a simple bracket multiply the numbers in the bracket by the number outside the bracket. The basic formula is:
 
 $$
 a(b + c) = ab + ac
