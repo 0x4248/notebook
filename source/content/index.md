@@ -21,7 +21,7 @@ properties-ver: "1.1"
 ## What is this site?
 
 This site contains all my notes, tutorials, and other stuff that I find interesting. Think of this place as a mega wiki of all the things I find interesting and currently learning/researching. In short this is my digital garden or vault. 
-
+This vault is a collection of my notes, ideas, and resources that I have gathered over the years. It is a place where I can store my thoughts and ideas, and share them with others. The vault is designed to be a living document that evolves over time as I learn and grow.
 This site is a merge of my old blog, wiki and obsidian vaults into one place. This new site is designed to be more user-friendly and easier to navigate. You can learn more about this vault on this page: [What is this vault?](What%20is%20this%20vault?.md). 
 
 <div class="X42-card-container">
@@ -42,6 +42,10 @@ This is quite hard to explain since the folder system uses different systems lik
 
 ## Changelog and updates
 Check out the #Daily tag for notes made on a daily basis. In this vault daily notes are not going to be my personal daily planner, think of it more as a git log tracking major changed and new files.
+
+```query
+path:"04 Daily"  
+```
 
 <div class="X42-star-break-line-container">
 <hr>
