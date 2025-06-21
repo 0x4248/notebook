@@ -38,6 +38,32 @@ B &= 4.0N \\
 $$
 ![[Resultant vector.excalidraw.svg]]
 
+This is the same process for negative vectors.
+
+$$
+\begin{aligned}
+A &= 2.0N \\
+B &= -4.0N \\
+\text{Resultant vector} = A + B &= -2.0N
+\end{aligned}
+$$
+
+### Perpendicular forces
+When two vectors are perpendicular with each other they can be added using [[Pythagoras' theorem]].
+![[Perpendicular forces.svg]]
+
+$$
+\begin{aligned}
+\large{\text{Pythagorean theorem:}}\\
+\sqrt{a^2 + b^2} &= c \\ \\
+\text{Example from figure:} \\
+\sqrt{4.0N^2+5.0N^2} &= c \\
+c &= \sqrt{16 + 25} \\
+c &\approx 6.4N
+\end{aligned}
+$$
+
+
 ***
 ## See also
 - [[Units in physics]]

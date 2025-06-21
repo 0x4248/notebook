@@ -3,7 +3,7 @@
   "cssTheme": "Vanilla AMOLED",
   "textFontFamily": "JetBrains Mono,Departure Mono",
   "interfaceFontFamily": "JetBrains Mono,Departure Mono,Bai Jamjuree,Georgia",
-  "monospaceFontFamily": "Departure Mono,Source Code Pro",
+  "monospaceFontFamily": "JetBrains Mono,Departure Mono,Source Code Pro",
   "enabledCssSnippets": [
     "page-blue",
     "tweaks",

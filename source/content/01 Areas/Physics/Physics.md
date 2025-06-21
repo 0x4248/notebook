@@ -23,3 +23,5 @@ Again like with [[Maths]], I don't take physics as a subject in college but I li
 1. Foundations of physics
     - [[Units in physics]]
     - [[Vectors and scalars]]
+2. Motion
+    - [[Distance and speed]]
