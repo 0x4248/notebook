@@ -26,6 +26,8 @@
     "stub": "checkbox",
     "lang": "multitext",
     "properties-ver": "text",
-    "outdated": "checkbox"
+    "outdated": "checkbox",
+    "paper-date": "date",
+    "mark-read": "checkbox"
   }
 }
