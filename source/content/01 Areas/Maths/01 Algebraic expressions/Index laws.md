@@ -8,7 +8,9 @@ cssclasses:
   - neo-headings
   - bai-headings
   - rounded-images
-  - pen-cyan
+  - cursive-font
+  - page-tan
+  - pen-red
 lang:
   - en
 properties-ver: "1.1"
