@@ -8,6 +8,8 @@ cssclasses:
   - neo-headings
   - bai-headings
   - rounded-images
+  - sans-font
+  - sans-headings
 paper-date: 
 arxiv-id: 
 paper-author: 
