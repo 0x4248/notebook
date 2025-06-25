@@ -29,3 +29,5 @@ Again like with [[Maths]], I don't take physics as a subject in college but I li
 ## Physics papers
 I like to read some [[Physics papers|physics preprints]] on arXiv. Here are some examples
 - [[A Beginner's Guide to Working with Astronomical Data]]
+- [[X-ray equipment operation]]
+- [[A brief introduction to quantum algorithms]]

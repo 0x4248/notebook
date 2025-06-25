@@ -1,6 +1,6 @@
 ---
 tags:
-  - Physics/Papers
+  - Papers/Physics
 date: 2025-06-25
 aliases:
   - a brief introduction to quantum algorithms
@@ -19,6 +19,7 @@ mark-read: false
 lang:
   - en
 properties-ver: "1.1"
+stub: true
 ---
 # A brief introduction to quantum algorithms
 

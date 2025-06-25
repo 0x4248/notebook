@@ -1,6 +1,6 @@
 ---
 tags:
-  - Physics/Papers
+  - Papers/Physics
 date: 2025-06-25
 aliases:
   - x-ray techniques - overview
@@ -17,6 +17,8 @@ mark-read: false
 lang:
   - en
 properties-ver: "1.1"
+subject:
+  - Physics
 ---
 # X-ray Techniques - Overview
 
@@ -40,14 +42,7 @@ properties-ver: "1.1"
 > This paper provides a concise but comprehensive introduction to the diverse family of X‑ray analytical methods, spanning techniques based on scattering, emission, and absorption of X‑radiation.
 > 
 > *0x4248*
-## Notes
-INSERT OR REMOVE
-
-
-
 
 ***
 ## See also
-- INSERT
-## References
-- INSERT
+- [[X-ray equipment operation]] `PAPER`

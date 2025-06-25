@@ -1,6 +1,6 @@
 ---
 tags:
-  - Physics/Papers
+  - Papers/Physics
 date: 2025-06-24
 aliases:
   - physics papers
@@ -13,6 +13,8 @@ cssclasses:
 lang:
   - en
 properties-ver: "1.1"
+subject:
+  - Physics
 ---
 # Physics papers
 

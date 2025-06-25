@@ -1,6 +1,6 @@
 ---
 tags:
-  - Physics/Papers
+  - Papers/Physics
 date: 2025-06-24
 aliases:
   - a beginner's guide to working with astronomical data
@@ -13,7 +13,7 @@ cssclasses:
 paper-date: 2019-04-30
 arxiv-id: 
 paper-author: 
-mark-read: false
+mark-read: 
 lang:
   - en
 properties-ver: "1.1"

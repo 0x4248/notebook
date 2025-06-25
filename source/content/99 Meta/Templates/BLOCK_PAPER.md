@@ -1,6 +1,6 @@
 ---
 tags:
-  - Physics/Papers
+  - Papers/Physics
 date: <%tp.date.now("YYYY-MM-DD")%>
 aliases:
   - <%tp.file.title.toLowerCase()%>
@@ -16,7 +16,14 @@ paper-author:
 mark-read: false
 lang:
   - en
-properties-ver: "1.1"
+properties-ver: "1.2"
+subject:
+  - Physics
+  - Biology
+  - Computer Science
+  - Maths
+  - Medical
+stub:
 ---
 # <% tp.file.title %>
 

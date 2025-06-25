@@ -23,7 +23,7 @@ Base file:
 - lang - The language of the document
 - properties-ver - Version of obsidian file properties
 - aliases - Other names and the lowercase title
-
+- stub - Is the file really barren? Then it is a stub.
 ## All properties
 | Name           | Type | Description                                 |
 | -------------- | ---- | ------------------------------------------- |
@@ -34,6 +34,8 @@ Base file:
 | stub           | Bool | Marks wether a page is a stub               |
 | aliases        | List | Other names and the lowercase title         |
 ## Versions
+### 1.2
+Added `stub` to default to help find stubs in the vault.
 ### 1.1
 Lowercase title requirement added to aliases to help with linking notes within sentences.
 ### 1.0

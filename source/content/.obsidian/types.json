@@ -29,6 +29,7 @@
     "outdated": "checkbox",
     "paper-date": "date",
     "mark-read": "checkbox",
-    "paper-author": "multitext"
+    "paper-author": "multitext",
+    "subject": "multitext"
   }
 }

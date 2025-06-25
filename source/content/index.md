@@ -37,8 +37,10 @@ This is quite hard to explain since the folder system uses different systems lik
 - Fleeting - Quick notes and snippets of things like stack overflow answers e.g [[Superscript in LaTeX]].
 - Projects - Projects I am working on or have worked on (quite empty)
 - Archive - Old notes or notes from other vaults
+- Papers - Research papers, preprints and other documents that I have read or plan to read. Each paper has its own note with metadata and summaries, and notes I have made on the topics covered in the paper.
 - Meta - Meta notes about this vault and how it works
 - Private - Non public notes or notes that are not copyright free and therefore cant be published. Don't worry I don't store my super secret stuff here! Using obsidian for that in general wouldn't be a good idea either.
+
 
 ## Changelog and updates
 Check out the #Daily tag for notes made on a daily basis. In this vault daily notes are not going to be my personal daily planner, think of it more as a git log tracking major changed and new files.

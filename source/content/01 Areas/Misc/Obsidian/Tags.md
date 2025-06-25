@@ -29,3 +29,5 @@ In this vault I use tags to organise what notes are related to what category.
 - #Fleeting 
 - #Projects 
 - #Photography 
+- #Physics 
+- #Papers 

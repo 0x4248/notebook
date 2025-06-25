@@ -1,6 +1,5 @@
 ---
-tags:
-  - Daily
+tags: 
 date: <%tp.date.now("YYYY-MM-DD")%>
 aliases:
   - <%tp.file.title.toLowerCase()%>
@@ -8,16 +7,20 @@ cssclasses:
   - neo-headings
   - bai-headings
   - rounded-images
-  - page-blue
 lang:
   - en
-properties-ver: "1.1"
+properties-ver: "1.2"
+stub: 
 ---
-# DAILY NOTE
-<h2 style="text-align:center;"><% tp.file.title %></h2>
+# <% tp.file.title %>
 
 ***
 
-## Changes today
-- INSERT
 
+
+
+***
+## See also
+- INSERT
+## References
+- INSERT

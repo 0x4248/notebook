@@ -1,6 +1,6 @@
 ---
 tags:
-  - Physics/Papers
+  - Papers/Physics
 date: 2025-06-25
 aliases:
   - x-ray equipment operation
@@ -8,15 +8,16 @@ cssclasses:
   - neo-headings
   - bai-headings
   - rounded-images
-  - cursive-font
-  - cursive-headings
-paper-date: 
-arxiv-id: 
-paper-author: 
+  - sans-font
+  - sans-headings
+paper-author:
+  -  Ian R McClelland
 mark-read: false
 lang:
   - en
 properties-ver: "1.1"
+subject:
+  - Physics
 ---
 # X-ray equipment operation
 
@@ -35,14 +36,6 @@ properties-ver: "1.1"
 > 
 >  *0x4248*
 
-## Notes
-INSERT OR REMOVE
-
-
-
-
 ***
 ## See also
-- INSERT
-## References
-- INSERT
+- [[X-ray Techniques - Overview]] `PAPER`

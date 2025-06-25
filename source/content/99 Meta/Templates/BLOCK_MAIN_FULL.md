@@ -9,17 +9,10 @@ cssclasses:
   - rounded-images
 lang:
   - en
-properties-ver: "1.1"
+properties-ver: "1.2"
+stub:
 ---
 # <% tp.file.title %>
+<p class="text-center" style="margin:0;color:gray;">Subtitle</p>
 
 ***
-
-
-
-
-***
-## See also
-- INSERT
-## References
-- INSERT
