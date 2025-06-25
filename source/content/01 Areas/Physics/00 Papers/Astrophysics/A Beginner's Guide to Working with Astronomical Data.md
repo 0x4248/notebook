@@ -19,7 +19,7 @@ properties-ver: "1.1"
 # A Beginner's Guide to Working with Astronomical Data
 
 ***
-- **Author:** Markus Pösse
+- **Author:** Markus Pössel
 - **Date:** 30/04/2019
 - **Link:** [\[1905.13189\] A Beginner's Guide to Working with Astronomical Data](https://arxiv.org/abs/1905.13189)
 
@@ -31,7 +31,7 @@ properties-ver: "1.1"
 >
 > *arXiv*
 
-> A look at the basics of using astronomical data and processing the data using software including python and DS9.
+> A look at the basics of using astronomical data and processing the data using software including python and DS9. This guide will go over
 > 
 > *0x4248*
 

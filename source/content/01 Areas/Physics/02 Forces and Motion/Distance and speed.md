@@ -72,6 +72,6 @@ $$
 
 ***
 ## See also
-- INSERT
+- [[Vectors and scalars]]
 ## References
 - A Level Physics OCR (Pages 22-26) `BOOK`

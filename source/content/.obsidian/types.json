@@ -28,6 +28,7 @@
     "properties-ver": "text",
     "outdated": "checkbox",
     "paper-date": "date",
-    "mark-read": "checkbox"
+    "mark-read": "checkbox",
+    "paper-author": "multitext"
   }
 }
