@@ -20,6 +20,8 @@ lang:
   - en
 properties-ver: "1.1"
 stub: true
+subject:
+  - Physics
 ---
 # A brief introduction to quantum algorithms
 
