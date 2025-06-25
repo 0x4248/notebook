@@ -8,8 +8,8 @@ cssclasses:
   - neo-headings
   - bai-headings
   - rounded-images
-  - sans-font
-  - sans-headings
+  - cursive-font
+  - cursive-headings
 paper-date: 
 arxiv-id: 
 paper-author: 
@@ -32,6 +32,8 @@ properties-ver: "1.1"
 > This extract is more aimed at hospitals and radiological departments, but it does contain useful information on the operation of X-ray equipment
 ## Abstract
 > This extract focuses on the operation of X-Ray equipment and X-ray equipment design. This information is intended to enhance the maintenance and repairs. 
+> 
+>  *0x4248*
 
 ## Notes
 INSERT OR REMOVE
