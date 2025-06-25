@@ -27,7 +27,7 @@ export default (() => {
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
           <>
             <link rel="preconnect" href="https://fonts.googleapis.com" />
-            <link rel="preconnect" href="https://fonts.gstatic.com" />
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
             <link rel="stylesheet" href={googleFontHref(cfg.theme)} />
           </>
         )}
@@ -40,11 +40,12 @@ export default (() => {
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Edu+NSW+ACT+Cursive:wght@400..700&family=Kode+Mono:wght@400..700&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sanchez:ital@0;1&family=Sriracha&family=Tiny5&display=swap" rel="stylesheet"></link>
+        <link
+          href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Edu+NSW+ACT+Cursive:wght@400..700&family=Kode+Mono:wght@400..700&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sanchez:ital@0;1&family=Sriracha&family=Tiny5&display=swap"
+          rel="stylesheet"
+        />
         {css.map((href) => (
-          <link key={href} href={href} rel="stylesheet" type="text/css" spa-preserve />
+          <link key={href} href={href} rel="stylesheet" type="text/css" spa-preserve="" />
         ))}
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
