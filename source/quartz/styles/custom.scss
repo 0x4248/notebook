@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Edu+NSW+ACT+Cursive:wght@400..700&family=Kode+Mono:wght@400..700&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sanchez:ital@0;1&family=Sriracha&family=Tiny5&display=swap');
 @use "./base.scss";
 
 .search-button {
@@ -177,9 +178,6 @@ th {
   margin-right: auto;
   max-width: 100%;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Edu+NSW+ACT+Cursive:wght@400..700&family=Kode+Mono:wght@400..700&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sanchez:ital@0;1&family=Sriracha&family=Tiny5&display=swap');
-
 
 .cursive-font {
   --font-text: "Edu NSW ACT Cursive", serif;
