@@ -29,7 +29,6 @@ stub: false
 - [Semantic Scholar](https://www.semanticscholar.org/)
 - [CORE](https://core.ac.uk/)
 - [Google Scholar](https://scholar.google.com/)
-
 ## Textbooks
 - [LibreTexts](https://libretexts.org/)
 - [OpenStax](https://openstax.org/)
