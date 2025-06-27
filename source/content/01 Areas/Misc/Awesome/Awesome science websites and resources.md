@@ -12,7 +12,7 @@ lang:
 properties-ver: "1.2"
 stub: false
 ---
-# Awesome science websites and resources
+# Awesome tech and science resources
 
 ***
 
@@ -35,3 +35,9 @@ stub: false
 - [Open Textbook Library](https://open.umn.edu/opentextbooks/)
 - [B.C. Open Collection \| BCcampus](https://collection.bccampus.ca/search/)
 - [Course categories \| Saylor Academy](https://learn.saylor.org/course/index.php)
+
+## Engineering based 
+- [TechRxiv](https://www.techrxiv.org)
+- [Ieee Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
+- [NASA Technical Reports Server (NTRS)](https://ntrs.nasa.gov/)
+- [Open Access Theses and Dissertations](https://oatd.org/)
