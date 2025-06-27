@@ -41,7 +41,6 @@ properties-ver: "1.1"
 | Y              | /u/                 | Latin    |
 | Ф              | /f/                 | Cyrillic |
 | Х              | /h/ or /kh/         | Cyrillic |
-| Ц              | /ts/                | Cyrillic |
 | Ч              | /ch/                | Cyrillic |
 | Ш              | /sh/                | Cyrillic |
 | Щ              | /sk/                | Cyrillic |
@@ -55,49 +54,92 @@ properties-ver: "1.1"
 For words with a feminine ending `-sh` `-sha` `-ya` `-s` put a `-t`
 For masculine words with a ending `-t` `-k` `-v` put a `-ti` `-kev` `-va`
 
-Words ending in `-o` `-a` `-e` `-i` `-u` `-y` are not pluralised or cant have a plural form which would need a word before it suggesting plurality like "many" or "a lot of".
+Words ending in `-o` `-a` `-e` `-i` `-u` `-y` are not pluralised or cant have a plural form which would need a word before it suggesting plurality for example:
 
-## Words
+> "Z' mam" = The mother
+> "Z' triya mam" = The three mothers
+> 
+
+## Basic rules to the language
+
 | Word  | Native spelling | Meaning | Formality |
 | ----- | --------------- | ------- | --------- |
-| Ya    |                 | I/I am  | Neutral   |
 | I     |                 | And     | Neutral   |
 | B     |                 | In      | Neutral   |
 | Z'    |                 | The     | Neutral   |
-| Tu    |                 | You     | Neutral   |
 | Eta   |                 | This    | Neutral   |
 | Etot  |                 | This    | Neutral   |
 | Vej   |                 | Do      | Neutral   |
 | Nye   |                 | Not     | Neutral   |
-| Moy   |                 | My      | Neutral   |
-| Kak   |                 | What    | Neutral   |
-| Osh   |                 | She     | Neutral   |
-| Ot    |                 | He      | Neutral   |
-| Oy    |                 | They    | Neutral   |
-| Oyash |                 | Her     | Neutral   |
-| Oyat  |                 | His     | Neutral   |
 | Oya   |                 | Their   | Neutral   |
-|       |                 |         |           |
 
-
+### Pronouns
+| Word  | Native spelling | Meaning | Plural | Meaning (Plural) |
+| ----- | --------------- | ------- | ------ | ---------------- |
+| Ya    |                 | I/I am  | Oy     | They             |
+| Tu    |                 | You     | Tu tu  | You all          |
+| Moy   |                 | My      | -      | -                |
+| Osh   |                 | She     | -      | -                |
+| Ot    |                 | He      | -      | -                |
+| Oy    |                 | They    | -      | -                |
+| Oyash |                 | Her     | -      | -                |
+| Oyat  |                 | His     | -      | -                |
 ### Conversation
 
-| Word        | Native spelling | Meaning   | Formality | Notes                     |
-| ----------- | --------------- | --------- | --------- | ------------------------- |
-| Drava       | Драва           | Hello     | Neutral   |                           |
-| Jestravko   | Йеσтравко       | Hello     | Formal    |                           |
-| Paljava     |                 | Please    | Formal    |                           |
-| Zatdravka   |                 | Thank     | Formal    | Add "tu" to say thank you |
-| Da          |                 | Yes       | Neutral   |                           |
-| Nej         |                 | No        | Neutral   |                           |
-| Palovka     |                 | Bye       | Informal  |                           |
-| Jestpalovka |                 | Goodbye   | Formal    |                           |
-| Horoshos    |                 | Good/Well | Neutral   |                           |
-| Droviya     |                 | Okay      | Informal  |                           |
-| Kojet'      |                 | Want      | Neuteral  |                           |
+| Word        | Native spelling | Meaning        | Formality | Notes                     |
+| ----------- | --------------- | -------------- | --------- | ------------------------- |
+| Drava       | Драва           | Hello          | Neutral   |                           |
+| Jestravko   | Йеσтравко       | Hello          | Formal    |                           |
+| Paljava     |                 | Please         | Formal    |                           |
+| Zatdravka   |                 | Thank/Thanking | Formal    | Add "tu" to say thank you |
+| Da          |                 | Yes            | Neutral   |                           |
+| Nej         |                 | No             | Neutral   |                           |
+| Palovka     |                 | Bye            | Informal  |                           |
+| Jestpalovka |                 | Goodbye        | Formal    |                           |
+| Horoshos    |                 | Good/Well      | Neutral   |                           |
+| Droviya     |                 | Okay           | Informal  |                           |
+| Kojet'      |                 | Want           | Neuteral  |                           |
 
+### Sentence modifiers 
 
+| Word  | Native spelling | Meaning   | Formality | Notes |
+| ----- | --------------- | --------- | --------- | ----- |
+| Ra    |                 | Very      | Neutral   |       |
+| Rajas |                 | Extremely | Neutral   |       |
+| Tza   |                 | Also      |           |       |
+| Frok  |                 | From      |           |       |
+| Prel  |                 | Before    |           |       |
 
+### Question Words
 
+| Word | Native spelling | Meaning | Formality |
+| ---- | --------------- | ------- | --------- |
+| Kak  |                 | What    | Neutral   |
+| Kto  |                 | Who     | Neutral   |
+| Jde  |                 | Where   | Neutral   |
+| Koja |                 | When    | Neutral   |
+| Che  |                 | Why     | Neutral   |
+#### Examples
+"Kto eta?" = "Who is this?"
 
+### Past, present and future
+Stravik verbs are not conjugated. Instead context markers are placed to indicate tense.
 
+- **Present**: No marker
+- **Past**: "Vilo" to mark as past
+- **Future**: "Vizilo" to mark as future
+
+#### Examples
+- "Ya vej": I do
+- "Ya vilo vej": I **did** do
+- "Ya vizilo vej": I **will** do
+
+### Numbers
+| Word  | Native spelling | Meaning |
+| ----- | --------------- | ------- |
+| Ena   |                 | One     |
+| Dva   |                 | Two     |
+| Triya |                 | Three   |
+| Chev  |                 | Four    |
+| Fzat  |                 | Five    |
+| Zhdom |                 | Six     |
