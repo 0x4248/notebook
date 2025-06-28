@@ -40,6 +40,8 @@ a &= \frac{20}{5} = 4 \text{ m/s}^2
 \end{aligned}
 $$
 
+## Acceleration on time graphs
+On a time graph acceleration would be written as $\text{acceleration} = \text{gradient of velocity} - \text{time graph}$ and is not much different from [[Distance and speed#Distance time graphs|this distance time graph]]
 
 ***
 ## See also
