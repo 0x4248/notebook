@@ -16,3 +16,10 @@ stub:
 <p class="text-center" style="margin:0;color:gray;">Subtitle</p>
 
 ***
+
+
+***
+## See also
+- INSERT
+## References
+- INSERT
