@@ -15,3 +15,6 @@ properties-ver: "1.1"
 
 ***
 The misc folder contains notes and thoughts that don't fit into any of the folders in `Areas`
+
+## Some things to look at here
+- [[Awesome]]
