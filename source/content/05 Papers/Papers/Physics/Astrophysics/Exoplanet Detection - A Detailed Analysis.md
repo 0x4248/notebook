@@ -44,11 +44,3 @@ stub: true
 > This paper will take a look into exoplanet detection and the use of machine learning to improve detection of exoplanets
 > 
 > *0x4248*
-
-
-
-***
-## See also
-- INSERT
-## References
-- INSERT
