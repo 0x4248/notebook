@@ -30,5 +30,3 @@ properties-ver: "1.1"
 - [[Numbers in russian]]
 ## References
 - [Basic Russian Phrases](https://www.russianlessons.net/lessons/lesson3_main.php)
-## Footnotes
-

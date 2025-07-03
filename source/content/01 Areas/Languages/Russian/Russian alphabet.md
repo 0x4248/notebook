@@ -56,8 +56,8 @@ To show this more in detail here is a table:
 | Э            | э            | e                                    |
 | Ю            | ю            | yu, ju                               |
 | Я            | я            | ya, ja                               |
+
 Two letters can be use to create a english letter such as:
 - **Кc** = `X`
 - **Уи**, **Иу**, **Юи** = `W`
 - **Дж** = `J`
-- **Эй** = `A`
