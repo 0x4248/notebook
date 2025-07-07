@@ -9,8 +9,7 @@ cssclasses:
   - bai-headings
   - rounded-images
   - center-images
-  - page-white
-  - img-blue
+  - page-red
 lang:
   - en
 properties-ver: "1.1"

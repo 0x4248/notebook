@@ -25,3 +25,4 @@ Awesome is a list of awesome things. On my website I have created my own awesome
 - [[Awesome Linux Websites]] ⭐
 - [[Awesome Documentation Websites]]
 - [[Awesome obsidian websites]]
+- [[Other Awesome]]
