@@ -10,7 +10,6 @@ cssclasses:
 # Razer Blade 15 (2021) on Arch Linux
 
 ***
-
 ## Hardware
 
 - **Full device name**: Blade 15 Base Model (Early 2021) - RZ09-0369 (6.04)
