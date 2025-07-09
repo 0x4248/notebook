@@ -15,12 +15,4 @@ stub:
 # Alpha-particle scattering experiment
 
 ***
-
-
-
-
-***
-## See also
-- INSERT
-## References
-- INSERT
+The alpha particle scattering experiment, also known as Rutherford's gold foil experiment, was a groundbreaking experiment conducted by Ernest Rutherford in 1909. It provided crucial evidence for the nuclear model of the atom.
