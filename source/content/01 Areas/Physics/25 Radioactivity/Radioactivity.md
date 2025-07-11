@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - Physics/Radiation
 date: 2025-07-11
 aliases:
   - radioactivity
@@ -10,7 +11,7 @@ cssclasses:
 lang:
   - en
 properties-ver: "1.2"
-stub: 
+stub:
 ---
 # Radioactivity
 
@@ -29,4 +30,5 @@ When charged particles pass through an electric or magnetic field they are defle
 ## See also
 - [[Alpha, Beta and Gamma]]
 ## References
-- INSERT
+- [Radioactivity - Wikipedia](https://en.wikipedia.org/wiki/Radioactivity) `WEB`
+- A Level Physics OCR (Pages 484-486) `BOOK`
