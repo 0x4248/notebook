@@ -6,7 +6,6 @@ aliases:
   - <%tp.file.title.toLowerCase()%>
 cssclasses:
   - neo-headings
-  - bai-headings
   - rounded-images
   - sans-font
   - sans-headings

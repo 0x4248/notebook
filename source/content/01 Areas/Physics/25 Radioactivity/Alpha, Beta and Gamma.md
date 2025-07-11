@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - Physics/Radiation
 date: 2025-07-11
 aliases:
   - alpha, beta and gamma
@@ -36,3 +37,4 @@ Each type has its own penetration power:
 ## References
 - [31.1 Nuclear Radioactivity - College Physics 2e](https://openstax.org/books/college-physics-2e/pages/31-1-nuclear-radioactivity) `WEB`
 - The Physics Book DK Books (Pages 238-239) `BOOK`
+-  A Level Physics OCR (Pages 484) `BOOK`
