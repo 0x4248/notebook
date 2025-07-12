@@ -25,7 +25,6 @@ In this experiment two things were noticed:
 - Most [[Alpha, Beta and Gamma|alpha]] particles passed right trough the foil without any reflection but were slightly scattered by the gold atoms (1 in 2000)
 - Very few particles (1 in 10,000) were deflected.
 
-
 ***
 ## See also
 - [[Alpha, Beta and Gamma]]

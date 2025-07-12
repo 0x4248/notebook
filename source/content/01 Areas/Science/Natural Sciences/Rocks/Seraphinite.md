@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - Natural_Sciences/Rocks
 date: 2025-07-07
 aliases:
   - seraphinite
@@ -10,7 +11,7 @@ cssclasses:
 lang:
   - en
 properties-ver: "1.2"
-stub: 
+stub:
 ---
 # Seraphinite
 

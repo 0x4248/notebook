@@ -1,4 +1,20 @@
+---
+tags: 
+date: 2025-07-12
+aliases:
+  - band plans
+cssclasses:
+  - neo-headings
+  - rounded-images
+  - kode-headings
+lang:
+  - en
+properties-ver: "1.2"
+stub:
+---
 # Band plans
+
+***
 
 Band plans define how different radio frequency bands are meant to be used.
 

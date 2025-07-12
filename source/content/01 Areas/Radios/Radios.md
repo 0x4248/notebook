@@ -19,7 +19,7 @@ properties-ver: "1.1"
 
 This part of the vault contains information about various radios, HAM radios, and other radio-related topics.
 ## Pages
-- [Common band plans](band-plans.md)
+- [Common band plans](Band%20plans.md)
 - [PMR446](PMR446.md)
 
 ## Pages not in this folder
