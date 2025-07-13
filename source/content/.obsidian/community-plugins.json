@@ -18,7 +18,6 @@
   "link-exploder",
   "home-tab",
   "obsidian-completr",
-  "obsidian-auto-link-title",
   "3d-graph",
   "calendar",
   "obsidian-excalidraw-plugin",
@@ -33,5 +32,6 @@
   "latex-math",
   "dbfolder",
   "dataview",
-  "github-copilot"
+  "github-copilot",
+  "obsidian-auto-link-title"
 ]

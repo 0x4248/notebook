@@ -19,7 +19,7 @@ stub:
 Seraphinite is a rare and beautiful green stone known for its unique feather-like patterns. It is often used in jewellery and decorative items, prized for its aesthetic appeal and metaphysical properties. It is found in one mine in Russia and is not commonly available, making it a collector's item.
 
 ![[Seraphinite_img_1.webp]]
-<p style="text-align: center; font-size: small;">4248 Media, Natural History Museum</p>
+<p style="text-align: center; font-size: small;margin: 0px;">4248 Media, Natural History Museum</p>
 
 ***
 ## References

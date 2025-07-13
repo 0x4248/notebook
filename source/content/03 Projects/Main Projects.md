@@ -20,7 +20,7 @@ These are the main projects I am working on or have worked on in the past. They 
 - [OpenSky](https://github.com/0x4248/OpenSky)
 - [JScan](https://github.com/0x4248/JScan)
 
-## Things im currently learning and want to learn in the future
+## Things i am currently learning and want to learn in the future
 * Go
 * x86 OS development
 * Learning UART hacking

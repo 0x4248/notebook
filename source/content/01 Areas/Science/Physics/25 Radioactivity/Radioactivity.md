@@ -32,3 +32,4 @@ When charged particles pass through an electric or magnetic field they are defle
 ## References
 - [Radioactivity - Wikipedia](https://en.wikipedia.org/wiki/Radioactivity) `WEB`
 - A Level Physics OCR (Pages 484-486) `BOOK`
+- [Encyclopaedia Britannica 11th Edition - Volume 22 (Page 792-793)](https://archive.org/details/encyclopaedia-britannica-all-volumes/Encyclopaedia%20Britannica%20-%20Volume%2022/page/792/mode/2up?view=theater) `PDF`
