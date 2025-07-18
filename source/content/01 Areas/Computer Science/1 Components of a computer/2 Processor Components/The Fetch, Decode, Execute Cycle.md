@@ -19,7 +19,6 @@ The sequence of operations that are used when executing an instruction can be sp
 - Fetch
 - Decode
 - Execute
-
 ## How the registers are used in this cycle
 ### Fetch phase
 1. The address of the next instruction is copied from the [[Program counter]] to the [[Memory address register]].
