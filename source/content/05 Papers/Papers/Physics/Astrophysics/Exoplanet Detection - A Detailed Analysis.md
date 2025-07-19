@@ -19,10 +19,6 @@ lang:
 properties-ver: "1.2"
 subject:
   - Physics
-  - Biology
-  - Computer Science
-  - Maths
-  - Medical
 stub: true
 ---
 # Exoplanet Detection - A Detailed Analysis

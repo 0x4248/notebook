@@ -30,17 +30,8 @@ stub: true
 
 ***
 
-## Abstract
-INSERT
-
-## Notes
-INSERT OR REMOVE
-
-
-
+*No notes has been made on this paper yet. (It has been put on a waitlist for review).*
 
 ***
 ## See also
-- INSERT
-## References
-- INSERT
+- [[The Recent Increase in Atlantic Hurricane Activity - Causes and Implications]] `PAPER`

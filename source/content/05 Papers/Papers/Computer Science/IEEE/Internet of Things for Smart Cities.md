@@ -18,14 +18,13 @@ lang:
   - en
 properties-ver: "1.2"
 subject:
-  - Physics
-  - Biology
   - Computer Science
-  - Maths
-  - Medical
 stub: true
 ---
 # Internet of Things for Smart Cities
 
 ***
 - **Link:** [Internet of Things for Smart Cities](https://ieeexplore.ieee.org/document/6740844)
+***
+
+*No notes has been made on this paper yet. (It has been put on a waitlist for review).*

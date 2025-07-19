@@ -11,18 +11,12 @@ cssclasses:
   - sans-font
   - sans-headings
 paper-date: 
-arxiv-id: 
-paper-author: 
 mark-read: false
 lang:
   - en
 properties-ver: "1.2"
 subject:
-  - Physics
-  - Biology
-  - Computer Science
-  - Maths
-  - Medical
+  - Space
 stub: true
 ---
 # Space radiation hazards in man Annual report 1969
@@ -32,3 +26,6 @@ stub: true
 - **Date:** 01/08/1968
 - **Link:** [Space radiation hazards in man Annual report, 1 Oct. 1968 - 30 Sep. 1969 - NASA Technical Reports Server (NTRS)](http://ntrs.nasa.gov/citations/19700004222)
 - **PDF Link**: [ntrs.nasa.gov/api/citations/19700004222/downloads/19700004222.pdf](https://ntrs.nasa.gov/api/citations/19700004222/downloads/19700004222.pdf)
+***
+
+*No notes has been made on this paper yet. (It has been put on a waitlist for review).*
