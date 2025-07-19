@@ -27,7 +27,7 @@ paper-author:
 
 ## Abstract
 
-> A beginners guide to learning LaTeX
+> A beginners guide to learning LaTeX typically aimed at uni students who are new to LaTeX and want to learn the basics of typesetting documents, including how to create sections, lists, tables, and figures.
 > 
 > *0x4248*
 
