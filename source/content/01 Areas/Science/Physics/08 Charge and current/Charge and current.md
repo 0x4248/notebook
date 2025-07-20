@@ -26,3 +26,7 @@ I &= \text{Amps} \\
 \end{aligned}
 $$
 
+
+***
+## References
+- A Level Physics OCR (Pages 122-125) `BOOK`
