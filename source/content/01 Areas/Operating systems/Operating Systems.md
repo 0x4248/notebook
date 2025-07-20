@@ -3,7 +3,7 @@ tags:
   - Operating_systems
 date: 2025-01-28
 aliases:
-  - index
+  - ooperating systems
 cssclasses:
   - neo-headings
   - bai-headings
@@ -12,7 +12,7 @@ lang:
   - en
 properties-ver: "1.1"
 ---
-# Operating sytems
+# Operating systems
 
 ***
 In this part of the vault, all my notes relating to operating systems are stored here. 
