@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - Radios
 date: 2025-07-23
 aliases:
   - dx
@@ -10,11 +11,17 @@ cssclasses:
 lang:
   - en
 properties-ver: "1.2"
-stub: 
+stub:
 ---
 # DX
 
 ***
+
+>[!note] 
+> This page is continently being updated with new information as I make more DX contacts. Check back for new updates.
+
+## HAM BANDS
+### 40M
 
 | Callsign                                | Country     | Time             | Frequency | Mode       | Antenna      | Notes               |
 | --------------------------------------- | ----------- | ---------------- | --------- | ---------- | ------------ | ------------------- |
@@ -25,10 +32,3 @@ stub:
 
 
 
-
-
-***
-## See also
-- INSERT
-## References
-- INSERT
