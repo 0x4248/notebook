@@ -15,14 +15,14 @@ properties-ver: "1.0"
 
 ## ! Templates
 "!" templates are pinned to the top of the template list. 
-- [[!!!BLOCK_MAIN_DEFAULT]]
+- [[!!!PAGE_MAIN_DEFAULT]]
 
 ## Block templates
 
 Block templates are large blocks of content that are used to create the main structure of a page. 
 - [[BLOCK_FOOT]]
-- [[BLOCK_MAIN_FULL]]
-- [[BLOCK_MAIN_NO_TITLE]]
+- [[PAGE_MAIN_FULL]]
+- [[PAGE_MAIN_NO_TITLE]]
 - [[BLOCK_REF]]
 - [[BLOCK_SEE_ALSO]]
 - [[BLOCK_TOPIC]]
@@ -45,6 +45,7 @@ Issues are used to mark content that needs attention.
 - [[ISSUE_STUB]]
 - [[ISSUE_NON_FREE]]
 - [[ISSUE_UNICODE]]
+- [[ISSUE_CHAR]]
 
 ## X42 templates
 X42 elements uses css classes to create elements. 

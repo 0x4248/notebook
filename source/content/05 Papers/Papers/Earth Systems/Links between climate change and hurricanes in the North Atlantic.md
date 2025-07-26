@@ -26,7 +26,7 @@ stub: true
 
 - **Author:**
 - **Date:** 
-- **Link:** [Links between climate change and hurricanes in the North Atlantic \| PLOS Climate](https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000186#:~:text=Many%20studies%20have%20examined%20the,4)
+- **Link:** [Links between climate change and hurricanes in the North Atlantic \| PLOS Climate](https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000186)
 
 ***
 

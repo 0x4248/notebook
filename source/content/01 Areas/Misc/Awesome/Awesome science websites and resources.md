@@ -36,7 +36,11 @@ stub: false
 - [B.C. Open Collection \| BCcampus](https://collection.bccampus.ca/search/)
 - [Course categories \| Saylor Academy](https://learn.saylor.org/course/index.php)
 
-## Engineering based 
+## Medical
+- [NICE](https://www.nice.org.uk/)
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+- [MedlinePlus](https://medlineplus.gov/)
+## Engineering 
 - [TechRxiv](https://www.techrxiv.org)
 - [Ieee Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
 - [NASA Technical Reports Server (NTRS)](https://ntrs.nasa.gov/)

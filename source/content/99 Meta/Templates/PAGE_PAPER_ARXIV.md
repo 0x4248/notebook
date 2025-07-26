@@ -16,12 +16,7 @@ mark-read: false
 lang:
   - en
 properties-ver: "1.2"
-subject:
-  - Physics
-  - Biology
-  - Computer Science
-  - Maths
-  - Medical
+subject: []
 stub:
 ---
 # <% tp.file.title %>
@@ -35,10 +30,12 @@ stub:
 ***
 
 ## Abstract
-INSERT
+*No abstract has been made on this paper yet. (It has been put on a waitlist for review).*
+
 
 ## Notes
-INSERT OR REMOVE
+*No notes has been made on this paper yet. (It has been put on a waitlist for review).*
+
 
 
 

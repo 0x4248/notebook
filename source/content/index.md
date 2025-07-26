@@ -14,7 +14,7 @@ lang:
   - en
 properties-ver: "1.1"
 ---
-<h1>Welcome to 4248's <span style="font-family:sans; color:#4a95ec;"><i>Note</i>book</span></h1>
+<h1><span style="font-size:smaller;">Welcome to 4248's </span><br><span style="font-family:sans; color:#4a95ec;"><i>Notebook</i></span></h1>
 
 ***
 %%TO EDITOR: DO NOT REMOVE OR MOVE THIS FILE IT WILL BRICK THE SITE UNTIL MOVED BACK%%
