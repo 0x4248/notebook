@@ -12,6 +12,7 @@ cssclasses:
   - sans-headings
   - page-blue
   - center-images
+  - img-blue
 lang:
   - en
 properties-ver: "1.2"

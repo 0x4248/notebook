@@ -29,4 +29,5 @@ This part of my vault focuses on medical knowledge, including drugs, conditions,
 
 ## Example notes
 - [[Atropine]]
+- [[Bradycardia]]
 - [[Anaphylaxis]]
