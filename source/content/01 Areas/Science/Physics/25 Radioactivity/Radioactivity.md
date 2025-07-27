@@ -8,6 +8,7 @@ cssclasses:
   - neo-headings
   - bai-headings
   - rounded-images
+  - center-images
 lang:
   - en
 properties-ver: "1.2"
