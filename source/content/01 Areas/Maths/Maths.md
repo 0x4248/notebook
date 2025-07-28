@@ -25,7 +25,7 @@ properties-ver: "1.1"
 <p class="X42-star-break-line">**</p>
 </div>
 
-Welcome to the maths part of the notebook, whilst I don't take maths (other than taking it in high school) I do find it fun to look at some of the stuff.
+Welcome to the maths part of the notebook, whilst I don't take maths (other than taking it in hxigh school) I do find it fun to look at some of the stuff.
 ## Contents
 - Algebra
     - [[Index laws]]

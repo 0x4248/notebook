@@ -10,7 +10,6 @@ cssclasses:
   - rounded-images
   - sans-font
   - sans-headings
-  - page-blue
 lang:
   - en
 properties-ver: "1.2"
