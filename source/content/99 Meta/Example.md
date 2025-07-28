@@ -20,12 +20,8 @@ stub:
 ***
 
 <div>
-    <div class="X42-card-container" style="float:left">
-    <p>Здравствуйте, как дела?</p></div>
-    <div class="X42-card-container" style="float:right">
-    <p>Да, я хорошо. Ты?</p></div>
-    <div class="X42-card-container" style="float:left;">
-    <p>Я тоже в порядке, спасибо.?</p></div>
+    <div class="X42-card-container">
+    <p>Здравствуйте, как дела?</p><p>Да, я хорошо. Ты?</p><p>Я тоже в порядке, спасибо?</p></div>
 </div>
 
 Aut reiciendis doloribus aspernatur debitis consectetur. Vel laudantium qui dolor quia velit non exercitationem. Est ab sit sit. Sed sit fugit corporis. Voluptatum omnis quis laborum atque alias.
@@ -42,5 +38,5 @@ Aspernatur voluptas blanditiis earum quidem corrupti. Est ea sint sint architect
 ***
 ## See also
 - INSERT
-## References
+## References 
 - INSERT
