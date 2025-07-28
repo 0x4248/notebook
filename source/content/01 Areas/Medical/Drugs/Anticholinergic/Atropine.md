@@ -55,4 +55,5 @@ Severe complications:
 ## See also
 - [[Bradycardia]]
 ## References
-- [RxList](https://www.rxlist.com/atropine-drug.htm)
+- [RxList](https://www.rxlist.com/atropine-drug.htm) `WEB`
+- [Atropine - Wikipedia](https://en.wikipedia.org/wiki/Atropine) `WEB`
