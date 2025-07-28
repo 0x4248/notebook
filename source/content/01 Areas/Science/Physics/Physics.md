@@ -13,7 +13,7 @@ lang:
   - en
 properties-ver: "1.1"
 ---
-<p style="text-align:center;"><span style="font-size:20px;"><strong>Welcome to the 4248 <i>Notebook</i></strong></span><br><i>of</i><br><span style="font-size:30px;"><strong>Physics</strong></span></p>
+<p style="text-align:center;"><span style="font-size:20px;"><strong>Welcome to the 4248 <i>Notebook</i></strong></span><br><i>of</i><br><span style="font-size:40px;"><strong>Physics</strong></span></p>
 
 ***
 
