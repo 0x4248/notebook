@@ -24,8 +24,4 @@ stub:
 
 ## Notes
 ### Summary
-*This video explains why China is building mockup ships in the middle of their desert and the tensions between the south Chinese sea, Taiwan and China*  
-
-***
-## Other things to watch
-- INSERT
+*This video explains why China is building mockup ships in the middle of their desert and the tensions between the south Chinese sea, Taiwan and China*
