@@ -7,6 +7,8 @@ cssclasses:
   - neo-headings
   - bai-headings
   - rounded-images
+  - sans-font
+  - sans-headings
   - center-images
 lang:
   - en
