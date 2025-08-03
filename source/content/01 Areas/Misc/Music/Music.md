@@ -22,4 +22,12 @@ I am mostly interested in the following genres:
 - Furry
 - Breakcore
 
+## Music making
+I also do make some music myself, I use the following software:
+- Ableton Live
+- Audacity
+- ~~FL Studio~~ (Dropped)
+- ~~Logic Pro~~ (Dropped)
+- ~~Logic Pro for iPad~~ (Dropped)
+
 [^1]: [BBC News - GCSE grades 2024: The 9-1 boundaries explained](https://www.bbc.co.uk/news/education-48993830) `WEB`
