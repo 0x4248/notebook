@@ -89,7 +89,7 @@ stub:
 ## Cardiovascular
 - [ ] Myocardial Infarction (STEMI/NSTEMI)
 - [ ] Cardiac Arrest (PEA/VT/VF/Asystole)
-- [ ] Bradycardia
+- [ ] ~~[[Bradycardia]]~~
 - [ ] Tachycardia (SVT, VT, AF with RVR)
 - [ ] Atrial Fibrillation/Flutter
 - [ ] Hypertensive Emergency
@@ -100,7 +100,7 @@ stub:
 - [ ] Asystole
 
 ## Respiratory
-- [ ] Asthma Exacerbation
+- [ ] [[Asthma]]
 - [ ] COPD Exacerbation
 - [ ] Pulmonary Embolism (PE)
 - [ ] Tension Pneumothorax
@@ -112,8 +112,9 @@ stub:
 
 ## Neurological
 - [ ] Seizure
-- [ ] Status Epilepticus
-- [ ] Stroke (Ischemic or Hemorrhagic)
+- [ ] [[Status Epilepticus]]
+- [ ] Ischemic Stroke
+- [ ] Hemorrhagic Stroke
 - [ ] Traumatic Brain Injury (TBI)
 - [ ] Meningitis/Encephalitis
 - [ ] Raised Intracranial Pressure (ICP)

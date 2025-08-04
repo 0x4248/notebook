@@ -26,9 +26,13 @@ subject:
 <p class="X42-star-break-line"><i>N</i></p>
 </div>
 
->[!danger] 
+>[!danger]+ Warning!
 > **I AM NOT A DOCTOR**
 > Do not use these notes for medical research or purposes, this is just me leaning about medical stuff like drugs and procedures used in the medical world.
+
+>[!danger]+ Осторожно!
+> **Я НЕТ ДОКТОР**
+> Не используйте эти заметки для медицинских исследований или целей.
 
 This part of my vault focuses on medical knowledge, including drugs, conditions, and procedures. 
 
