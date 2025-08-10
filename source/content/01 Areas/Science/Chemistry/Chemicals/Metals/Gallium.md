@@ -49,4 +49,6 @@ Gallium is not combustible. Runoff may pollute waterways.
 ## See also
 - INSERT
 ## References
-- [PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/5360835)
+- [Gallium - PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/5360835)
+- [Gallium - Wikipedia](https://en.wikipedia.org/wiki/Gallium)
+- [Gallium - WebElements](https://www.webelements.com/compounds/gallium/)

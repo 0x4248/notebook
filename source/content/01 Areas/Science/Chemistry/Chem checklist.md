@@ -1,12 +1,12 @@
 ### Elements (General)
-- [ ] [[Gallium]]
+- [x] [[Gallium]]
 - [ ] [[Mercury]]
 - [ ] Bismuth
 - [ ] Tungsten
 - [ ] Antimony
 - [ ] Phosphorus
 - [ ] Fluorine
-- [ ] Sulfur
+- [ ] [[Sulfur]]
 - [ ] Xenon
 - [ ] Neon
 
@@ -18,7 +18,7 @@
 - [ ] Actinium
 
 ### Radioactive Isotopes
-- [ ] Cobalt-60
+- [x] [[Cobalt-60]]
 - [ ] Iodine-131
 - [ ] Cesium-137
 - [ ] Strontium-90
