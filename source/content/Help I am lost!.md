@@ -40,5 +40,3 @@ stub:
 > 
 > Which is then split into more sections to be more organised.
 > 
-
-***
