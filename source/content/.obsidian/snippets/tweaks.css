@@ -163,3 +163,8 @@ body :is(strong, b, .cm-strong) {
   border: var(--window-border) !important;
   border-radius: var(--radius-s) !important;
 }
+
+
+table {
+  min-width: 90%;
+}
