@@ -18,7 +18,6 @@ stub:
 
 ***
 Welcome to the 0x4248 Linux/UNIX notebook, here I publish all my notes and tips on using Linux and UNIX systems almost like a man page. Hence also why you can get to here using `man.0x4248.dev`.
-
 ## Categories
 Like with [[Man|man]] on linux, this is split into several sections:
 - `0` Kernel and core - Notes relating to the linux kernel and other core systems like BIOS, UEFI and drivers.
