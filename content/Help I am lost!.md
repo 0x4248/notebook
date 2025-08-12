@@ -19,11 +19,8 @@ stub:
 *Your lost on my notebook and don't know where to go?* Well you are in the right place! This page will take you to the main pages and sections and will also explain where to go.
 
 >[!summary]+ I want to go home but cant find the link!
-> Yeah, its kinda hidden by quartz. Here is a link to the index page: [[Index]].
-> 
-> Для рус: [[Индекс]]
-> 
-> 
+> Yeah, its kinda hidden by quartz. Here is a link to the index page: <a href="/notebook">index</a>
+
 
 >[!note]+ Im looking for your main notes!
 > Head over to `01 Areas`. Which is split into several sections like:

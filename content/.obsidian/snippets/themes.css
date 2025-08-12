@@ -1,0 +1,441 @@
+/*------------------------------------------------------------------------------
+              Notebook Background Color Schemes by CyanVoxel v2.2.3
+
+These a few CSS classes that mimic a few of my real-world pages and pen colors.
+Go ahead and try it out! You can change or add new color variables or entire new
+classes and combinations. Inside Obsidian, apply a page class with an optional
+pen color class to see the effects. Add the recolor-images class to recolor
+the images in your notes, too!
+
+Website used to generate Color Filters:
+https://angel-rs.github.io/css-color-filter-generator
+
+
+
+This CSS has been hevily modified by 0x4248
+This file is licensed under the MIT License and originally created by CyanVoxel.
+https://github.com/CyanVoxel/Obsidian-Vault-Template
+------------------------------------------------------------------------------*/
+
+:root {
+  --pen-white: #edf1fc;
+  --pen-grey: #5f5d58;
+  --pen-black: #26241f;
+  --pen-red: #ed5f5f;
+  --pen-orange: #f57c20;
+  --pen-yellow: #eeca5b;
+  --pen-green: #27cd64;
+  --pen-lime: #7df148;
+  --pen-blue: #4c7fee;
+  --pen-cyan: #54b6f8;
+  --pen-purple: #b57af7;
+  --pen-pink: #f25c9b;
+
+  --neutral-pen-black: #272727;
+  --neutral-pen-black-trans: #27272722;
+
+  --page-white: #ffffff;
+  --page-tan: #f3deaf;
+  --page-blue: #0a081e;
+  --page-red: #2f0a0a;
+  --page-green: #061f06;
+  --page-purple: #1e0a2f;
+  --page-grey: #1e1e1e;
+  --page-blueprint: #3a68ff;
+}
+
+.page-bold {
+  --font-weight: bold;
+}
+
+.page-tan,
+.page-white,
+.page-blueprint,
+.page-blue,
+.page-red,
+.page-green,
+.page-black,
+.page-grey,
+.page-purple {
+  --text-normal: var(--accent-color);
+  --text-muted: var(--accent-color);
+  --text-faint: var(--accent-color-trans);
+  --h1-color: var(--accent-color);
+  --h2-color: var(--accent-color);
+  --h3-color: var(--accent-color);
+  --h4-color: var(--accent-color);
+  --h5-color: var(--accent-color);
+  --h6-color: var(--accent-color);
+  --link-color: var(--accent-color);
+  --link-color-hover: var(--accent-color);
+  --link-unresolved-color: var(--pen-grey);
+  --caret-color: var(--accent-color);
+  --hr-color: var(--accent-color);
+  --blockquote-border-color: var(--accent-color);
+  --embed-border-left: 2px solid var(--accent-color);
+  --collapse-icon-color-collapsed: var(--accent-color);
+  --checkbox-color: var(--accent-color);
+  --checkbox-marker-color: var(--page-color);
+  --checkbox-color-hover: var(--accent-color-trans);
+  --checkbox-border-color: var(--accent-color);
+  --checklist-done-color: var(--accent-color);
+  --list-marker-color: var(--accent-color);
+
+  --interactive-accent: var(--accent-color);
+  --metadata-label-text-color: var(--accent-color);
+  --metadata-input-text-color: var(--accent-color);
+  --tag-color: var(--accent-color);
+  --tag-background: var(--accent-color-trans);
+  --pill-cover-hover: color-mix(in srgb, var(--accent-color) 60%, transparent);
+  --background-modifier-border-focus: var(--accent-color);
+  --background-modifier-border: var(--accent-color-trans);
+  --background-modifier-hover: color-mix(in srgb,
+      var(--accent-color) 60%,
+      transparent);
+
+  color: var(--accent-color);
+  background-color: var(--page-color);
+}
+
+/* ----------------------- tan/Tan Page Background ----------------------- */
+.page-tan {
+  --page-color: var(--page-tan);
+  --accent-color: var(--pen-black);
+  --link-color: var(--pen-black);
+  --link-external-color: var(--pen-black);
+  --link-external-color-hover: var(--pen-grey);
+  --link-color-hover: var(--pen-grey);
+  --link-unresolved-color: var(--pen-grey);
+  --accent-color-trans: color-mix(in srgb,
+      var(--accent-color) 15%,
+      transparent);
+  color-scheme: light;
+}
+
+.embed-tan img {
+  background-color: var(--page-tan);
+}
+
+/* --------------------------- White Page Background ------------------------ */
+.page-white {
+  --page-color: var(--page-white);
+  --accent-color: var(--neutral-pen-black);
+  --link-color: var(--pen-black);
+  --link-color-hover: var(--pen-grey);
+  --link-external-color: var(--pen-black);
+  --link-external-color-hover: var(--pen-grey);
+  --link-unresolved-color: var(--pen-grey);
+  --accent-color-trans: color-mix(in srgb,
+      var(--accent-color) 15%,
+      transparent);
+}
+
+.embed-white img {
+  background-color: var(--page-white);
+}
+
+/* ------------------------- Blueprint Page Background ------------------ */
+.page-blueprint {
+  --page-color: var(--page-blueprint);
+  --accent-color: var(--pen-white);
+  --link-color: var(--pen-white);
+  --link-color-hover: var(--pen-cyan);
+  --link-unresolved-color: var(--pen-cyan);
+  --h1-color: var(--pen-white);
+  --h2-color: color-mix(in srgb, var(--pen-blue) 20%, white);
+  --h3-color: color-mix(in srgb, var(--pen-blue) 20%, white);
+  --h4-color: color-mix(in srgb, var(--pen-blue) 20%, white);
+  --h5-color: var(--pen-white);
+  --h6-color: var(--pen-white);
+}
+
+/* ------------------------- Color Page Background ------------------ */
+.page-blue {
+  --page-color: var(--page-blue);
+  --accent-color: color-mix(in srgb, var(--pen-blue) 50%, white);
+  --link-color: var(--pen-blue);
+  --link-color-hover: var(--pen-cyan);
+  --link-unresolved-color: var(--pen-red);
+  --link-external-color: var(--pen-blue);
+  --link-external-color-hover: var(--pen-cyan);
+  --h1-color: color-mix(in srgb, var(--pen-blue) 60%, white);
+  --h2-color: var(--pen-blue);
+  --h3-color: var(--pen-blue);
+  --h4-color: var(--pen-blue);
+  --h5-color: var(--pen-blue);
+  --h6-color: var(--pen-blue);
+  --accent-color-trans: color-mix(in srgb,
+      var(--accent-color) 15%,
+      transparent);
+  color-scheme: dark;
+
+}
+
+
+.page-red {
+  --page-color: var(--page-red);
+  --accent-color: color-mix(in srgb, var(--pen-red) 50%, white);
+  --h1-color: color-mix(in srgb, var(--pen-red) 60%, white);
+  --link-color: var(--pen-red);
+  --link-color-hover: var(--pen-orange);
+  --link-external-color: var(--pen-red);
+  --link-external-color-hover: var(--pen-orange);
+  --link-unresolved-color: var(--pen-yellow);
+  --h2-color: var(--pen-red);
+  --h3-color: var(--pen-red);
+  --h4-color: var(--pen-red);
+  --h5-color: var(--pen-red);
+  --h6-color: var(--pen-red);
+  --accent-color-trans: color-mix(in srgb,
+      var(--accent-color) 15%,
+      transparent);
+  color-scheme: dark;
+
+}
+
+
+.page-green {
+  --page-color: var(--page-green);
+  --accent-color: color-mix(in srgb, var(--pen-green) 50%, white);
+  --h1-color: color-mix(in srgb, var(--pen-green) 60%, white);
+  --link-color: var(--pen-green);
+  --link-color-hover: var(--pen-lime);
+  --link-external-color: var(--pen-green);
+  --link-external-color-hover: var(--pen-lime);
+  --link-unresolved-color: var(--pen-red);
+  --h2-color: var(--pen-green);
+  --h3-color: var(--pen-green);
+  --h4-color: var(--pen-green);
+  --h5-color: var(--pen-green);
+  --h6-color: var(--pen-green);
+  --accent-color-trans: color-mix(in srgb,
+      var(--accent-color) 15%,
+      transparent);
+  color-scheme: dark;
+
+}
+
+.page-purple {
+  --page-color: var(--page-purple);
+  --accent-color: color-mix(in srgb, var(--pen-purple) 50%, white);
+  --h1-color: color-mix(in srgb, var(--pen-purple) 60%, white);
+  --link-color: var(--pen-purple);
+  --link-color-hover: var(--pen-pink);
+  --link-external-color: var(--pen-purple);
+  --link-external-color-hover: var(--pen-pink);
+  --link-unresolved-color: var(--pen-pink);
+  --h2-color: var(--pen-purple);
+  --h3-color: var(--pen-purple);
+  --h4-color: var(--pen-purple);
+  --h5-color: var(--pen-purple);
+  --h6-color: var(--pen-purple);
+  --accent-color-trans: color-mix(in srgb,
+      var(--accent-color) 15%,
+      transparent);
+  color-scheme: dark;
+
+}
+
+/* Code Blocks */
+:is(.page-white, .page-tan, .page-blueprint, .page-blue, .page-red, .page-green, .page-purple) :is(code,
+  .HyperMD-codeblock, .cm-inline-code) {
+  --code-normal: var(--accent-color);
+  --code-background: color-mix(in srgb,
+      var(--page-color) 75%,
+      black) !important;
+}
+
+div>pre {
+  --code-background: color-mix(in srgb,
+      var(--page-color) 80%,
+      rgba(0, 0, 0, 0.1)) !important;
+}
+
+:is(.page-white, .page-tan, .page-blueprint, .page-blue, .page-red, .page-green, .page-purple) {
+  --metadata-input-background-active: var(--accent-color-trans);
+}
+
+/* ------------------------------- Pen Colors ------------------------------- */
+
+.pen-white {
+  --accent-color: var(--pen-white);
+  --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
+  --link-color: var(--pen-black);
+  --link-color-hover: var(--pen-grey);
+  --link-external-color: var(--pen-black);
+  --link-external-color-hover: var(--pen-grey);
+  --link-unresolved-color: var(--pen-grey);
+  color: var(--accent-color);
+  --hr-color: var(--accent-color);
+}
+
+.pen-blue {
+  --accent-color: var(--pen-blue);
+  --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
+  --link-color: var(--pen-blue);
+  --link-color-hover: var(--pen-cyan);
+  --link-external-color: var(--pen-blue);
+  --link-external-color-hover: var(--pen-cyan);
+  --link-unresolved-color: var(--pen-red);
+  color: var(--accent-color);
+  --hr-color: var(--accent-color);
+}
+
+.pen-cyan {
+  --accent-color: var(--pen-cyan);
+  --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
+  color: var(--accent-color);
+  --hr-color: var(--accent-color);
+}
+
+.pen-red {
+  --accent-color: var(--pen-red);
+  --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
+  --link-color: var(--pen-red);
+  --link-color-hover: var(--pen-orange);
+  --link-unresolved-color: var(--pen-yellow);
+  color: var(--accent-color);
+  --hr-color: var(--accent-color);
+}
+
+.pen-orange {
+  --accent-color: var(--pen-orange);
+  --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
+  --link-color: var(--pen-orange);
+  --link-color-hover: var(--pen-yellow);
+  --link-external-color: var(--pen-orange);
+  --link-external-color-hover: var(--pen-yellow);
+  --link-unresolved-color: var(--pen-green);
+  color: var(--accent-color);
+  --hr-color: var(--accent-color);
+}
+
+.pen-yellow {
+  --accent-color: var(--pen-yellow);
+  --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
+  --link-color: var(--pen-yellow);
+  --link-color-hover: var(--pen-green);
+  --link-external-color: var(--pen-yellow);
+  --link-external-color-hover: var(--pen-green);
+  --link-unresolved-color: var(--pen-blue);
+  color: var(--accent-color);
+  --hr-color: var(--accent-color);
+}
+
+.pen-green {
+  --accent-color: var(--pen-green);
+  --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
+  --link-color: var(--pen-green);
+  --link-color-hover: var(--pen-lime);
+  --link-external-color: var(--pen-green);
+  --link-external-color-hover: var(--pen-lime);
+  --link-unresolved-color: var(--pen-blue);
+  color: var(--accent-color);
+  --hr-color: var(--accent-color);
+}
+
+.pen-lime {
+  --accent-color: var(--pen-lime);
+  --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
+  --link-color: var(--pen-lime);
+  --link-color-hover: var(--pen-green);
+  --link-external-color: var(--pen-lime);
+  --link-external-color-hover: var(--pen-green);
+  --link-unresolved-color: var(--pen-blue);
+  color: var(--accent-color);
+  --hr-color: var(--accent-color);
+}
+
+.pen-black {
+  --accent-color: var(--pen-black);
+  --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
+  --link-color: var(--pen-black);
+  --link-color-hover: var(--pen-grey);
+  --link-external-color: var(--pen-black);
+  --link-external-color-hover: var(--pen-grey);
+  --link-unresolved-color: var(--pen-grey);
+  color: var(--accent-color);
+  --hr-color: var(--accent-color);
+}
+
+.pen-grey {
+  --accent-color: var(--pen-grey);
+  --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
+  --link-color: var(--pen-grey);
+  --link-color-hover: var(--pen-black);
+  --link-external-color: var(--pen-grey);
+  --link-external-color-hover: var(--pen-black);
+  --link-unresolved-color: var(--pen-black);
+  color: var(--accent-color);
+  --hr-color: var(--accent-color);
+}
+
+.pen-purple {
+  --accent-color: var(--pen-purple);
+  --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
+  --link-color: var(--pen-purple);
+  --link-color-hover: var(--pen-pink);
+  --link-unresolved-color: var(--pen-pink);
+  color: var(--accent-color);
+  --hr-color: var(--accent-color);
+}
+
+.pen-pink {
+  --accent-color: var(--pen-pink);
+  --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
+  --link-color: var(--pen-pink);
+  --link-color-hover: var(--pen-purple);
+  --link-external-color: var(--pen-pink);
+  --link-external-color-hover: var(--pen-purple);
+  --link-unresolved-color: var(--pen-purple);
+  color: var(--accent-color);
+  --hr-color: var(--accent-color);
+}
+
+.img-blue img {
+  filter: sepia(100%) saturate(500%) brightness(60%) hue-rotate(155deg);
+}
+
+.img-cyan img {
+  filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(150deg);
+}
+
+.img-red img {
+  filter: sepia(100%) saturate(500%) brightness(50%) hue-rotate(290deg);
+}
+
+.img-orange img {
+  filter: sepia(100%) saturate(400%) brightness(50%) hue-rotate(320deg);
+}
+
+.img-yellow img {
+  filter: sepia(100%) saturate(300%) brightness(80%) hue-rotate(350deg);
+}
+
+.img-green img {
+  filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(50deg);
+}
+
+.img-lime img {
+  filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(40deg);
+}
+
+.img-purple img {
+  filter: sepia(100%) saturate(500%) brightness(60%) hue-rotate(200deg);
+}
+
+.img-pink img {
+  filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(260deg);
+}
+
+.img-invert img {
+  filter: invert(1)
+}
+
+.img-tan img {
+  filter: sepia(400%);
+}
+
+.img-blueprint img {
+  filter: sepia(100%) contrast(200%) brightness(1000%)  hue-rotate(155deg);
+}
