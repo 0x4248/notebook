@@ -24,7 +24,7 @@ In physics there are three main types of radioactive particles. These are alpha,
 | Alpha    | +2     | $\alpha$ or $^4_2\text{He}$  |
 | Beta     | -1     | $\beta$ or $^0_{-1}\text{e}$ |
 | Gamma    | 0      | $\gamma$                     |
-|          |        |                              |
+
 ## Penetration of the particles
 Each type has its own penetration power:
 - **Alpha**: A sheet of paper or a few cm of air.

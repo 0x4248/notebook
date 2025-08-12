@@ -1,9 +1,9 @@
 ---
 tags:
   - Chemistry/Chemicals
-date: <%tp.date.now("YYYY-MM-DD")%>
+date: 2025-08-11
 aliases:
-  - <%tp.file.title.toLowerCase()%>
+  - sulfur
 cssclasses:
   - neo-headings
   - bai-headings
@@ -12,23 +12,23 @@ lang:
 properties-ver: "1.2"
 stub:
 ---
-# <% tp.file.title %>
+# Sulfur
 
 ***
 
-<% tp.file.title %> is a INSERT DESCRIPTION
+**Sulfur** is a mineral with the fourmula S. It is a yellow solid at room temperature and is commonly found in nature, especially around volcanic regions.
 
-| Formula          | INSERT                |
+| Formula          | S                     |
 | ---------------- | --------------------- |
 | Hazards          | ![[Hazard.webp\|100]] |
-| Molecular Weight | INSERT                |
+| Molecular Weight | 32.07 g/mol           |
 | Boiling point    | INSERT                |
 | Melting point    | INSERT                |
 | Solubility       | INSERT                |
-| PubChem CID      | INSERT                |
+| PubChem CID      | 5362487               |
 
 ## Uses
-<% tp.file.title %> is used for INSERT
+Sulfur is used for INSERT
 ## Safety
 
 | Pictograms | ![[Hazard.webp\|100]] |
@@ -36,7 +36,7 @@ stub:
 | Signal     | INSERT                |
 | Statements | INSERT                |
 ### Fire and Explosion Hazards
-<% tp.file.title %> is INSERT
+Sulfur is INSERT
 ### Hazards Summary
 - INSERT
 
@@ -44,5 +44,5 @@ stub:
 ## See also
 - INSERT OR REMOVE IF NONE
 ## References
-- [<% tp.file.title %> - PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/
-- [<% tp.file.title %> - Wikipedia](https://en.wikipedia.org/wiki/<% tp.file.title.toLowerCase() %>)
+- [Sulfur - PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/5362487)
+- [Sulfur - Wikipedia](https://en.wikipedia.org/wiki/sulfur)
