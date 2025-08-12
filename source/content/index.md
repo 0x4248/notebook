@@ -19,7 +19,6 @@ properties-ver: "1.1"
 ***
 %%TO EDITOR: DO NOT REMOVE OR MOVE THIS FILE IT WILL BRICK THE SITE UNTIL MOVED BACK%%
 ## What is this site?
-[[Индекс|Русский?]]
 
 This site contains all my notes, tutorials, and other stuff that I find interesting. Think of this place as a mega wiki of all the things I find interesting and currently learning/researching. In short this is my digital garden or vault. 
 This vault is a collection of my notes, ideas, and resources that I have gathered over the years. It is a place where I can store my thoughts and ideas, and share them with others. The vault is designed to be a living document that evolves over time as I learn and grow.
