@@ -25,6 +25,8 @@ jobs:
       - name: Apply configurations
         run: |
           cp quartz.config.ts quartz.layout.ts quartz
+          rm -rf content/99\ Meta/Templates || true
+          rm -rf content/99\ Private || true
           cp -rf content/* quartz/content/
       - name: Setup Node.js
         uses: actions/setup-node@v4

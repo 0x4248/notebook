@@ -1,3 +1,530 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+.search-button {
+  background-color: transparent !important;
+  border: 1px var(--lightgray) solid !important;
+}
+
+
+article h1 {
+  text-align: center;
+}
+
+.article-title {
+  font-size: medium;
+}
+
+article h1 a {
+  display: none;
+}
+
+article img {
+  max-width: 60%;
+  border-radius: 0px;
+}
+
+article .rounded-images img {
+  border-radius: 10px;
+}
+
+.center-images img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+
+@keyframes  animation-in {
+  from {
+      opacity: 0;
+      scale: 0.9;
+  }
+  to {
+      opacity: 1;
+      scale: 1;
+  }
+  
+}
+
+article {
+  opacity: 0;
+  animation: animation-in 0.8s forwards 0s cubic-bezier( 0.86, 0, 0.07, 1 );
+}
+
+article{ 
+  h1, h2, h3, h4, h5, h6 {
+    opacity: 0;
+    animation: animation-in 0.8s forwards 0.2s cubic-bezier( 0.86, 0, 0.07, 1 );
+  }
+}
+
+article {
+  p, ul, ol, blockquote, code, pre, table, dl, figure, img, hr {
+    opacity: 0;
+    animation: animation-in 0.8s forwards 0.2s cubic-bezier( 0.86, 0, 0.07, 1 );
+  }
+}
+
+code {
+  background: none;
+  border: 1.5px solid var(--lightgray);
+}
+
+pre code {
+  background: none;
+  border: none;
+
+}
+
+.footnotes {
+  border-top: none;
+}
+
+#footnote-label {
+  display:none;
+  margin-top:none;
+}
+
+a.internal.tag-link {
+  border-radius: 4px;
+  margin: 0 .1rem;
+  padding: 0rem .4rem;
+  border: 1.5px solid var(--lightgray);
+  background: none;
+  font-family: var(--codeFont);
+  color: var(--bodyFont);
+}
+
+td {
+  border: 1px solid var(--lightgray);
+}
+
+th {
+  border: 1px solid var(--lightgray);
+  color: var(--dark);
+}
+
+
+/* X42 Tweaks */
+
+.X42-vtext-container {
+  display:flex;
+  justify-content: space-between;
+  align-items:center;
+}
+
+.X42-vtext-left {
+  font-size: xx-large;
+  margin-right:40px;
+  vertical-align: middle;
+  line-height: 40px;
+  font-weight: bold;
+}
+
+.X42-vtext-right {
+  font-size: xx-large;
+  margin-left:40px;
+  vertical-align: middle;
+  line-height: 40px;
+  font-weight: bold;
+}
+
+
+.X42-card-container {
+  display: flex;
+  justify-content: space-around;
+  max-width: 600px;
+  margin: auto;
+}
+
+.X42-card-container * {
+  border: 1px solid;
+  border-radius:10px;
+  padding: 10px;
+  margin:10px;
+}
+
+.X42-star-break {
+  text-align:center;
+  font-size:x-large;
+  margin:4px;
+  letter-spacing: 10px;
+}
+
+.X42-star-break-line-container {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.X42-star-break-line {
+  text-align:center;
+  font-size:x-large;
+  letter-spacing: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  white-space: nowrap;
+}
+
+.X42-star-break-nsp {
+  text-align:center;
+  font-size:x-large;
+  margin-left: 10px;
+  margin-right: 10px;
+  white-space: nowrap;
+}
+
+.wide-images img {
+  max-width: 100%;
+}
+
+.cursive-font {
+  font-family: "Edu NSW ACT Cursive", serif;
+}
+
+.sans-font {
+  font-family: Georgia, 'Noto Serif', 'Linux Libertine', serif;
+}
+
+.sans-italic-font {
+  font-family: Georgia, 'Noto Serif', 'Linux Libertine', serif;
+  font-style: italic;
+}
+
+.bai-font {
+  font-family: "Bai Jamjuree", Arial, sans-serif;
+}
+
+.kode-font {
+  font-family: "Kode Mono", monospace;
+}
+
+.sriracha-font {
+  font-family: "sriracha";
+}
+
+.tiny5-font {
+  font-family: "Tiny5", monospace;
+}
+
+.sanchez-font {
+  font-family: "Sanchez", serif;
+}
+
+
+.lato-font {
+  font-family: "Lato", sans-serif;
+}
+
+.lexend-font {
+  font-family: "Lexend", sans-serif;
+}
+
+.roboto-font {
+  font-family: "Roboto", sans-serif;
+}
+
+.roboto-mono-font {
+  font-family: "Roboto Mono", monospace;
+}
+
+.ubuntu-font {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.ubuntu-mono-font {
+  font-family: "Ubuntu Mono", monospace;
+}
+
+.noto-mono-font {
+  font-family: "Noto Sans Mono", monospace;
+}
+
+.cursive-headings :is(h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .HyperMD-header.HyperMD-header-1,
+  .HyperMD-header.HyperMD-header-2,
+  .HyperMD-header.HyperMD-header-3,
+  .HyperMD-header.HyperMD-header-4,
+  .HyperMD-header.HyperMD-header-5,
+  .HyperMD-header.HyperMD-header-6) {
+  font-family: "Edu NSW ACT Cursive", serif !important;
+}
+
+.sans-headings :is(h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.HyperMD-header.HyperMD-header-1,
+.HyperMD-header.HyperMD-header-2,
+.HyperMD-header.HyperMD-header-3,
+.HyperMD-header.HyperMD-header-4,
+.HyperMD-header.HyperMD-header-5,
+.HyperMD-header.HyperMD-header-6) {
+  font-family: Georgia, 'Noto Serif', 'Linux Libertine', serif !important;
+}
+
+.gohu-headings :is(h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .HyperMD-header.HyperMD-header-1,
+  .HyperMD-header.HyperMD-header-2,
+  .HyperMD-header.HyperMD-header-3,
+  .HyperMD-header.HyperMD-header-4,
+  .HyperMD-header.HyperMD-header-5,
+  .HyperMD-header.HyperMD-header-6) {
+  font-family: "GohuFont uni11 Nerd Font Mono", monospace;
+}
+
+.ms-dos-headings :is(h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .HyperMD-header.HyperMD-header-1,
+  .HyperMD-header.HyperMD-header-2,
+  .HyperMD-header.HyperMD-header-3,
+  .HyperMD-header.HyperMD-header-4,
+  .HyperMD-header.HyperMD-header-5,
+  .HyperMD-header.HyperMD-header-6) {
+  font-family: "Perfect DOS VGA 437", monospace;
+}
+
+.bai-headings :is(h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .HyperMD-header.HyperMD-header-1,
+  .HyperMD-header.HyperMD-header-2,
+  .HyperMD-header.HyperMD-header-3,
+  .HyperMD-header.HyperMD-header-4,
+  .HyperMD-header.HyperMD-header-5,
+  .HyperMD-header.HyperMD-header-6) {
+  font-family: "Bai Jamjuree", Arial, Helvetica, sans-serif
+}
+
+.kode-headings :is(h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .HyperMD-header.HyperMD-header-1,
+  .HyperMD-header.HyperMD-header-2,
+  .HyperMD-header.HyperMD-header-3,
+  .HyperMD-header.HyperMD-header-4,
+  .HyperMD-header.HyperMD-header-5,
+  .HyperMD-header.HyperMD-header-6) {
+  font-family: "Kode Mono", monospace;
+}
+
+.sriracha-headings :is(h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .HyperMD-header.HyperMD-header-1,
+  .HyperMD-header.HyperMD-header-2,
+  .HyperMD-header.HyperMD-header-3,
+  .HyperMD-header.HyperMD-header-4,
+  .HyperMD-header.HyperMD-header-5,
+  .HyperMD-header.HyperMD-header-6) {
+  font-family: "sriracha", Arial, sans-serif;
+}
+
+.tiny5-headings :is(h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .HyperMD-header.HyperMD-header-1,
+  .HyperMD-header.HyperMD-header-2,
+  .HyperMD-header.HyperMD-header-3,
+  .HyperMD-header.HyperMD-header-4,
+  .HyperMD-header.HyperMD-header-5,
+  .HyperMD-header.HyperMD-header-6) {
+  font-family: "Tiny5", monospace;
+}
+
+.sanchez-headings :is(h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .HyperMD-header.HyperMD-header-1,
+  .HyperMD-header.HyperMD-header-2,
+  .HyperMD-header.HyperMD-header-3,
+  .HyperMD-header.HyperMD-header-4,
+  .HyperMD-header.HyperMD-header-5,
+  .HyperMD-header.HyperMD-header-6) {
+  font-family: "Sanchez", serif;
+}
+
+.orbitron-headings :is(h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .HyperMD-header.HyperMD-header-1,
+  .HyperMD-header.HyperMD-header-2,
+  .HyperMD-header.HyperMD-header-3,
+  .HyperMD-header.HyperMD-header-4,
+  .HyperMD-header.HyperMD-header-5,
+  .HyperMD-header.HyperMD-header-6) {
+  font-family: "Orbitron", sans-serif;
+}
+
+.audiowide-headings :is(h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .HyperMD-header.HyperMD-header-1,
+  .HyperMD-header.HyperMD-header-2,
+  .HyperMD-header.HyperMD-header-3,
+  .HyperMD-header.HyperMD-header-4,
+  .HyperMD-header.HyperMD-header-5,
+  .HyperMD-header.HyperMD-header-6) {
+  font-family: "Audiowide", sans-serif;
+}
+
+.lato-headings :is(h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .HyperMD-header.HyperMD-header-1,
+  .HyperMD-header.HyperMD-header-2,
+  .HyperMD-header.HyperMD-header-3,
+  .HyperMD-header.HyperMD-header-4,
+  .HyperMD-header.HyperMD-header-5,
+  .HyperMD-header.HyperMD-header-6) {
+  font-family: "Lato", sans-serif;
+}
+
+.lexend-headings :is(h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .HyperMD-header.HyperMD-header-1,
+  .HyperMD-header.HyperMD-header-2,
+  .HyperMD-header.HyperMD-header-3,
+  .HyperMD-header.HyperMD-header-4,
+  .HyperMD-header.HyperMD-header-5,
+  .HyperMD-header.HyperMD-header-6) {
+  font-family: "Lexend", sans-serif;
+}
+
+.roboto-headings :is(h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .HyperMD-header.HyperMD-header-1,
+  .HyperMD-header.HyperMD-header-2,
+  .HyperMD-header.HyperMD-header-3,
+  .HyperMD-header.HyperMD-header-4,
+  .HyperMD-header.HyperMD-header-5,
+  .HyperMD-header.HyperMD-header-6) {
+  font-family: "Roboto", sans-serif;
+}
+
+.roboto-mono-headings :is(h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .HyperMD-header.HyperMD-header-1,
+  .HyperMD-header.HyperMD-header-2,
+  .HyperMD-header.HyperMD-header-3,
+  .HyperMD-header.HyperMD-header-4,
+  .HyperMD-header.HyperMD-header-5,
+  .HyperMD-header.HyperMD-header-6) {
+  font-family: "Roboto Mono", monospace;
+}
+
+.ubuntu-headings :is(h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .HyperMD-header.HyperMD-header-1,
+  .HyperMD-header.HyperMD-header-2,
+  .HyperMD-header.HyperMD-header-3,
+  .HyperMD-header.HyperMD-header-4,
+  .HyperMD-header.HyperMD-header-5,
+  .HyperMD-header.HyperMD-header-6) {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.ubuntu-mono-headings :is(h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .HyperMD-header.HyperMD-header-1,
+  .HyperMD-header.HyperMD-header-2,
+  .HyperMD-header.HyperMD-header-3,
+  .HyperMD-header.HyperMD-header-4,
+  .HyperMD-header.HyperMD-header-5,
+  .HyperMD-header.HyperMD-header-6) {
+  font-family: "Ubuntu Mono", monospace;
+}
+
+.determination-mono-headings :is(h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .HyperMD-header.HyperMD-header-1,
+  .HyperMD-header.HyperMD-header-2,
+  .HyperMD-header.HyperMD-header-3,
+  .HyperMD-header.HyperMD-header-4,
+  .HyperMD-header.HyperMD-header-5,
+  .HyperMD-header.HyperMD-header-6) {
+  font-family: "Determination Mono Web", monospace;
+}
+
+.noto-mono-headings :is(h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.HyperMD-header.HyperMD-header-1,
+.HyperMD-header.HyperMD-header-2,
+.HyperMD-header.HyperMD-header-3,
+.HyperMD-header.HyperMD-header-4,
+.HyperMD-header.HyperMD-header-5,
+.HyperMD-header.HyperMD-header-6) {
+  font-family: "Noto Sans Mono", monospace;
+}
+
+table {
+  min-width: 90%;
+}
