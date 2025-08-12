@@ -12,7 +12,7 @@ lang:
 properties-ver: "1.2"
 stub:
 ---
- # Chlorine trifluoride
+# Chlorine trifluoride
 
 ***
 
@@ -33,10 +33,10 @@ Chlorine trifluoride is a very toxic and corrosive chemical compound. It is colo
 - Used in processing of nuclear fuel to turn [[Uranium]] into [[Uranium hexafluoride]]
 ## Safety
 
-| Pictograms | ![[Hazard.webp\|100]]![[Oxidizing hazard.webp\|100]] ![[Compressed gas hazard.webp\|100]] ![[Corrosive hazard.webp\|100]] ![[Toxic hazard.webp\|100]] ![[Environmental hazard.webp\|100]] |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Signal     | DANGER                                                                                                                                                                                    |
-| Statements | DANGER Oxidising gas<br>DANGER Skin corrosion<br>DANGER Acute toxicity<br>WARNING Gas under pressure<br>WARNING Hazardous to aquatic life                                                 |
+| Pictograms | ![[Oxidizing hazard.webp\|100]] ![[Compressed gas hazard.webp\|100]] ![[Corrosive hazard.webp\|100]] ![[Toxic hazard.webp\|100]] ![[Environmental hazard.webp\|100]] |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Signal     | DANGER                                                                                                                                                               |
+| Statements | DANGER Oxidising gas<br>DANGER Skin corrosion<br>DANGER Acute toxicity<br>WARNING Gas under pressure<br>WARNING Hazardous to aquatic life                            |
 ### Fire and Explosion Hazards
 Chlorine trifluoride is an oxidiser and can cause or enhance the combustion of other materials. It is highly reactive and can ignite spontaneously in contact with organic materials.
 ### Health Hazards
@@ -46,5 +46,5 @@ Chlorine trifluoride is an oxidiser and can cause or enhance the combustion of o
 
 ***
 ## References
-- [Chlorine trifluoride - PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/
+- [Chlorine trifluoride - PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/24637)
 - [Chlorine trifluoride - Wikipedia](https://en.wikipedia.org/wiki/chlorine trifluoride)
