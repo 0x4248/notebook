@@ -1,0 +1,9 @@
+.DS_Store
+source/content/99 Private/
+source/content/.obsidian/plugins
+source/content/.obsidian/workspace.json
+source/content/.obsidian/graph.json
+source/content/.obsidian/workspaces.json
+source/content/.obsidian/themes/*
+!source/content/.obsidian/themes/Vanilla AMOLED
+source/content/.vaultexplorer

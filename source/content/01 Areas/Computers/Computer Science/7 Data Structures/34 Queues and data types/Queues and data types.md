@@ -1,6 +1,0 @@
-- [[Abstract Data Types]]
-- [[Queues]]
-    - [[Operations on a Queue]]
-    - [[Linear Queue]]
-    - [[Circular Queue]]
-    - [[Priority Queues]]

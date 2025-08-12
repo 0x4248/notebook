@@ -1,0 +1,511 @@
+{
+  "edges": [
+    {
+      "fromNode": "55cfcb5d78002869",
+      "fromSide": "left",
+      "id": "302ab78295c97431",
+      "styleAttributes": {
+      },
+      "toNode": "25b1a682579ad695",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "25b1a682579ad695",
+      "fromSide": "bottom",
+      "id": "5941dd51c7b33d80",
+      "styleAttributes": {
+      },
+      "toNode": "7f8ffa7e3ee75f37",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "5d0e3b09d6e543e7",
+      "fromSide": "top",
+      "id": "25744ddef026beea",
+      "styleAttributes": {
+      },
+      "toNode": "7f8ffa7e3ee75f37",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "55cfcb5d78002869",
+      "fromSide": "bottom",
+      "id": "8eeec6d3a3a225d9",
+      "styleAttributes": {
+      },
+      "toNode": "7f8ffa7e3ee75f37",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "710ea7bec4c048cf",
+      "fromSide": "top",
+      "id": "cb26c9e22c65701f",
+      "styleAttributes": {
+      },
+      "toNode": "25b1a682579ad695",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2d01fa7bd0bea511",
+      "fromSide": "right",
+      "id": "415e698935f39e59",
+      "styleAttributes": {
+      },
+      "toNode": "25b1a682579ad695",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "003020c4fa2909e9",
+      "fromSide": "right",
+      "id": "07164641933f5fbc",
+      "styleAttributes": {
+      },
+      "toNode": "25b1a682579ad695",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7ce33cf01f73545c",
+      "fromSide": "left",
+      "id": "cacb5dbbaf4c96ec",
+      "styleAttributes": {
+      },
+      "toNode": "5d0e3b09d6e543e7",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "7ce33cf01f73545c",
+      "fromSide": "top",
+      "id": "13e79801e99e9af3",
+      "styleAttributes": {
+      },
+      "toNode": "7f8ffa7e3ee75f37",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "31b53166ee1106b6",
+      "fromSide": "top",
+      "id": "5d4c519b75d51b5c",
+      "styleAttributes": {
+      },
+      "toNode": "7f8ffa7e3ee75f37",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "31b53166ee1106b6",
+      "fromSide": "left",
+      "id": "5c5d037cdd9bb2b0",
+      "styleAttributes": {
+      },
+      "toNode": "5d0e3b09d6e543e7",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "3c9a8b579415cd49",
+      "fromSide": "left",
+      "id": "6c7b785a875d463d",
+      "styleAttributes": {
+      },
+      "toNode": "55cfcb5d78002869",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3c9a8b579415cd49",
+      "fromSide": "bottom",
+      "id": "455a1a790524d001",
+      "styleAttributes": {
+      },
+      "toNode": "7f8ffa7e3ee75f37",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "7f4b5925f3815fba",
+      "fromSide": "right",
+      "id": "4c1b44309a38138f",
+      "styleAttributes": {
+      },
+      "toNode": "7f8ffa7e3ee75f37",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3c9a8b579415cd49",
+      "fromSide": "left",
+      "id": "af53fee762e83af6",
+      "styleAttributes": {
+      },
+      "toNode": "25b1a682579ad695",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "d63446a0302003a2",
+      "fromSide": "left",
+      "id": "0f6808aaca4a79a0",
+      "styleAttributes": {
+      },
+      "toNode": "7f8ffa7e3ee75f37",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "e024b79ef04b0614",
+      "fromSide": "bottom",
+      "id": "22abbc34fbd9bd48",
+      "styleAttributes": {
+      },
+      "toNode": "5d0e3b09d6e543e7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e024b79ef04b0614",
+      "fromSide": "right",
+      "id": "1cfcf08d13c666f3",
+      "styleAttributes": {
+      },
+      "toNode": "7f4b5925f3815fba",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3d0f9328052479b6",
+      "fromSide": "top",
+      "id": "0207acda8d3f5fc8",
+      "styleAttributes": {
+      },
+      "toNode": "25b1a682579ad695",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "3d0f9328052479b6",
+      "fromSide": "right",
+      "id": "d196991e62a360c4",
+      "styleAttributes": {
+      },
+      "toNode": "7f8ffa7e3ee75f37",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3d0f9328052479b6",
+      "fromSide": "bottom",
+      "id": "814c3f3db4403bc0",
+      "styleAttributes": {
+      },
+      "toNode": "7f4b5925f3815fba",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3d0f9328052479b6",
+      "fromSide": "left",
+      "id": "786d5e4cac130b6e",
+      "styleAttributes": {
+      },
+      "toNode": "7cc032f47794353c",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "988f3d7bd76b190d",
+      "fromSide": "right",
+      "id": "143bf7d009972d1b",
+      "styleAttributes": {
+      },
+      "toNode": "e024b79ef04b0614",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e19b53c2c5fee1e4",
+      "fromSide": "right",
+      "id": "3175abb16b2fc377",
+      "styleAttributes": {
+      },
+      "toNode": "e024b79ef04b0614",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e19b53c2c5fee1e4",
+      "fromSide": "right",
+      "id": "f8cbf26d9cc7c382",
+      "styleAttributes": {
+      },
+      "toNode": "7f4b5925f3815fba",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "988f3d7bd76b190d",
+      "fromSide": "right",
+      "id": "c37543cc8377bed0",
+      "styleAttributes": {
+      },
+      "toNode": "7f4b5925f3815fba",
+      "toSide": "left"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "7f8ffa7e3ee75f37",
+      "fromSide": "right",
+      "id": "421240378179eb3f",
+      "styleAttributes": {
+      },
+      "toNode": "06e82125b5a356ca",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "55cfcb5d78002869",
+      "fromSide": "right",
+      "id": "f51b4f923767e48c",
+      "styleAttributes": {
+      },
+      "toNode": "06e82125b5a356ca",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3c9a8b579415cd49",
+      "fromSide": "bottom",
+      "id": "ebba009d37abf445",
+      "styleAttributes": {
+      },
+      "toNode": "06e82125b5a356ca",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "25b1a682579ad695",
+      "fromSide": "right",
+      "id": "63941b5f26817345",
+      "styleAttributes": {
+      },
+      "toNode": "06e82125b5a356ca",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 280,
+      "id": "43c39e5fbfcb13a0",
+      "label": "COMPUTING",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 896,
+      "x": -672,
+      "y": 260
+    },
+    {
+      "height": 340,
+      "id": "2fcf746a9da548a7",
+      "label": "MEDIA",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 636,
+      "x": -860,
+      "y": -360
+    },
+    {
+      "height": 275,
+      "id": "8ab1e8f1978bf8ba",
+      "label": "MUSIC",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 640,
+      "x": -180,
+      "y": -400
+    },
+    {
+      "height": 60,
+      "id": "003020c4fa2909e9",
+      "styleAttributes": {
+      },
+      "text": "Images",
+      "type": "text",
+      "width": 127,
+      "x": -753,
+      "y": -300
+    },
+    {
+      "height": 60,
+      "id": "2d01fa7bd0bea511",
+      "styleAttributes": {
+      },
+      "text": "Artwork",
+      "type": "text",
+      "width": 153,
+      "x": -829,
+      "y": -215
+    },
+    {
+      "height": 60,
+      "id": "710ea7bec4c048cf",
+      "styleAttributes": {
+      },
+      "text": "Video content",
+      "type": "text",
+      "width": 236,
+      "x": -736,
+      "y": -110
+    },
+    {
+      "height": 120,
+      "id": "55cfcb5d78002869",
+      "styleAttributes": {
+      },
+      "text": "# 4248 Sound Recording",
+      "type": "text",
+      "width": 280,
+      "x": -160,
+      "y": -300
+    },
+    {
+      "height": 60,
+      "id": "3c9a8b579415cd49",
+      "styleAttributes": {
+      },
+      "text": "# 4248 Music",
+      "type": "text",
+      "width": 280,
+      "x": 160,
+      "y": -360
+    },
+    {
+      "height": 70,
+      "id": "25b1a682579ad695",
+      "styleAttributes": {
+      },
+      "text": "# 4248 Media",
+      "type": "text",
+      "width": 280,
+      "x": -540,
+      "y": -220
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "7f8ffa7e3ee75f37",
+      "styleAttributes": {
+      },
+      "text": "# 0x4248",
+      "type": "text",
+      "width": 200,
+      "x": -56,
+      "y": 80
+    },
+    {
+      "height": 60,
+      "id": "06e82125b5a356ca",
+      "styleAttributes": {
+      },
+      "text": "# Blix",
+      "type": "text",
+      "width": 140,
+      "x": 224,
+      "y": 80
+    },
+    {
+      "height": 80,
+      "id": "988f3d7bd76b190d",
+      "styleAttributes": {
+      },
+      "text": "# 4248 Radio",
+      "type": "text",
+      "width": 264,
+      "x": -1277,
+      "y": 192
+    },
+    {
+      "height": 80,
+      "id": "e19b53c2c5fee1e4",
+      "styleAttributes": {
+      },
+      "text": "# 4248 TV",
+      "type": "text",
+      "width": 206,
+      "x": -1219,
+      "y": 97
+    },
+    {
+      "height": 60,
+      "id": "3d0f9328052479b6",
+      "styleAttributes": {
+      },
+      "text": "# 4248 Notebook",
+      "type": "text",
+      "width": 340,
+      "x": -710,
+      "y": 20
+    },
+    {
+      "height": 60,
+      "id": "7cc032f47794353c",
+      "styleAttributes": {
+      },
+      "text": "Text content",
+      "type": "text",
+      "width": 260,
+      "x": -1013,
+      "y": 20
+    },
+    {
+      "height": 65,
+      "id": "e024b79ef04b0614",
+      "styleAttributes": {
+      },
+      "text": "# 4248 Network",
+      "type": "text",
+      "width": 310,
+      "x": -928,
+      "y": 159
+    },
+    {
+      "height": 60,
+      "id": "7ce33cf01f73545c",
+      "styleAttributes": {
+      },
+      "text": "Software",
+      "type": "text",
+      "width": 180,
+      "x": -236,
+      "y": 350
+    },
+    {
+      "height": 80,
+      "id": "5d0e3b09d6e543e7",
+      "styleAttributes": {
+      },
+      "text": "# 4248 Systems",
+      "type": "text",
+      "width": 320,
+      "x": -636,
+      "y": 300
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "7f4b5925f3815fba",
+      "styleAttributes": {
+      },
+      "text": "# 0x4248.dev",
+      "type": "text",
+      "width": 276,
+      "x": -436,
+      "y": 110
+    },
+    {
+      "color": "5",
+      "height": 70,
+      "id": "d63446a0302003a2",
+      "styleAttributes": {
+      },
+      "text": "# 0x4248.tech",
+      "type": "text",
+      "width": 280,
+      "x": 224,
+      "y": 170
+    },
+    {
+      "height": 80,
+      "id": "31b53166ee1106b6",
+      "styleAttributes": {
+      },
+      "text": "# 4248 Data",
+      "type": "text",
+      "width": 240,
+      "x": -36,
+      "y": 410
+    }
+  ]
+}

@@ -1,1 +1,0 @@
-`<% tp.system.prompt("Pos 1","192") %>.<% tp.system.prompt("Pos 2","168") %>.<% tp.system.prompt("Pos 3","1") %>.<% tp.system.prompt("Pos 4","1") %>`
