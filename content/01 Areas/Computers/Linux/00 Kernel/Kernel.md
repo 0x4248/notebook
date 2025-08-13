@@ -17,11 +17,7 @@ stub:
 # Kernel
 
 ***
-The Linux kernel is a open source monolithic unix like kernel. On a typical linux system the kernel file will be found at `/boot` and is usually named `vmlinuz` but on some systems such as ARM it may be named `Image`. When changing kernel versions it is important to reflect these changes onto your [[Boot Loader|boot loader]]
-
-
-
-
+The Linux kernel is a open source monolithic unix like kernel. On a typical linux system the kernel file will be found at `/boot` and is usually named `vmlinuz` but on some systems such as ARM it may be named `Image`. When changing kernel versions it is important to reflect these changes onto your [[Boot Loader|boot loader]].
 
 ## Types of kernel
 - **Stable** - Vanilla Linux kernel and modules
