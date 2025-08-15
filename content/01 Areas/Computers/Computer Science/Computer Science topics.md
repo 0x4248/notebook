@@ -85,7 +85,7 @@ Just before an exam (like a day or two) I like to flick trough past papers, just
 40. [[Logic Gates and Truth Tables]]
 41. [[Simplifying Boolean Expressions]]
 42. [[Karnaugh Maps]]
-43. [[Adders and D-type flip flops]]
+43. ~~Adders and D-type flip flops~~
 ### 9 - Legal, moral, ethical and cultural issues
 44. ~~Computing Related Legislation~~
 45. ~~Ethical, Moral and Cultural Issues~~

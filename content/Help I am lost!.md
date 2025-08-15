@@ -27,7 +27,8 @@ stub:
 > - Computer Science
 > - Maths
 > - Medical
-> And so on.
+> 
+> Some quick links to these: [[Linux]] [[About chemistry|Chemistry]] [[Maths]] [[Physics]] [[Medical]] [[Computer Science topics|Computer science]].
 
 >[!note]+ Im looking for your notes on papers and other literature! 
 > Head over to `05 Papers`. Which is split into **three** main sections:

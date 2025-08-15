@@ -33,7 +33,7 @@ On the website there is a sidebar with the pages and on the right there is the d
 ## How is it structured?
 This is quite hard to explain since the folder system uses different systems like the Zettelkasten system and the Para system but here is a basic overview of the structure:
 - Maps - Maps of content
-- Areas - The main area separated into *areas* of interest
+- Areas - The main area separated into *areas* of interest. Check out [[Medical]] [[Physics]] [[Linux]] [[Maths]].
 - Fleeting - Quick notes and snippets of things like stack overflow answers e.g [[Superscript in LaTeX]].
 - Projects - Projects I am working on or have worked on (quite empty)
 - Archive - Old notes or notes from other vaults

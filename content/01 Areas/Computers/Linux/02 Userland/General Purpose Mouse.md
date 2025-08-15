@@ -17,12 +17,25 @@ stub:
 # General Purpose Mouse
 
 ***
-General Purpose Mouse (GPM) allows a block cursor to show on the TTY even when there is not any desktop interface.
+General Purpose Mouse (GPM) allows a block cursor to show on the virtual console. Its primary use it to allow cut and paste for virtual consoles (*Source*: man)
 
+## Installation
+Install the `gpm` package using your package manager.
 
+>[!info] 
+> For touchpad support you need to install `libinput`
+
+## Usage
+- **Left button**: Select text
+- **Middle button**: Paste text thats selected
+- **Right button**: Select a block of text
+
+## Termination
+ To terminate run
+```
+ gpm -k
+```
 
 ***
-## See also
-- INSERT
 ## References
-- INSERT
+- [GPM - Gentoo Wiki](https://wiki.gentoo.org/wiki/GPM)
