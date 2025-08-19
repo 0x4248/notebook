@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("05 Papers/Papers")
+    order:
+      - file.name
+      - paper-date
+      - stub
+      - mark-read
+      - paper-author
+      - subject
+  - type: cards
+    name: View
+    order:
+      - file.name
+      - stub
+    imageAspectRatio: 1
