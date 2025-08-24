@@ -23,8 +23,5 @@ stub: true
 > *Date added: 2025-08-22*
 
 **sysctl** (systemctl) allows the configuration of [[Kernel parameters]] at runtime.
-
-
-
 ## References
 - [sysctl(8) - Linux manual page](https://www.man7.org/linux/man-pages/man8/sysctl.8.html)
