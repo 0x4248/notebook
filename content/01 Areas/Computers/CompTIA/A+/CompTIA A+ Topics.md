@@ -1,6 +1,6 @@
 ---
 tags:
-  - CompTIA/Tech
+  - CompTIA/A
 date: 2025-08-26
 aliases:
   - comptia tech+ topics
@@ -14,13 +14,8 @@ lang:
 properties-ver: "1.2"
 stub:
 ---
-# CompTIA Tech+ Topics
+# CompTIA A+ Topics
 
 ***
 *Please see disclaimer in [[About CompTIA]] for legal information*
 ***
-
-## Module 1 - Concepts
-- ~~Intro to the course~~ (Not needed)
-- [[Notational Systems]]
-

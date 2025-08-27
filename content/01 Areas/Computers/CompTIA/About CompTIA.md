@@ -41,5 +41,5 @@ I am using a topic bank and course topic style approach to this. Where i will ma
 
 This way I can avoid duplication of notes and keep things more organised.
 ## Main sections
-- [[CompTIA Tech+ Topics]]
+- [[CompTIA A+ Topics]]
 
