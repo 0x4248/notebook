@@ -1,7 +1,7 @@
 ### Elements (General)
 - [x] [[Gallium]]
 - [ ] [[Mercury]]
-- [ ] Bismuth
+- [ ] [[Bismuth]]
 - [ ] Tungsten
 - [ ] Antimony
 - [ ] Phosphorus
@@ -34,7 +34,7 @@
 - [ ] Sulfuric Acid (H₂SO₄)
 
 ### Radioactive Compounds
-- [ ] Uranium Dioxide (UO₂)
+- [ ] [[Uranium Oxide]] (UO₂)
 - [ ] Plutonium Dioxide (PuO₂)
 - [ ] Thorium Dioxide (ThO₂)
 - [ ] Radium Chloride (RaCl₂)
