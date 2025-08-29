@@ -19,3 +19,7 @@ stub:
 ***
 *Please see disclaimer in [[About CompTIA]] for legal information*
 ***
+
+## Modules
+### 1.0 Mobile Devices
+- [[Mobile device hardware and components]]
