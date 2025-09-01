@@ -14,4 +14,4 @@ properties-ver: "1.1"
 # LAN
 
 ***
-A local area network is a network that covers a small geographical area. These LAN networks can be connected by [[WAN]] networks. 
+A local area network is a network that covers a small geographical area. These LAN networks can be connected by [[WAN]] networks.
