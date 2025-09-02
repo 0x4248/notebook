@@ -23,3 +23,4 @@ stub:
 ## Modules
 ### 1.0 Mobile Devices
 - [[Mobile device hardware and components]]
+- [[Mobile Devices Connections and Accessories]]

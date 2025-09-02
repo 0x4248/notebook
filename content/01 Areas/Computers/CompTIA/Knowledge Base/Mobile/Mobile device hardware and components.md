@@ -21,7 +21,7 @@ stub:
 ## Key components 
 - [[#Batteries]]
 - [[#Keyboards & Keys]]
-- Random Access Memory
+- [[#Random Access Memory]]
 - Hard Disk Drives & Solid-State Drives
 - Wireless Cards
 - Wi-Fi Antennas
@@ -49,3 +49,39 @@ Small Outline Dual In-line Memory Module (SODIMM) is a smaller version of the st
 > - DDR3 - 204 pins
 > - DDR4 - 260 pins
 > - DDR5 - 262 pins
+
+## Hard Disk Drives & Solid-State Drives
+Storage drives store the operating system files, applications and user data. These storage devices will be connected using a interface. There are also two primary types of storage drives.
+
+### HDD
+- Mechanical and uses magnets to store data on a spinning disk.
+- Slower than solid state drives
+### SSD
+- Non mechanical
+- SSD's provide faster storage and performance
+- SSD's are also shock proof and much more durable compared to HDD's.
+- Lower power consumption.
+
+### Interfaces
+| Name          | SATA                                          | MSATA                              | NVME                                  |
+| ------------- | --------------------------------------------- | ---------------------------------- | ------------------------------------- |
+| Full name     | Serial ATA                                    | Mini SATA                          | Non-Volatile Memory Express           |
+| Usage         | Most common connector used in SSD's and HDD's | Smaller interface used for laptops | High speed interface using PCIe lanes |
+| Speed         | Speeds: 1.5Gbps - 6Gbps                       | SATA speeds                        | Much faster than SATA                 |
+| Best use case | General use                                   | General use for mobile devices     | Gaming and Video editing              |
+
+#### NVME Connection types
+- M.2 - Small form factor card that connects directly to the motherboard.
+- PCIe - Expansion card that fits into a PCIe slot on the motherboard.
+##### M.2 Form factors
+Below is a table explaining the form factors of M.2 drives.
+
+>[!note]
+> **M.2 is not just for storage devices**.
+> 
+> Many wifi cards, bluetooth cards and other expansion cards use the M.2 form factor.
+
+| Name   | 2230 | 2242 | 2260 | 2280 | 22110 |
+| ------ | ---- | ---- | ---- | ---- | ----- |
+| Width  | 22mm | 22mm | 22mm | 22mm | 22mm  |
+| Length | 30mm | 42mm | 60mm | 80mm | 110mm |
