@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - Physics/Forces_and_motion
 date: 2025-06-29
 aliases:
   - free-body diagrams
