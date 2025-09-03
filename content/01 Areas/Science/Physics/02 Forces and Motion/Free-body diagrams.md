@@ -31,7 +31,7 @@ To analyse the forces acting on an object we can draw a free-body diagram. This 
 | [[Normal contact force]]                           | The force when once object rests on another               |
 ## Showing forces
 - Each force vector is represented by an arrow with a label showing its force
-- The longer the arrow the stronger the force
+- The longer the arrow the stronger the force is (magnitude)
 
 ![[Free body diagram friction.svg]]
 
