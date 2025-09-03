@@ -39,5 +39,3 @@ To analyse the forces acting on an object we can draw a free-body diagram. This 
 ## See also
 - [[Force, mass and weight]]
 - [[Normal contact force]]
-## References
-- 
