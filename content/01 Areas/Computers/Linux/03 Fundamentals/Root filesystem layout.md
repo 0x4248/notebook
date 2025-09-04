@@ -12,7 +12,7 @@ cssclasses:
 lang:
   - en
 properties-ver: "1.2"
-stub:
+stub: true
 ---
 # Root filesystem layout
 

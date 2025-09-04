@@ -25,6 +25,7 @@ stub:
 | Mass         | 2,800,000 kg       |
 | Stages       | 3                  |
 | First flight | 9 November 1967    |
+
 Saturn V was the largest rocket ever built and used to launch the Apollo missions to the Moon. It was capable of carrying a payload of 140,000 kg to low Earth orbit and 48,600 kg to lunar orbit. The rocket was retired after the last Apollo mission in 1972.
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Apollo_11_Launch_-_GPN-2000-000630.jpg" width="400px">
 
