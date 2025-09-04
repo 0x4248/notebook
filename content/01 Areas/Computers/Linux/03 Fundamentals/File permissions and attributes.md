@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - Linux/03_Fundamentals
 date: 2025-08-16
 aliases:
   - file permissions and attributes
