@@ -23,5 +23,19 @@ stub: true
 > *Date added: 2025-08-22*
 
 **sysctl** (systemctl) allows the configuration of [[Kernel parameters]] at runtime.
+
+## Usage
+To fetch all the sysctl parameters:
+```
+sysctl -a
+```
+
+To only fetch the core kernel parameters:
+```
+sysctl -a | grep kernel
+```
+
+
+***
 ## References
 - [sysctl(8) - Linux manual page](https://www.man7.org/linux/man-pages/man8/sysctl.8.html)
