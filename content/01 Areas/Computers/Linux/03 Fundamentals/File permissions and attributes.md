@@ -31,9 +31,18 @@ total 0
 ```
 
 The output columns work like this:
-| 
+
+| d                         | rwx               | rwx               | rwx               | +                       |
+| ------------------------- | ----------------- | ----------------- | ----------------- | ----------------------- |
+| Directory (d) or file (-) | Owner permissions | Group permissions | Other permissions | Extended attributes (+) |
+
+The letters mean:
+- **d** - Directory
+- **-** - No permission given
+- **r** - Read permission
+- **w** - Write permission
+- **x** - Execute permission
 
 ***
-
 ## References
 - [File permissions and attributes - ArchWiki](https://wiki.archlinux.org/title/File_permissions_and_attributes)
