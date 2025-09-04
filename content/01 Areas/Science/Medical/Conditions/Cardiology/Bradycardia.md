@@ -10,6 +10,7 @@ cssclasses:
   - rounded-images
   - sans-font
   - sans-headings
+  - center-images
 lang:
   - en
 properties-ver: "1.2"

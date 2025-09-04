@@ -17,7 +17,7 @@ stub:
 
 ***
 
->[!note] 
+>[!note]
 > This page is continently being updated with new information as I make more DX contacts. Check back for new updates.
 
 ## HAM BANDS
