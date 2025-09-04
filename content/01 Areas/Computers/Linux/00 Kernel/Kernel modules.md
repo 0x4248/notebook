@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
 date: 2025-08-13
 aliases:
   - kernel modules
@@ -11,11 +11,16 @@ cssclasses:
 lang:
   - en
 properties-ver: "1.2"
-stub:
+stub: true
 ---
 # Kernel modules
 
 ***
+>[!warning]+ Stub
+> This page "Kernel modules" is a stub and is missing content. Check back later for more content.
+> 
+> *Date added: 2025-09-04*
+
 Kernel modules are small pieces of code that can be loaded into the kernel at runtime and is to expand the functionality of the kernel. Want to add support for a new hardware device or file system? You can do it with a kernel module. This allows for a more modular and flexible kernel design, as modules can be loaded and unloaded as needed without requiring a full kernel rebuild.
 
 ## Getting module info
