@@ -24,7 +24,7 @@ stub: true
 Kernel modules are small pieces of code that can be loaded into the kernel at runtime and is to expand the functionality of the kernel. Want to add support for a new hardware device or file system? You can do it with a kernel module. This allows for a more modular and flexible kernel design, as modules can be loaded and unloaded as needed without requiring a full kernel rebuild.
 
 ## Getting module info
-To see what modules are loaded:
+To see what modules are loaded you can use [[lsmod]]:
 ```
 lsmod
 ```
