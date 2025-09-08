@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - CompTIA/Tech/1
 date: 2025-08-26
 aliases:
   - notational systems
