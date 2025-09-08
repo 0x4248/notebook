@@ -34,6 +34,14 @@ CompTIA is a set of IT courses and certifications.
 > **Copyright © 2025 4248 Media, a part of 0x4248**
 >
 > Content in my notebook has **NO WARRANTY OR LIABILITY, DO NOT USE THESE FOR YOUR EXAM**
+> 
+> *See also:*
+> - [[Legal information]]
+
+>[!note]+ Русский
+> Эти заметки не на русском языке.
+> 
+> [Страница на русском языке с Google?](https://0x4248-dev.translate.goog/notebook/01-Areas/Computers/CompTIA/About-CompTIA?_x_tr_sl=en&_x_tr_tl=ru)
 
 ## How I am laying out my notes
 
