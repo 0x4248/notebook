@@ -19,7 +19,7 @@ stub:
 ***
 CompTIA is a set of IT courses and certifications.
 
->[!info]+ Legal disclaimer  
+>[!info]- Legal disclaimer  
 > **THESE ARE NOT OFFICIAL NOTES FROM COMPTIA**   
 > - This notebook **does not contain real exam questions**.  
 > - These notes are **not exact reproductions** of CompTIA course materials; they are my own study summaries.  
@@ -38,10 +38,10 @@ CompTIA is a set of IT courses and certifications.
 > *See also:*
 > - [[Legal information]]
 
->[!note]+ Русский
+>[!info]- Русский
 > Эти заметки не на русском языке.
 > 
-> [Страница на русском языке с Google?](https://0x4248-dev.translate.goog/notebook/01-Areas/Computers/CompTIA/About-CompTIA?_x_tr_sl=en&_x_tr_tl=ru)
+> [Страница на русском языке с Google Translate?](https://0x4248-dev.translate.goog/notebook/01-Areas/Computers/CompTIA/About-CompTIA?_x_tr_sl=en&_x_tr_tl=ru)
 
 ## How I am laying out my notes
 

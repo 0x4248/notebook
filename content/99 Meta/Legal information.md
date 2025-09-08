@@ -17,7 +17,14 @@ stub:
 # Legal information
 
 ***
-This page contains legal information about my notes.
+This page contains legal information about my notes. These notes take time to write so personally I think its right to make them under a clear and simple licence that provides me intellectual property rights and attribution, whilst keeping the content free and open to anyone. 
+
+*I believe the internet should be free and open to everyone. Which is why:*
+
+>[!check]- No geo restrictions or censorship
+> Unless government laws have locked content in a region which is out of my control.
+
+>[!check]- No paywalls 
 
 ## Content licence
 Here is a basic run down with how you can use most of my notes on this site:
@@ -64,3 +71,21 @@ Here is a basic run down with how you can use most of my notes on this site:
 > 
 > If you are unsure you can use **0x4248** and **4248 Media** for images.
 
+## Privacy policy
+
+I do not collect any personal data on this site. Cloudflare does collect analytical data but this is anonymised and not personally identifiable and for me I only look at:
+- Visit count
+- Countries visits come from
+- Device types (mobile, desktop, tablet)
+- Browser types
+- Attack reports
+
+I do not use cookies on this site, but 3rd party software and scripts may add cookies. Please see the relevant privacy policies for these services.
+
+>[!check]- No intentional and invasive tracking
+
+>[!check]- No advertising
+
+>[!check]- No selling of data
+
+>[!info]- Tor and VPN's is allowed and encouraged
