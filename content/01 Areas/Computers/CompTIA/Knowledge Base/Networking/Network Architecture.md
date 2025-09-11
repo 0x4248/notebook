@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - CompTIA/Tech/2
 date: 2025-09-08
 aliases:
   - network architecture
@@ -26,9 +27,3 @@ Computer networks allow computers to exchange data and share resources between t
 
 ## Redistribution points
 - **Switches** - Devices that connect multiple devices on a network and use MAC addresses to forward data to the correct destination.
-
-***
-## See also
-- INSERT
-## References
-- INSERT
