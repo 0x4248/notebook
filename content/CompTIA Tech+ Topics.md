@@ -1,7 +1,6 @@
 ---
-tags:
-  - CompTIA/A
-date: 2025-08-26
+tags: 
+date: 2025-09-11
 aliases:
   - comptia tech+ topics
 cssclasses:
@@ -14,15 +13,14 @@ lang:
 properties-ver: "1.2"
 stub:
 ---
-# CompTIA A+ Topics
-
+# CompTIA Tech+ Topics
 ***
 *Please see disclaimer in [[About CompTIA]] for legal information*
 ***
 
 ## Modules
-### 1 - Mobile Devices
-- [[Mobile device hardware and components]]
-- [[Mobile Devices Connections and Accessories]]
-### 2 - Mobile Devices
-- [[Network Architecture]]
+### 1 - IT Concepts and Terminology
+- [[Notational Systems]]
+### 2 - Infrastructure
+- [[Internal components of a computer]]
+- [[Types of computing devices]]

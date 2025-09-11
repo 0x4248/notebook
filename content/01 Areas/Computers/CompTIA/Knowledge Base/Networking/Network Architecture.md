@@ -1,6 +1,6 @@
 ---
 tags:
-  - CompTIA/Tech/2
+  - CompTIA/A/2
 date: 2025-09-08
 aliases:
   - network architecture
