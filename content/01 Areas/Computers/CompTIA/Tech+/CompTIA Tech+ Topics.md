@@ -29,9 +29,9 @@ stub:
 - Virtualisation and Cloud Technologies
 - [[Common Internet Service Types]]
 ### 3
-- Introduction to Networking
-- Core Principles of Computer Networking
-- Network Ports
+- ~~Introduction to Networking~~
+- [[Core Principles of Computer Networking]]
+- [[Network Ports]]
 - Network Addresses and Identifiers
 - Network Models and Types
 - Networking Devices and Connectors
