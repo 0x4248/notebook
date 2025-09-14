@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - CompTIA/Tech
 date: 2025-09-11
 aliases:
   - comptia tech+ topics
@@ -32,9 +33,9 @@ stub:
 - ~~Introduction to Networking~~
 - [[Core Principles of Computer Networking]]
 - [[Network Ports]]
-- Network Addresses and Identifiers
-- Network Models and Types
-- Networking Devices and Connectors
+- [[Network Addresses and Identifiers]]
+- [[Network Models and Types]]
+- [[Networking Devices and Connectors]]
 - Small Wireless Networks
 ### 4
 - Introduction to Operating Systems (OS)
