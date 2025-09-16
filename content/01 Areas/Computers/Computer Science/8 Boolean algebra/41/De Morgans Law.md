@@ -11,10 +11,18 @@ cssclasses:
 lang:
   - en
 properties-ver: "1.1"
+stub: true
 ---
 # De Morgans Law
 
 ***
+>[!warning]+ Stub
+> This page "De Morgans Law" is a stub and is missing content. Check back later for more content.
+> 
+> *Date added: 2025-09-16*
+> 
+> *Note:* This isnt a complete page, just a random set of notes I made. I might make it a proper note layer or just delete this page.
+
 NOT A AND NOT B = NOT (A OR B)
 
 | A   | B   | NOT A | NOT B | A OR B | NOT (A OR B) | NOT A AND NOT B |
