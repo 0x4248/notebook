@@ -10,5 +10,4 @@ cssclasses:
 # About this folder
 
 ***
-- Old blog
-- Old BTEC revision notes
+Here you can find various archived notes that I have created over time. These are notes that I no longer actively use or reference, but I want to keep them for potential future use or reference.
