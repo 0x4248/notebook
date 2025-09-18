@@ -18,3 +18,6 @@ The misc folder contains notes and thoughts that don't fit into any of the folde
 
 ## Some things to look at here
 - [[Awesome]]
+- Furry
+- [[Music]]
+- Obsidian
