@@ -6,9 +6,15 @@ cssclasses:
   - neo-headings
   - bai-headings
   - rounded-images
+stub: true
 ---
 # Normalisation
 ***
+>[!warning]+ Stub
+> This page "Normalisation" is a stub and is missing content. Check back later for more content.
+> 
+> *Date added: 2025-09-19*
+
 ## Example
 
 ```
