@@ -9,7 +9,7 @@ cssclasses:
 # Other train images
 
 ***
-Here are some other [[Trains]] that I have not identified yet.
+Here are some other [[Trains]] that I have not identified yet or do not know much about.
 
 | Image              | Class   | Operator | Manufacturer |
 | ------------------ | ------- | -------- | ------------ |
