@@ -13,6 +13,5 @@ cssclasses:
 ***
 ## What is a router
 A router forwards network packets between a computer and networks. When a computer wants to talk to another device on the network or on another network it then looks up the device on the routing table and then sends the packet to the device.
-
 ## Gateway
 A gateway connects [[Local area networks]] to a [[Wide area network]].

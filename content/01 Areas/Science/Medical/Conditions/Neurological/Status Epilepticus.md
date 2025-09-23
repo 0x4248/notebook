@@ -26,7 +26,6 @@ SE can happen to anyone but it is more likely to happen with:
 - Children
 - Elderly
 - People with a history of epilepsy or [[Seizures]]
-
 ## Treatments
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Rectalvalium.jpg" width="350px"><p style="text-align: center; font-size: small;margin: 0px;"><strong>Public Domain</strong><br>Image of diazepam rectal gel</p>
 
