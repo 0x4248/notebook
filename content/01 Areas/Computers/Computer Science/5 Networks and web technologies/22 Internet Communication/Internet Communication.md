@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - computer_science/5
 date: 2025-02-05
 aliases:
   - internet communication
