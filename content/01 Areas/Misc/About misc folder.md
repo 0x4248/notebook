@@ -21,3 +21,4 @@ The misc folder contains notes and thoughts that don't fit into any of the folde
 - Furry
 - [[Music]]
 - Obsidian
+- Trains
