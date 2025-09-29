@@ -29,7 +29,7 @@ stub:
 - Ports and Protocols
 - Wireless Networking
 - [[Network Hosts and Services]]
-- DNS and DHCP
+- [[DNS and DHCP]]
 - VPNs and VLANs
 - Network Devices
 - Basic SOHO Configuration
