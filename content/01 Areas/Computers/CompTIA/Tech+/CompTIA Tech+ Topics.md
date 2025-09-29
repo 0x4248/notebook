@@ -36,43 +36,16 @@ stub:
 - [[Network Addresses and Identifiers]]
 - [[Network Models and Types]]
 - [[Networking Devices and Connectors]]
-- Small Wireless Networks
-### 4
-- Introduction to Operating Systems (OS)
-- What is an Operating System_
-- Drivers, Applications, Tasks and System Services
-- File and Disk Management
-- Backup and Recovery
-### 5
-- Common Software Applications
-- Productivity Software
-- Business and Enterprise Software
-- Managing Software
-- Trusted Software Sources
-### 6
-- Introduction To Web Browsing
-- Browser Settings, Configuration and Maintenance
-- Secure Web Browsing
-- Protecting Your Privacy
-### 7
-- Introduction to Programming
-- Programming Tools
-- Programming Organization and Logic Flows
-- Understanding Programming Language Categories
-- Code Maintenance, Version Control Systems and Branching
-- Fundamental Data Types and Their Characteristics
-### 8
-- Introduction to Databases and the Value of Data
-- Database Concepts and Structures
-- Working with Relational Databases
-- Database Operations and Access
-- Database Backup and Recovery
-### 9
-- Basic Security Concepts and Strategies
-- Identifying Common Security Threats
-- Securing Devices and Networks
-- Security Tools and Software
-- Encryption and Data Protection
-### 10
-- The Impact and Use of AI
+- ~~Small Wireless Networks~~
+
+<div class="X42-star-break-line-container">
+<p class="X42-star-break-line">!!</p>
+<hr>
+<p class="X42-star-break-nsp" style="color:orange;">END OF NOTES</p>
+<hr>
+<p class="X42-star-break-line">!!</p>
+</div>
+
+>[!warning]+ No more notes were done on this course past this section.
+> Due to early completion of the course, extra notes of other parts were not created.
 
