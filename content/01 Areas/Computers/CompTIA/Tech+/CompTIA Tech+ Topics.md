@@ -49,3 +49,4 @@ stub:
 >[!warning]+ No more notes were done on this course past this section.
 > Due to early completion of the course, extra notes of other parts were not created.
 
+ 

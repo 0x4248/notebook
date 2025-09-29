@@ -28,7 +28,7 @@ stub:
 - [[Network Architecture]]
 - Ports and Protocols
 - Wireless Networking
-- Network Hosts and Services
+- [[Network Hosts and Services]]
 - DNS and DHCP
 - VPNs and VLANs
 - Network Devices
