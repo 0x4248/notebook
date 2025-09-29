@@ -16,6 +16,7 @@ cssclasses:
 <hr>
 <p class="X42-star-break-line">**</p>
 </div>
+
 >[!fail]+ Discontinued (Topic)
 > This page "Computer Science topics" is marked as discontinued content. This means it wont get any more updates and is archived.
 > 
@@ -23,6 +24,8 @@ cssclasses:
 
 >[!info]+ I have completed my A Levels!
 > I have completed my A Levels and got my results back! Unfortunately I got a grade **C** which is not bad but in my opinion its not great. I should have gotten an **B** but I was **6 marks off** which is really annoying. If you are a student taking OCR A Level Computer Science or any A Level exam just remember **every mark counts, even if its only a few. It could be an entire grade**.
+> 
+> *Thank you to my teachers for all the help and support. You are the best!*
 
 Here is a list of every topic that is covered on the A Level Computer Science. When you click a page you will be able to see the notes I have made for that topic.
 
