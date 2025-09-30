@@ -6,22 +6,73 @@
       "path": "01 Areas/Computer Science/Checklist.md"
     },
     {
-      "type": "file",
-      "ctime": 1750326921762,
-      "path": "01 Areas/Maths/Maths.md",
-      "title": "Maths "
+      "type": "group",
+      "ctime": 1759235741087,
+      "items": [
+        {
+          "type": "search",
+          "ctime": 1759235670914,
+          "query": "\"INSERT\" -path:\"99 Meta\"  ",
+          "title": "Incomplete pages with \"INSERT\""
+        },
+        {
+          "type": "search",
+          "ctime": 1759236096355,
+          "query": "\"stub: true\" \">[!warning]+ Stub\" -path:\"99 Meta\"  ",
+          "title": "Stubs"
+        },
+        {
+          "type": "search",
+          "ctime": 1759236313333,
+          "query": "\".pdf)\" OR \"`PDF`\" OR \".docx)\" OR \"`DOCUMENT`\" OR \"`DOC`\"",
+          "title": "Search PDF's"
+        }
+      ],
+      "title": "Searches"
     },
     {
-      "type": "file",
-      "ctime": 1750431283321,
-      "path": "01 Areas/Science/Physics/Physics.md",
-      "title": ""
+      "type": "group",
+      "ctime": 1759241166570,
+      "items": [
+        {
+          "type": "folder",
+          "ctime": 1759241120394,
+          "path": "01 Areas/Computers/Linux",
+          "title": "Man/Linux"
+        },
+        {
+          "type": "folder",
+          "ctime": 1759241137321,
+          "path": "01 Areas/Computers/CompTIA/Knowledge Base",
+          "title": "CompTIA KB"
+        }
+      ],
+      "title": "Foldes"
     },
     {
-      "type": "file",
-      "ctime": 1759234508093,
-      "path": "01 Areas/Computers/CompTIA/A+/CompTIA A+ Topics.md",
-      "title": "A+"
+      "type": "group",
+      "ctime": 1759241175356,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1750326921762,
+          "path": "01 Areas/Maths/Maths.md",
+          "title": "Maths "
+        },
+        {
+          "type": "file",
+          "ctime": 1750431283321,
+          "path": "01 Areas/Science/Physics/Physics.md",
+          "title": ""
+        },
+        {
+          "type": "file",
+          "ctime": 1759234508093,
+          "path": "01 Areas/Computers/CompTIA/A+/CompTIA A+ Topics.md",
+          "title": "A+"
+        }
+      ],
+      "title": "Key pages"
     }
   ]
 }

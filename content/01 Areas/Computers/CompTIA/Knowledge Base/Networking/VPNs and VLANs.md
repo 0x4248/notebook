@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - CompTIA/A/2
 date: 2025-09-30
 aliases:
   - vpns and vlans
@@ -16,6 +17,9 @@ stub:
 # VPNs and VLANs
 
 ***
+- **VPN** - Virtual Private Network
+    - Good for making a insecure connection secure
+    - Allows to connect to a private network when not near it
 
 
 ***
@@ -23,4 +27,3 @@ stub:
 - **From other parts of this vault**:
     - [[LAN]]
     - [[WAN]]
-- 

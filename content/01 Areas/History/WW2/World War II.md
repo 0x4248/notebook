@@ -27,14 +27,9 @@ stub: true
 
 
 ***
+## Topic: WWII
 
 |                            | World War II                                                                     |
 | -------------------------- | -------------------------------------------------------------------------------- |
 | [[Allies of World War II]] | [[Bletchley Park]]                                                               |
 | [[Axis powers]]            | [[Germany in World War II]]  [[Japan in World War II]] [[Italy in World War II]] |
-
-
-## See also
-- INSERT
-## References
-- INSERT
