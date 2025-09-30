@@ -51,3 +51,20 @@ When you don't know the full name of a page you can search for it:
 ```
 man -k REGEX
 ```
+
+## Sections
+Man pages are divided into sections:
+- 1 = User commands
+- 2 = System calls
+- 3 = Library functions
+- 4 = Special files
+- 5 = File formats & config
+- 6 = Games
+- 7 = Misc
+- 8 = System admin commands
+
+## Examples
+```bash
+man 5 passwd   # Read about /etc/passwd file format
+man -k network # Search for all pages about networking
+```
