@@ -24,13 +24,13 @@ stub:
 ### 1 - Mobile Devices
 - [[Mobile device hardware and components]]
 - [[Mobile Devices Connections and Accessories]]
-### 2 - Mobile Devices
+### 2 -Networking
 - [[Network Architecture]]
 - Ports and Protocols
 - Wireless Networking
 - [[Network Hosts and Services]]
 - [[DNS and DHCP]]
-- VPNs and VLANs
+- [[VPNs and VLANs]]
 - Network Devices
 - Basic SOHO Configuration
 - Internet Connections and Network Types

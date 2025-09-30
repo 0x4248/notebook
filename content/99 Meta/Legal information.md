@@ -23,16 +23,22 @@ This page contains legal information about my notes. These notes take time to wr
 
 >[!check]- No geo restrictions or censorship
 > Unless government laws have locked content in a region which is out of my control.
+> 
+> I have not put any geo locks on purpose
 
 >[!check]- No paywalls 
 
+>[!check]- Free content for everyone using CC and OS licenses
+> - **CC** - Creative Commons
+> - **OS** - Open Source
+> 
 ## Content licence
 Here is a basic run down with how you can use most of my notes on this site:
 
 >[!check]- Personal use
 
 >[!success]- Commercial use (with conditions)
-> Only if the content is under CC BY-SA 4.0
+> Only if the content is under CC BY-SA 4.0 or any other license that permits commercial use
 
 >[!check]- Share
 > Copying of content is allowed as long as you give appropriate credit, provide a link to the license or original source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
@@ -60,6 +66,8 @@ Here is a basic run down with how you can use most of my notes on this site:
 
 >[!warning]- Other licenses may be used on this site
 > Be aware that some content may be under a different attribution or licence. Please see the captions, footnotes and any warning banners on the page before using content.
+> 
+> Some content may have non free content and use on this site is used with Fair Use. Example: [[Albums]]
 
 >[!warning]- Other copyright aliases
 > Since my personal site is quite large, I may have content that is under different copyright or attribution. For example:
@@ -89,3 +97,4 @@ I do not use cookies on this site, but 3rd party software and scripts may add co
 >[!check]- No selling of data
 
 >[!info]- Tor and VPN's is allowed and encouraged
+> To increase anonymity I strongly encourage using Tor and other privacy based networks.
