@@ -26,22 +26,22 @@ stub:
 - [[Mobile Devices Connections and Accessories]]
 ### 2 -Networking
 - [[Network Architecture]]
-- Ports and Protocols
-- Wireless Networking
+- ~~Ports and Protocols~~
+- ~~Wireless Networking~~
 - [[Network Hosts and Services]]
 - [[DNS and DHCP]]
 - [[VPNs and VLANs]]
-- Network Devices
-- Basic SOHO Configuration
-- Internet Connections and Network Types
-- Networking Tools
-- Networking in Windows
-- Networking Commands
-- Troubleshooting Network Issues
+- ~~Network Devices~~
+- ~~Basic SOHO Configuration~~
+- ~~Internet Connections and Network Types~~
+- ~~Networking Tools~~
+- ~~Networking in Windows~~
+- ~~Networking Commands~~
+- ~~Troubleshooting Network Issues~~
 ### 3
 - Display Components and Attributes
 - Basic Cables and Connections
-- Network Cables and Connections
+- [[Network Cables and Connections]]
 - Storage Devices and Connections
 - Introduction to RAID
 - Motherboards and Form Factors
