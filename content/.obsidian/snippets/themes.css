@@ -94,6 +94,12 @@ https://github.com/CyanVoxel/Obsidian-Vault-Template
       transparent);
 
   color: var(--accent-color);
+  --h1-color: var(--accent-color);
+  --h2-color: var(--accent-color);
+  --h3-color: var(--accent-color);
+  --h4-color: var(--accent-color);
+  --h5-color: var(--accent-color);
+  --h6-color: var(--accent-color);
   background-color: var(--page-color);
 }
 
@@ -266,6 +272,12 @@ div>pre {
   --link-external-color-hover: var(--pen-grey);
   --link-unresolved-color: var(--pen-grey);
   color: var(--accent-color);
+  --h1-color: var(--accent-color);
+  --h2-color: var(--accent-color);
+  --h3-color: var(--accent-color);
+  --h4-color: var(--accent-color);
+  --h5-color: var(--accent-color);
+  --h6-color: var(--accent-color);
   --hr-color: var(--accent-color);
 }
 
@@ -278,6 +290,18 @@ div>pre {
   --link-external-color-hover: var(--pen-cyan);
   --link-unresolved-color: var(--pen-red);
   color: var(--accent-color);
+  --h1-color: var(--accent-color);
+  --h2-color: var(--accent-color);
+  --h3-color: var(--accent-color);
+  --h4-color: var(--accent-color);
+  --h5-color: var(--accent-color);
+  --h6-color: var(--accent-color);
+  --h1-color: var(--accent-color);
+  --h2-color: var(--accent-color);
+  --h3-color: var(--accent-color);
+  --h4-color: var(--accent-color);
+  --h5-color: var(--accent-color);
+  --h6-color: var(--accent-color);
   --hr-color: var(--accent-color);
 }
 
@@ -285,6 +309,12 @@ div>pre {
   --accent-color: var(--pen-cyan);
   --accent-color-trans: color-mix(in srgb, var(--accent-color) 15%, transparent);
   color: var(--accent-color);
+  --h1-color: var(--accent-color);
+  --h2-color: var(--accent-color);
+  --h3-color: var(--accent-color);
+  --h4-color: var(--accent-color);
+  --h5-color: var(--accent-color);
+  --h6-color: var(--accent-color);
   --hr-color: var(--accent-color);
 }
 
@@ -295,6 +325,12 @@ div>pre {
   --link-color-hover: var(--pen-orange);
   --link-unresolved-color: var(--pen-yellow);
   color: var(--accent-color);
+  --h1-color: var(--accent-color);
+  --h2-color: var(--accent-color);
+  --h3-color: var(--accent-color);
+  --h4-color: var(--accent-color);
+  --h5-color: var(--accent-color);
+  --h6-color: var(--accent-color);
   --hr-color: var(--accent-color);
 }
 
@@ -307,6 +343,12 @@ div>pre {
   --link-external-color-hover: var(--pen-yellow);
   --link-unresolved-color: var(--pen-green);
   color: var(--accent-color);
+  --h1-color: var(--accent-color);
+  --h2-color: var(--accent-color);
+  --h3-color: var(--accent-color);
+  --h4-color: var(--accent-color);
+  --h5-color: var(--accent-color);
+  --h6-color: var(--accent-color);
   --hr-color: var(--accent-color);
 }
 
@@ -319,6 +361,12 @@ div>pre {
   --link-external-color-hover: var(--pen-green);
   --link-unresolved-color: var(--pen-blue);
   color: var(--accent-color);
+  --h1-color: var(--accent-color);
+  --h2-color: var(--accent-color);
+  --h3-color: var(--accent-color);
+  --h4-color: var(--accent-color);
+  --h5-color: var(--accent-color);
+  --h6-color: var(--accent-color);
   --hr-color: var(--accent-color);
 }
 
@@ -331,6 +379,12 @@ div>pre {
   --link-external-color-hover: var(--pen-lime);
   --link-unresolved-color: var(--pen-blue);
   color: var(--accent-color);
+  --h1-color: var(--accent-color);
+  --h2-color: var(--accent-color);
+  --h3-color: var(--accent-color);
+  --h4-color: var(--accent-color);
+  --h5-color: var(--accent-color);
+  --h6-color: var(--accent-color);
   --hr-color: var(--accent-color);
 }
 
@@ -343,6 +397,12 @@ div>pre {
   --link-external-color-hover: var(--pen-green);
   --link-unresolved-color: var(--pen-blue);
   color: var(--accent-color);
+  --h1-color: var(--accent-color);
+  --h2-color: var(--accent-color);
+  --h3-color: var(--accent-color);
+  --h4-color: var(--accent-color);
+  --h5-color: var(--accent-color);
+  --h6-color: var(--accent-color);
   --hr-color: var(--accent-color);
 }
 
@@ -355,6 +415,12 @@ div>pre {
   --link-external-color-hover: var(--pen-grey);
   --link-unresolved-color: var(--pen-grey);
   color: var(--accent-color);
+  --h1-color: var(--accent-color);
+  --h2-color: var(--accent-color);
+  --h3-color: var(--accent-color);
+  --h4-color: var(--accent-color);
+  --h5-color: var(--accent-color);
+  --h6-color: var(--accent-color);
   --hr-color: var(--accent-color);
 }
 
@@ -367,6 +433,12 @@ div>pre {
   --link-external-color-hover: var(--pen-black);
   --link-unresolved-color: var(--pen-black);
   color: var(--accent-color);
+  --h1-color: var(--accent-color);
+  --h2-color: var(--accent-color);
+  --h3-color: var(--accent-color);
+  --h4-color: var(--accent-color);
+  --h5-color: var(--accent-color);
+  --h6-color: var(--accent-color);
   --hr-color: var(--accent-color);
 }
 
@@ -377,6 +449,12 @@ div>pre {
   --link-color-hover: var(--pen-pink);
   --link-unresolved-color: var(--pen-pink);
   color: var(--accent-color);
+  --h1-color: var(--accent-color);
+  --h2-color: var(--accent-color);
+  --h3-color: var(--accent-color);
+  --h4-color: var(--accent-color);
+  --h5-color: var(--accent-color);
+  --h6-color: var(--accent-color);
   --hr-color: var(--accent-color);
 }
 
@@ -389,6 +467,12 @@ div>pre {
   --link-external-color-hover: var(--pen-purple);
   --link-unresolved-color: var(--pen-purple);
   color: var(--accent-color);
+  --h1-color: var(--accent-color);
+  --h2-color: var(--accent-color);
+  --h3-color: var(--accent-color);
+  --h4-color: var(--accent-color);
+  --h5-color: var(--accent-color);
+  --h6-color: var(--accent-color);
   --hr-color: var(--accent-color);
 }
 
