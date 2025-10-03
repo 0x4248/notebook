@@ -6,10 +6,10 @@
   "monospaceFontFamily": "JetBrains Mono,Departure Mono,Source Code Pro",
   "enabledCssSnippets": [
     "page-blue",
-    "tweaks",
-    "animations",
     "fonts",
-    "themes"
+    "animations",
+    "themes",
+    "tweaks"
   ],
   "translucency": false,
   "baseFontSize": 19,

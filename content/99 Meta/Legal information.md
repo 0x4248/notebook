@@ -36,6 +36,7 @@ This page contains legal information about my notes. These notes take time to wr
 Here is a basic run down with how you can use most of my notes on this site:
 
 >[!check]- Personal use
+> Use it for any personal reasons.
 
 >[!success]- Commercial use (with conditions)
 > Only if the content is under CC BY-SA 4.0 or any other license that permits commercial use
@@ -93,6 +94,7 @@ I do not use cookies on this site, but 3rd party software and scripts may add co
 >[!check]- No intentional and invasive tracking
 
 >[!check]- No advertising
+> No invasive advertising of anykind
 
 >[!check]- No selling of data
 
