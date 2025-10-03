@@ -2,15 +2,6 @@ name: Check markdown links
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 1 * *' # Every month
-  push:
-    branches:
-      - main
-    paths:
-      - 'content/**'
-      - '.lycheeignore'
-      - '.github/workflows/lychee.yml'
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -23,7 +14,7 @@ jobs:
       issues: write # required for peter-evans/create-issue-from-file
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: Restore lychee cache
         id: restore-cache
         uses: actions/cache/restore@v4
