@@ -19,7 +19,7 @@ properties-ver: "1.1"
 Awesome is a list of awesome things. On my website I have created my own awesome lists.
 
 **KEY**
-- ⭐ - Good lists
+- ⭐ - Good lists/Extensive lists
 
 **INDEX**
 - [[Awesome Linux Websites]] ⭐
