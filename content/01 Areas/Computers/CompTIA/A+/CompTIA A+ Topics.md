@@ -39,11 +39,11 @@ stub:
 - ~~Networking Commands~~
 - ~~Troubleshooting Network Issues~~
 ### 3
-- Display Components and Attributes
-- Basic Cables and Connections
+- ~~Display Components and Attributes~~
+- ~~Basic Cables and Connections~~
 - [[Network Cables and Connections]]
-- Storage Devices and Connections
-- Introduction to RAID
+- ~~Storage Devices and Connections~~
+- [[Introduction to RAID]]
 - Motherboards and Form Factors
 - Motherboard Connections
 - BIOS and UEFI
