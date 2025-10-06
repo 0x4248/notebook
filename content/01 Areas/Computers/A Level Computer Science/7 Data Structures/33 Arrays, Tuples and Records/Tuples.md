@@ -8,7 +8,7 @@ cssclasses:
   - rounded-images
 ---
 # Tuples
-<p class="text-center" style="margin:0;color:gray;">Data type</p>
+<p class="text-center" style="margin:0;opacity:0.6;">Data type</p>
 
 ***
 A **tuple** is a set of data that can have any type.

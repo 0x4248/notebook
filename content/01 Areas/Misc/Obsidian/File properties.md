@@ -11,7 +11,7 @@ lang:
 properties-ver: "1.0"
 ---
 # File properties
-<p class="text-center" style="margin:0;color:gray;">How file properties work in this vault</p>
+<p class="text-center" style="margin:0;opacity:0.6;">How file properties work in this vault</p>
 
 ***
 In order to add more information about the current file, obsidian file proprieties are added. These properties are standardised within this vault and are versioned so outdated documents can be updated with the newer standard if needed.

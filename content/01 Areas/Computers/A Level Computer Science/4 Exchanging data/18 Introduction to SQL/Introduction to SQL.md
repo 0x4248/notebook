@@ -8,7 +8,7 @@ cssclasses:
   - rounded-images
 ---
 # SQL
-<p class="text-center" style="margin:0;color:gray;">Structured query language</p>
+<p class="text-center" style="margin:0;opacity:0.6;">Structured query language</p>
 
 ***
 SQL or Structured query language is a declarative language. This language is used for updating and querying tables.

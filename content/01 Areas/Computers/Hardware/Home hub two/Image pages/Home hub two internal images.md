@@ -9,7 +9,7 @@ cssclasses:
   - page-blue
 ---
 # Home hub two internal images
-<p class="text-center" style="margin:0;color:gray;">Images of the internal board of the home hub two</p>
+<p class="text-center" style="margin:0;opacity:0.6;">Images of the internal board of the home hub two</p>
 
 ***
 ## Front

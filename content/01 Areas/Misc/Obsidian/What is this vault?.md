@@ -8,7 +8,7 @@ cssclasses:
   - rounded-images
 ---
 # What is this vault?
-<p class="text-center" style="margin:0;color:gray;">About this vault</p>
+<p class="text-center" style="margin:0;opacity:0.6;">About this vault</p>
 
 ***
 >[!warning]+ Outdated page

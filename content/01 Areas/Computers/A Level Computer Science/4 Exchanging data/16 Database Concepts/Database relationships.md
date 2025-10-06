@@ -9,7 +9,7 @@ cssclasses:
   - center-images
 ---
 # Database relationships
-<p class="text-center" style="margin:0;color:gray;">Relationships between database</p>
+<p class="text-center" style="margin:0;opacity:0.6;">Relationships between database</p>
 
 ***
 Entities can be linked between databases, this is called a relationship.

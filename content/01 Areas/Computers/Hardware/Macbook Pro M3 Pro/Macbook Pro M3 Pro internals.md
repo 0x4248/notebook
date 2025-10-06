@@ -7,7 +7,7 @@ cssclasses:
   - neo-headings
 ---
 # Macbook Pro M3 Pro internals
-<p class="text-center" style="margin:0;color:gray;">Inside the laptop</p>
+<p class="text-center" style="margin:0;opacity:0.6;">Inside the laptop</p>
 
 ***
 ## Photos

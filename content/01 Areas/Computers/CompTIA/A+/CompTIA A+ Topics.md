@@ -38,13 +38,13 @@ stub:
 - ~~Networking in Windows~~
 - ~~Networking Commands~~
 - ~~Troubleshooting Network Issues~~
-### 3
+### 3 - Hardware
 - ~~Display Components and Attributes~~
 - ~~Basic Cables and Connections~~
 - [[Network Cables and Connections]]
 - ~~Storage Devices and Connections~~
 - [[Introduction to RAID]]
-- Motherboards and Form Factors
+- [[Motherboards and Form Factors]]
 - Motherboard Connections
 - BIOS and UEFI
 - CPUs and CPU Architecture

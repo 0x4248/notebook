@@ -1,5 +1,6 @@
 ---
 tags:
+  - CompTIA/A/3
 date: 2025-10-01
 aliases:
   - network cables and connections
