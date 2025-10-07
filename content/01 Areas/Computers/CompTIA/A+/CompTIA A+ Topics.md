@@ -45,9 +45,9 @@ stub:
 - ~~Storage Devices and Connections~~
 - [[Introduction to RAID]]
 - [[Motherboards and Form Factors]]
-- Motherboard Connections
-- BIOS and UEFI
-- CPUs and CPU Architecture
+- [[Motherboard Connections]]
+- ~~BIOS and UEFI~~
+- ~~CPUs and CPU Architecture~~
 - Expansion Cards
 - System Cooling
 - Power Supply Units
@@ -58,26 +58,26 @@ stub:
 - Troubleshooting Video and Display Issues
 - Troubleshooting Printer Issues
 ### 4
-- Workstation Operating Systems
-- Common File System Types
-- Operating System Installation Types
-- Operating System Boot Methods
-- Storage Paritioning
-- Identifying Windows Editions
-- Windows Upgrades
-- Windows OS Installations
-- Using Windows Task Manager
-- MMC Snap-ins
-- Windows Operating System Tools
-- Microsoft Command Line Tools
-- Configuring Microsoft Windows Settings
-- Configuring Windows Power Options
-- Windows File Explorer
-- Windows Domains vs Workgroups
-- macOS System Configuration
-- Linux Components
-- Linux Tools
-- Common Application Installation
+- ~~Workstation Operating Systems~~
+- ~~Common File System Types~~
+- ~~Operating System Installation Types~~
+- ~~Operating System Boot Methods~~
+- ~~Storage Paritioning~~
+- ~~Identifying Windows Editions~~
+- ~~Windows Upgrades~~
+- ~~Windows OS Installations~~
+- ~~Using Windows Task Manager~~
+- ~~MMC Snap-ins~~
+- ~~Windows Operating System Tools~~
+- ~~Microsoft Command Line Tools~~
+- ~~Configuring Microsoft Windows Settings~~
+- ~~Configuring Windows Power Options~~
+- ~~Windows File Explorer~~
+- ~~Windows Domains vs Workgroups~~
+- ~~macOS System Configuration~~
+- ~~Linux Components~~
+- ~~Linux Tools~~
+- ~~Common Application Installation~~
 ### 5
 - Virtualization Concepts
 - Cloud Computing
@@ -86,11 +86,11 @@ stub:
 - Physical Security
 - Physical Access Security
 - Logical Security
-- Windows Security - Firewalls and Antivirus
-- Windows Security Users and Groups
-- Windows Security - NTFS and Share Permissions
-- Windows Security - Active Directory
-- Windows Security - Data Encryption
+- ~~Windows Security - Firewalls and Antivirus~~
+- ~~Windows Security Users and Groups~~
+- ~~Windows Security - NTFS and Share Permissions~~
+- ~~Windows Security - Active Directory~~
+- ~~Windows Security - Data Encryption~~
 - Wireless Security
 - Malware Types
 - Malware Detection and Prevention
