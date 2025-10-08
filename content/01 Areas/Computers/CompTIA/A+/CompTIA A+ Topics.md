@@ -48,15 +48,15 @@ stub:
 - [[Motherboard Connections]]
 - ~~BIOS and UEFI~~
 - ~~CPUs and CPU Architecture~~
-- Expansion Cards
-- System Cooling
-- Power Supply Units
-- Printers and Multifunction Devices
-- Printer Maintenance
-- Troubleshooting Computer Components
-- Troubleshooting Storage and RAID Issues
-- Troubleshooting Video and Display Issues
-- Troubleshooting Printer Issues
+- ~~Expansion Cards~~
+- ~~System Cooling~~
+- ~~Power Supply Units~~
+- ~~Printers and Multifunction Devices~~
+- ~~Printer Maintenance~~
+- ~~Troubleshooting Computer Components~~
+- ~~Troubleshooting Storage and RAID Issues~~
+- ~~Troubleshooting Video and Display Issues~~
+- ~~Troubleshooting Printer Issues~~
 ### 4
 - ~~Workstation Operating Systems~~
 - ~~Common File System Types~~
