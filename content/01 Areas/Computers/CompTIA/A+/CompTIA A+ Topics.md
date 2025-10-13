@@ -101,7 +101,7 @@ stub:
 - Data Destruction Concepts
 - SOHO Network Security
 - Browser Security Settings
-- Troubleshooting PC Security Issues
+- ~~Troubleshooting PC Security Issues~~
 ### 7
 - Ticketing Systems
 - Asset Management
