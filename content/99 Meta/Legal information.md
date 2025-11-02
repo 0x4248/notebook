@@ -24,7 +24,18 @@ This page contains legal information about my notes. These notes take time to wr
 >[!check]- No geo restrictions or censorship
 > Unless government laws have locked content in a region which is out of my control.
 > 
-> I have not put any geo locks on purpose
+> I have not put any geo locks on purpose which include:
+> - North Korea (Banned by state)
+> - China (Was banned by state, but could change) [Check here](https://www.comparitech.com/privacy-security-tools/blockedinchina/)
+> - Belarus (May be state banned)
+> - United Kingdom (Three recently incorrectly blocked my site due to the recent Online Safety Act. This has been resolved by emailing them but could revert at any point.)
+> - Cuba
+> - Russia
+> - Israel
+> - Iran
+> - Saudi Arabia
+> - Afghanistan
+> 
 
 >[!check]- No paywalls 
 
