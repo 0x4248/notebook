@@ -1,9 +1,9 @@
 {
   "accentColor": "#5c8ff5",
   "cssTheme": "Catppuccin",
-  "textFontFamily": "JetBrains Mono,Departure Mono",
-  "interfaceFontFamily": "JetBrains Mono,Departure Mono,Bai Jamjuree,Georgia",
-  "monospaceFontFamily": "JetBrains Mono,Departure Mono,Source Code Pro",
+  "textFontFamily": "JetBrains Mono,Departure Mono,DotMatrix Duo",
+  "interfaceFontFamily": "JetBrains Mono,Departure Mono,Bai Jamjuree,Georgia,DotMatrix Duo",
+  "monospaceFontFamily": "JetBrains Mono,Departure Mono,Source Code Pro,DotMatrix Duo",
   "enabledCssSnippets": [
     "page-blue",
     "fonts",
