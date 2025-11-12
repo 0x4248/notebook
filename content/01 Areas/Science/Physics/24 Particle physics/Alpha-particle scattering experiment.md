@@ -25,7 +25,10 @@ In this experiment two things were noticed:
 - Most [[Alpha, Beta and Gamma|alpha]] particles passed right trough the foil without any reflection but were slightly scattered by the gold atoms (1 in 2000)
 - Very few particles (1 in 10,000) were deflected.
 
-***
+## Interactions of the particles at an atomic level
+This figure shows an example of how some of the particles interacted with the gold nucleus:
+![[Atom path defomations.excalidraw.svg]]
+The further away the particle was from the nucleus, the less of the angle.
 ## See also
 - [[Alpha, Beta and Gamma]]
 ## References
