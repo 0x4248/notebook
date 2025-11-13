@@ -13,7 +13,7 @@ lang:
 properties-ver: "1.2"
 stub:
 ---
-# 4248 Languages of the world
+# 4248 Scripts of the world
 
 ***
 A collection of the worlds most famous scripts
