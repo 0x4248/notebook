@@ -40,8 +40,6 @@ This is quite hard to explain since the folder system uses different systems lik
 - Papers - Research papers, preprints and other documents that I have read or plan to read. Each paper has its own note with metadata and summaries, and notes I have made on the topics covered in the paper.
 - Meta - Meta notes about this vault and how it works
 - Private - Non public notes or notes that are not copyright free and therefore cant be published. Don't worry I don't store my super secret stuff here! Using obsidian for that in general wouldn't be a good idea either.
-
-
 ## Changelog and updates
 Check out the #Daily tag for notes made on a daily basis. In this vault daily notes are not going to be my personal daily planner, think of it more as a git log tracking major changed and new files.
 
@@ -81,8 +79,6 @@ If you do use an image from my vault that I took or made please use the 4248 Med
 ```
 Copyright © 2025 4248 Media, A part of 0x4248. Licensed under CC BY-SA 4.0.
 ```
-## Languages
-This vault is primarily in english, some pages are in other languages which are tagged with the language tag. For example the tag would be lang with the country code such as UK for Ukrainian or GR for Greek. 
 ## Tagging system
 This vault works with a [[Tags|tagging system]]. This is to ensure that each page is categorised.
 
