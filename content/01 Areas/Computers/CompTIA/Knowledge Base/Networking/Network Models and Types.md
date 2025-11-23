@@ -18,6 +18,7 @@ stub:
 
 ***
 ## 7 OSI Layers
+It is called the open system interconnect 
 - **Physical Layer**: This is the physical elements that transmit data, such as cables, switches, and hubs.
 - **Data Link Layer**: This layer is responsible for establishing and maintaining a reliable link between two devices on a network. This includes MAC addressing and error detection.
 - **Network Layer**: This layer is responsible for routing data packets between different networks. This includes IP addressing and routing protocols.

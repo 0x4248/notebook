@@ -30,6 +30,14 @@ More modern modems are used in cable and fibre-optic internet connections.
 
 ## Access Point (AP)
 Access Points allow wireless devices to connect to a wired network using Wi-Fi or related standards.
+
+## Firewalls
+### Intrusion Detection System (IDS)
+- Analyses a network with its traffic
+- Regularly updates its signatures from a vendor
+- Cannot detect a zero day
+### Intrusion Prevention System (IPS)
+- Like IDS, analyses packets and sends the findings to an administrator dashboard
 ***
 ## See also
 - **Pages outside of this vault section:**
