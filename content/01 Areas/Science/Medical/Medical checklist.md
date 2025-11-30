@@ -132,3 +132,6 @@ stub:
 - [ ] Burn Injury (Severe)
 - [ ] Crush Injury
 - [ ] Amputation
+
+## Infectious
+- [ ] [[Varicella]]
