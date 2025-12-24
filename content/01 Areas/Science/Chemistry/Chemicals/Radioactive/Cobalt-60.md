@@ -28,8 +28,6 @@ Cobalt-60 is a radioactive isotope of [[Cobalt]] with a half life of 5.2714 year
 Cobalt-60 is used for radiotherapy, sterilisation of medical equipment, and as a tracer in various industrial applications.
 ## Safety
 
-
-
 | Pictograms | ![[Ionising radiation hazard.webp\|100]]![[Radioactivity danger.webp\|100]] |
 | ---------- | --------------------------------------------------------------------------- |
 ### Symptoms
