@@ -17,9 +17,11 @@ stub:
 # Dell XPS 13 9830
 
 ***
+The DELL XPS 9380 is an ultrabook from 2019, the model I have is has a I7 8th generation and 8GB of ram.
+## Documentation
+- [[DELL9380-20260105-FAULT_SHEET.pdf]] **Fault Sheet**
 ## Images and Exhibits
 ### Set A
-
 - [[DELL9380-20251224-IMG_8469.pdf]]
 - [[DELL9380-20251224-IMG_8466.pdf]]
 - [[DELL9380-20251224-IMG_8467.pdf]]

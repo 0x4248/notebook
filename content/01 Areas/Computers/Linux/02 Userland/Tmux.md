@@ -17,8 +17,3 @@ stub:
 
 ***
 **Tmux** (terminal multiplexer) is a program that enables several terminals on one screen to run different programs separately.
-***
-## See also
-- INSERT
-## References
-- INSERT
