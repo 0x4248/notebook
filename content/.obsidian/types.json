@@ -30,6 +30,8 @@
     "paper-date": "date",
     "mark-read": "checkbox",
     "paper-author": "multitext",
-    "subject": "multitext"
+    "subject": "multitext",
+    "excalidraw-export-internal-links": "checkbox",
+    "excalidraw-embed-md": "checkbox"
   }
 }

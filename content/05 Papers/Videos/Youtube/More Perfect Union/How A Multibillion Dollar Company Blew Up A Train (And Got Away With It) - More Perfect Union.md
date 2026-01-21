@@ -14,7 +14,6 @@ stub: false
 
 - **Channel**: [More Perfect Union](https://www.youtube.com/@moreperfectunion)
 - **Published**: 29 Jul 2025
-
 ## Video
 ![video](https://www.youtube.com/watch?v=fwELoxAAJWY)
 
