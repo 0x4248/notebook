@@ -15,6 +15,8 @@ stub: false
 - **Channel**:  [More Perfect Union](https://www.youtube.com/@moreperfectunion)
 - **Published**: 30 May 2025
 
+>[!note]+
+> **More Perfect Union** is a Non-Profit journalism organisation aimed at making free media about working class Americans. 
 ## Video
 ![video](https://www.youtube.com/watch?v=3VJT2JeDCyw)
 
