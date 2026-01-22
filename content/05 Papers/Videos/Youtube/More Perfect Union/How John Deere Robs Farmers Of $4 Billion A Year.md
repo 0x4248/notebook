@@ -25,9 +25,9 @@ stub: false
 
 ## Notes
 ### Summary
-This video discusses about the right to repair regarding major tech companies. This video also talks about the Digital Rights Management problem with whether you own content in the modern era; which all links back to John Deere giving farmers a "licence" to own the tractor not own the tractor.
+This video discusses about the right to repair regarding major tech companies. This video also talks about the Digital Rights Management problem with whether you own content in the modern era; which all links back to John Deere giving farmers a "licence" to have the tractor not own the tractor.
 
-This video also went into automotive repair shops having to spend a vast amount of money to use proprietary software to get a diagnosis of an engine light.
+This video also went into automotive repair shops having to spend a vast amount of money to use proprietary software to get a diagnosis of a simple engine light.
 
 This report not only focuses on Farmers but on:
 - McDonald's ice cream machines
