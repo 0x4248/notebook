@@ -32,6 +32,11 @@
     "paper-author": "multitext",
     "subject": "multitext",
     "excalidraw-export-internal-links": "checkbox",
-    "excalidraw-embed-md": "checkbox"
+    "excalidraw-embed-md": "checkbox",
+    "article-date": "datetime",
+    "vendor": "multitext",
+    "article_type": "multitext",
+    "opinionated": "checkbox",
+    "related_country": "multitext"
   }
 }

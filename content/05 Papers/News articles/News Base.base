@@ -1,0 +1,40 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.inFolder("05 Papers/News articles")
+    order:
+      - file.name
+      - vendor
+      - subject
+      - related_country
+      - opinionated
+      - date
+      - article-date
+      - article_type
+      - tags
+    sort:
+      - property: file.tags
+        direction: DESC
+    columnSize:
+      file.name: 619
+      note.article-date: 184
+      note.article_type: 157
+  - type: list
+    name: View
+    filters:
+      and:
+        - file.inFolder("05 Papers/News articles")
+    order:
+      - file.name
+      - subject
+      - vendor
+      - tags
+      - article_type
+      - date
+      - article-date
+      - related_country
+      - stub
+    indentProperties: true
+    markers: number
