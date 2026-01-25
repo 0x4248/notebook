@@ -1,5 +1,6 @@
 ---
 tags:
+  - News/Sky_News
 date: 2026-01-22
 aliases:
 cssclasses:

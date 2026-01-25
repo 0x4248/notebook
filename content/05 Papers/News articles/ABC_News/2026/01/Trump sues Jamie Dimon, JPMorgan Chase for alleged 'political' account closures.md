@@ -1,5 +1,6 @@
 ---
 tags:
+  - News/ABC_News
 date: 2026-01-22
 cssclasses:
   - neo-headings
@@ -18,6 +19,8 @@ opinionated: false
 related_country:
   - USA
 article-author: ABC News
+article_type:
+  - text
 ---
 # Trump sues Jamie Dimon, JPMorgan Chase for alleged 'political' account closures
 

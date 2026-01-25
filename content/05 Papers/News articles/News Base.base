@@ -18,7 +18,7 @@ views:
       - property: file.tags
         direction: DESC
     columnSize:
-      file.name: 619
+      file.name: 510
       note.article-date: 184
       note.article_type: 157
   - type: list
