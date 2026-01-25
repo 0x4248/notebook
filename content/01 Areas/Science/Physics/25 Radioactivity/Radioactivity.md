@@ -22,7 +22,7 @@ Radioactivity was discovered by Henri Becquerel. He found that uranium salts had
 
 To see this ionisation you can use a cloud chamber which shows the liquid condensing onto the ions leaving tracks in the air.
 
-![By Qwerty123uiop - Own work, CC BY-SA 4.0|700x588](https://upload.wikimedia.org/wikipedia/commons/7/7d/AlphaTrackRutherfordScattering3.jpg)
+![By Qwerty123uiop - Own work, CC BY-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/7/7d/AlphaTrackRutherfordScattering3.jpg)
 <p style="text-align: center;"><i>Qwerty123uiop - Own work, CC BY-SA 4.0</i><br>This image is showing a cloud chamber with an a particle moving trough the air and being deflected by some other atoms.</p>
 
 ## Electric and Magnetic Fields
