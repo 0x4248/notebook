@@ -46,6 +46,7 @@ Allong with Tim Cook  and John Ternus changing roles, Johny Srouji will becomes 
 
 <p style="font-size:x-large;text-align:center;margin:0;font-family:sanserif;"><i>“Johny is one of the most talented people I have ever had the privilege to work with,”</i></p>
 <p style="font-size:large;text-align:center;margin:0;font-family:sanserif;color:gray;">Tim Cook</p>
+
 ***
 ## Sources
 - [[Tim Cook set to step down as Apple CEO]]
