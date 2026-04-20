@@ -13,7 +13,5 @@ lang:
   - en
 stub: true
 ---
-<p style="text-align:center;font-family:serif">Welcome to the 0x4248</p>
+<p style="text-align:center;font-family:serif;margin:0;">Welcome to the 0x4248</p>
 <h1 style="text-align:center;font-family:serif;margin:0;"><i>Notebook</i></h1>
-
-WIP

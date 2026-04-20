@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder.startsWith("02 Literature/News")
+    order:
+      - file.name
+      - article_type
+      - article-author
+      - article-date
+      - vendor

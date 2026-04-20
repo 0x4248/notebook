@@ -27,16 +27,9 @@ article-author:
 # <% tp.file.title %>
 
 ***
-- [Link to article](<% tp.system.prompt("URL",") **ERROR MISSING**(") %>)
-- **Vendor**: INSERT
-- **Subject**: INSERT
-- **Article type**: INSERT
-- **Date**: <%tp.date.now("YYYY-MM-DD")%>
-- **Related country**: INSERT
-- **Article author**: INSERT
-
-> QUOTE
 
 ***
-## Related articles
+## See also
+* *None added*
+## Sources
 - *None added*
