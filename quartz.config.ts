@@ -8,22 +8,22 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "4248's Notebook",
+    pageTitleSuffix: " | 4248's Notebook",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    locale: "en-US",
-    baseUrl: "sosiristseng.github.io/template-quartz",
-    ignorePatterns: ["private", "_templates", ".obsidian"],
+    locale: "en-GB",
+    baseUrl: "https://0x4248.dev/notebook",
+    ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Bai Jamjuree",
+        body: "Noto Sans",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
