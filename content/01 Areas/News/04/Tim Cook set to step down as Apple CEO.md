@@ -26,15 +26,15 @@ article-author:
 ---
 # Tim Cook set to step down as Apple CEO
 
-***
+<p style="color:lightblue;font-style:italic;width:100%;border-bottom:1px solid;">Technology</p>
 
 Apple has announced Tim Cook will step down as Apple CEO on September 1st 2026.
 
 ![Tim Cook|400](https://upload.wikimedia.org/wikipedia/commons/9/9e/P20250806MR-0248_President_Donald_Trump_delivers_investment_remarks_alongside_Apple_CEO_Tim_Cook_%28cropped%29.jpg)
 
-Apple announced on Monday that CEO Tim Cook will be stepping down from his role after spending nearly 15 years in the role. Head of hardware engineering,  John Ternus will take over.
+<p class="dropcap tech">Apple announced on Monday that CEO Tim Cook will be stepping down from his role after spending nearly 15 years in the role. Head of hardware engineering,  John Ternus will take over.<p>
 
-<p style="font-size:x-large;text-align:center;margin:0;font-family:sanserif;"><i>“It has been the greatest privilege of my life to be the CEO of Apple and to have been trusted to lead such an extraordinary company. I love Apple with all of my being,”</i></p>
+<p style="font-size:x-large;text-align:center;margin:0;font-family:sanserif;color:lightblue;"><i>“It has been the greatest privilege of my life to be the CEO of Apple and to have been trusted to lead such an extraordinary company. I love Apple with all of my being,”</i></p>
 <p style="font-size:large;text-align:center;margin:0;font-family:sanserif;color:gray;">Tim Cook</p>
 
 Tim Cook has grown the company from $350bn to over $4tn and has launched many services including Apple Music and Apple TV+. Though Apple has seen some fails during Tim Cooks position such as the Vision Pro and the iPhone Air

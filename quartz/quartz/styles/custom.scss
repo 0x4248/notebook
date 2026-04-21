@@ -532,3 +532,30 @@ table {
 strong {
   color: var(--dark) !important;
 }
+
+.dropcap:first-letter {
+    float: left;
+    font-size: 45px;
+    line-height: 1;
+    font-weight: bold;
+    margin-right: 9px;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.opinion:first-letter {
+    color:salmon;
+}
+
+.tech:first-letter {
+    color: lightblue;
+}
+
+.science:first-letter {
+    color: lightgreen;
+}
+
+.politics:first-letter {
+    color: pink;
+}
+

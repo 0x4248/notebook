@@ -27,6 +27,16 @@ article-author:
 # <% tp.file.title %>
 
 ***
+<span style="color:lightblue;">Technology</span>
+<span style="color:lightgreen;">Science</span>
+<span style="color:salmon;">Opinion</span>
+<span style="color:pink;">Politics and World</span>
+<span style="color:Silver;">Business, Economy and Money</span>
+<p style="color:lightblue;font-style:italic;width:100%;border-bottom:1px solid;">Technology</p>
+<p style="color:lightgreen;font-style:italic;width:100%;border-bottom:1px solid;">Science</p>
+<p style="color:salmon;font-style:italic;width:100%;border-bottom:1px solid;">Opinion</p>
+<p style="color:pink;font-style:italic;width:100%;border-bottom:1px solid;">Politics and World</p>
+<p style="color:silver;font-style:italic;width:100%;border-bottom:1px solid;">Business, Economy and Money</p>
 
 ***
 ## See also
