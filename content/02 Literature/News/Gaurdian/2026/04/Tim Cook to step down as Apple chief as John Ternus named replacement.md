@@ -31,7 +31,7 @@ article-author:
 - [Link to article](https://www.theguardian.com/technology/2026/apr/20/tim-cook-apple-ceo-replacement)
 - **Vendor**: Guardian
 - **Subject**: Tech
-- **Article type**: Insert
+- **Article type**: Text
 - **Date**: 20/04/2026
 - **Related country**: United States of America
 - **Article author**: Blake Montgomery and Nick Robins-Early

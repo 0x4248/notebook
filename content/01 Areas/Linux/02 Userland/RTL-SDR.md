@@ -32,10 +32,3 @@ Capture to a file using the frequency 123.4MHz at 1.8M samples/sec:
 rtl_sdr capture.bin -s 1.8e6 -f 123.4e6
 ```
 
-
-
-***
-## See also
-- INSERT
-## References
-- INSERT
