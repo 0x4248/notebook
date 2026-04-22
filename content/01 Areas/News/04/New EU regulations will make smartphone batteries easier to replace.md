@@ -34,9 +34,18 @@ article-author:
 ![](https://images.unsplash.com/photo-1539796326180-5d8272550830?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 <p class="dropcap tech">A new regulation published in 2023 will mean that smartphone batteries will need to be designed with "repairability" and "replaceability". Is it set on February 17, 2027 for the new regulations to come into effect.</p>
-
 <p style="font-size:x-large;text-align:center;margin:0;font-family:sanserif;color:lightblue;"><i>“Any natural or legal person that places on the market products incorporating portable batteries shall ensure that those batteries are readily removable and replaceable by the end-user”</i></p>
+<p style="color:salmon;font-style:italic;width:100%;border-bottom:1px solid;">Opinion: 4248 Asks...</p>
+<p style="color:salmon;font-size:x-large;font-weight:800;text-align:center;margin:2px;"><i>I feel that the new EU regulation is</i></p>
+<p style="color:salmon;font-size:x-large;font-weight:800;text-align:center;margin:2px;"><i></i></p>
+<p style="color:salmon;font-size:large;font-weight:400;text-align:center;margin:2px;"><i>A) Good, I can change my phone battery even easier</i></p>
+<p style="color:salmon;font-size:large;font-weight:400;text-align:center;margin:2px;"><i>A) Bad, it will make my phone too thick</i></p>
 
+| Side    | Votes | %   |
+| ------- | ----- | --- |
+| A: Good | 9     | 90% |
+| B: Bad  | 1     | 10% |
+Data provided by [All Things Linux Tux Bot](https://discord.gg/linux)
 
 ***
 ## References
