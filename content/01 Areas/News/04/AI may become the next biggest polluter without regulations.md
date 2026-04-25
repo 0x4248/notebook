@@ -40,8 +40,4 @@ The More Perfect Union Foundation made a report on the Elon Musk supercomputer i
 <p style="font-size:large;text-align:center;margin:0;font-family:sanserif;color:grey;"> More Perfect Union </p>
 
 ![](https://www.youtube.com/watch?v=3VJT2JeDCyw)
-***
-## See also
-* *None added*
-## Sources
-- *None added*
+

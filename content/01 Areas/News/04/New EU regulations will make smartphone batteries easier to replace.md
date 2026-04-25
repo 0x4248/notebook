@@ -50,7 +50,6 @@ article-author:
 Data provided by [All Things Linux Tux Bot](https://discord.gg/linux)
 
 
-
 ***
 ## References
 - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02023R1542-20250731
