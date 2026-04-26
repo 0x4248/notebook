@@ -47,7 +47,6 @@ article-author:
 | A: Good | 9     | 90% |
 | B: Bad  | 1     | 10% |
 
-Data provided by [All Things Linux Tux Bot](https://discord.gg/linux)
 
 
 ***
