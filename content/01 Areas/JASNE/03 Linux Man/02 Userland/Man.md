@@ -14,7 +14,7 @@ lang:
 properties-ver: "1.2"
 stub:
 ---
-# Man
+# Man 
 
 ***
 _Also known as **man pages**._

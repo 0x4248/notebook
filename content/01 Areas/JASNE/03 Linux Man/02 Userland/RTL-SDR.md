@@ -16,6 +16,7 @@ stub:
 # RTL-SDR
 
 ***
+
 RTL-SDR is a USB dongle that uses the RTL2832U chipset to receive radio signals. It is commonly used for software-defined radio (SDR) applications, allowing users to listen to a wide range of frequencies, including FM radio, air traffic control, and amateur radio.
 
 ## Installation
