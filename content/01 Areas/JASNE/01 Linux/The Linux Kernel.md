@@ -19,6 +19,7 @@ stub:
 # The Linux Kernel
 
 ***
+![[jasne-banner.png]]
 
 >[!warning]+ Copied text
 > This article is from the book "0x4248 Linux Reference Manual" and needs to be rewritten to match the tone of JASNE
@@ -244,11 +245,8 @@ kernel: ---[ end Kernel panic - not syncing: Fatal exception
 
 This may look scary and confusing. Lets break it down.
 
-1.  A `BUG` was called, this is a critical error that almost certainly indicates
-    the kernel to `panic`. This usually means its a programmers bug or error.
-2.  The logs suggest the error came from `fw_core_init` in the `firewire_core` 
-    module. This is a good starting point for debugging, you can look at the 
-    source code of this function to see what may be causing the issue.
+1.  A `BUG` was called, this is a critical error that almost certainly indicates the kernel to `panic`. This usually means its a programmers bug or error.
+2.  The logs suggest the error came from `fw_core_init` in the `firewire_core` module. This is a good starting point for debugging, you can look at the source code of this function to see what may be causing the issue.
 3.  Suggests that the `firewire_core` was the most recent module loaded.
 4.  The `do_one_initcall` function was what called the `fw_core_init` function.
 5.  Panic was called and system is deadlocked.
@@ -431,7 +429,5 @@ You should see these two important lines
 Hello World
 ```             
 
-1.  At T+4.247268 seconds, the kernel has successfully loaded the initramfs and is 
-    running the `/init` process as the init process.
-2.  The `Hello World` message is printed every 5 seconds, indicating that our
-    init process is running correctly.
+1.  At T+4.247268 seconds, the kernel has successfully loaded the initramfs and is running the `/init` process as the init process.
+2.  The `Hello World` message is printed every 5 seconds, indicating that our init process is running correctly.

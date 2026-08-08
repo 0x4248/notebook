@@ -1,5 +1,6 @@
 ---
 tags:
+  - JASNE/Linux/Debian
 date: 2026-08-03
 aliases:
   - controlling package sources with apt
@@ -25,3 +26,5 @@ APT determines which repositories a Debian system pulls packages from via config
 ## Where APT looks
 APT has two places for source configurations:
 - `/etc/apt/sources.list` - the legacy one-line format
+- `/etc/apt/sources.list.d/*.list` - the deb822 format thats newerr
+
