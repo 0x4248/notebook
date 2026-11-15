@@ -2,6 +2,7 @@
 node_modules
 public
 .quartz-cache
-private/
+99 Private/
 .vscode/
 content/.obsidian
+Excalidraw/

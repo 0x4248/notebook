@@ -1,0 +1,1 @@
+<p class="dropcap">Click to insert text.</p>

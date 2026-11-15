@@ -11,20 +11,44 @@ cssclasses:
   - center-images
 lang:
   - en
-stub: true
+stub: false
 ---
-# Welcome to my Obsidian Vault
+# Blix's Notebook
+
 ***
+
+Congratulations, you've stumbled across [[Who is Blix|Blix's]] Notebook! *How lucky.* Take a look around and get nosy.
+
+![[banner.png]]
+*Illustration by Anna Atkins for John Children's English (CC0) [source](https://pdimagearchive.org/images/8a57ad38-6f9b-4762-b70d-42cc5f203bfd/)*
+
 ## What is this site?
 
-This site contains all my notes, tutorials, and other stuff that I find interesting. Think of this place as a mega wiki of all the things I find interesting and currently learning/researching. In short this is my digital garden or vault.
-
-This vault is a collection of my notes, ideas, and resources that I have gathered over the years. It is a place where I can store my thoughts and ideas, and share them with others. The vault is designed to be a living document that evolves over time as I learn and grow.
-This site is a merge of my old blog, wiki and obsidian vaults into one place. This new site is designed to be more user-friendly and easier to navigate.
+This is my digital garden: a big personal Wikipedia of everything I'm learning, researching or finding interesting. It holds notes, tutorials, write-ups and the odd bit of personal writing. Some notes are long and some are only a few sentences, depending on how far along they are.
 
 <div class="X42-card-container">
-<p>Open source</p><p>All in Markdown (and HTML)</p><p>All free content (CC BY-SA 4.0)</p></div>
+<p>Open source</p><p>All in Markdown (and HTML)</p><p>CC BY-SA 4.0</p></div>
 
-This vault looks *way* better in obsidian, ~~but I have made the configs private~~ (Partially public now most of the configs are there just not plugins and plugin data. *There kinda massive*) so opening it on the website looks 80% accurate. If there are problems such as incorrect colours and images looking off, please don't hesitate and submit a issue. This vault also has a option for light mode *if you really want to singe your eyes*, just note that some of the images may look off since this vault is designed for dark mode. The vault in obsidian does have coloured pages but this doesn't show on the website, although I could add this it would take a lot of time and effort to do so (page theming in general just looks better in obsidian anyways). This vault also uses quite a bit of LaTeX so if you can see this $\LaTeX \space \Delta \space \Pi \space \Theta$ showing the LaTeX logo and Delta, Pi and Theta, then congrats you have a browser/obsidian that supports it!
+## How do I navigate this site?
 
-On the website there is a sidebar with the pages and on the right there is the date it was created, tags, a graph and a table of contents to help you navigate the longer notes. Some notes are quite long and some are just a few sentences (It really depends on the note and how much I have written it).
+The notebook has five main parts:
+
+- **Garden** — My own notes, written in my words. It's split by broad field (e.g. Science, Technology) so it keeps working as new topics are added, and it includes JASNE.
+- **Literature** — Other people's work that I've read: papers, articles, books and news. Think of it as a filing cabinet of clippings. **Every entry links back to its original source.**
+- **Posts** — News, updates and personal writing.
+- **Projects** — Longer things I'm working on or have finished, with progress logs.
+- **Archive** — Old or retired notes I want to keep but no longer actively use.
+
+On the site, use the sidebar to browse. Each page shows its creation date, tags, a graph and a table of contents on the right.
+
+> [!info] JASNE
+> The 0x4248 Journal of Applied Systems and Network Engineering is my open-access book, added to slowly over time. It lives in `Garden/Technology/JASNE`.
+
+> [!tip] Viewing tips
+> - The vault looks *way* better in Obsidian. The configs are mostly public, but the plugins and plugin data (which are massive) aren't, so the website is about 80% accurate. Page colours and theming only show in Obsidian.
+> - It's designed for dark mode. There's a light mode if you want to singe your eyes, but some images may look off.
+> - Lots of LaTeX is used. If you can see the logo and symbols here: $\LaTeX \space \Delta \space \Pi \space \Theta$, your browser supports it.
+> - If colours or images look wrong, please submit an issue.
+
+> [!note] Things move around
+> If you've been here before, you may notice content shifting. I keep optimizing the structure, so expect changes.

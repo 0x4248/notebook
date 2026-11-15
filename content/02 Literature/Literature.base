@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.folder.startsWith("02 Literature")
+    - file.ext == "md"
+    - '!file.folder.startsWith("02 Literature/News")'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - lit-type
+      - authors
+      - year
+      - field
+      - status
