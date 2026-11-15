@@ -33,21 +33,30 @@ Radioactivity is the property possessed by certain elements that can radiate alp
 There are three primary types of radiation a radioactive particle can emit. Alpha, Beta and Gamma. 
 
 $$
-\alpha = \text{He} = \text{2 Protons + 2 Neutrons} \\
-\beta = e^- = \text{Electron} \\
-\gamma = \text{Photon} = \text{Electromagnetic Radiation}
+\begin{aligned}
+\alpha &= \text{He} = \text{2 Protons + 2 Neutrons} \\
+\beta &= e^- = \text{Electron} \\
+\gamma &= \text{Photon} = \text{Electromagnetic Radiation}
+\end{aligned}
 $$
  
 ### Alpha decay
 Alpha decay happens when there are too many protons within a nucleus and emits a ${}^{4}_{2}\mathrm{He}$ particle. During this type of decay two neutrons and two protons are ejected from the nucleus of the atom 
 
 $$
-{}^{a}_{b}X \rightarrow {}^{a-4}_{b-2}Y + {}^{4}_{2}He \\
-\\
-\text{\small{Alpha decay}}\\\\
-{}^{238}_{92}\mathrm{U} \rightarrow {}^{238-4}_{92-2}\mathrm{U} + {}^{4}_{2}\mathrm{He} = {}^{234}_{90}\mathrm{Th} \\
-\\
-\text{\small{Alpha decay of the particle uranium-238 into thorium-234}}\\
+\begin{gathered}
+{}^{a}_{b}X \rightarrow {}^{a-4}_{b-2}Y + {}^{4}_{2}\mathrm{He}
+\\[8pt]
+\text{\small Alpha decay}
+\\[16pt]
+{}^{238}_{92}\mathrm{U}
+\rightarrow
+{}^{238-4}_{92-2}\mathrm{U}
++ {}^{4}_{2}\mathrm{He}
+= {}^{234}_{90}\mathrm{Th}
+\\[8pt]
+\text{\small Alpha decay of uranium-238 into thorium-234}
+\end{gathered}
 $$
 The alpha particle is heavy — therefore it cannot travel at speeds like the speed of light and often goes between 5%-10% of light speed. Due to its high mass, an alpha particle cannot penetrate far. Something as thick as a few sheets of paper is enough to stop alpha particles — even air can stop it. This can make alpha particles dangerous if consumed because the particle has no way of escaping and could damage tissue by being able to knock off electrons from other atoms.
 
@@ -57,6 +66,7 @@ Beta decay takes place when there is an imbalance of protons and neutrons (simil
 
 ### Becoming stable
 $$
+\begin{gathered}
 {}^{238}_{92}\mathrm{U}  
 \xrightarrow{\alpha}  
 {}^{234}_{90}\mathrm{Th}   
@@ -68,5 +78,6 @@ $$
 {}^{230}_{90}\mathrm{Th}  \\\\
 \text{\small{Further reactions take place\textellipsis}}\\\\
 {}^{206}_{82}\mathrm{Pb}
+\end{gathered}
 $$
 
