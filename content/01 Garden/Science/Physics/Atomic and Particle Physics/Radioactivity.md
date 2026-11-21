@@ -61,7 +61,7 @@ $$
 The alpha particle is heavy — therefore it cannot travel at speeds like the speed of light and often goes between 5%-10% of light speed. Due to its high mass, an alpha particle cannot penetrate far. Something as thick as a few sheets of paper is enough to stop alpha particles — even air can stop it. This can make alpha particles dangerous if consumed because the particle has no way of escaping and could damage tissue by being able to knock off electrons from other atoms.
 
 ### Beta decay
-Beta decay takes place when there is an imbalance of protons and neutrons (similar to [[Radioactivity#Alpha decay|Alpha decay]])
+Beta decay takes place when there is an imbalance of protons and neutrons (similar to [[Radioactivity#Alpha decay|Alpha decay]]) In beta decay 
 
 
 ### Becoming stable
