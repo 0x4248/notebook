@@ -38,6 +38,7 @@ So, for the record I'm not anti-ai nor am I pro-ai either. It's really quite har
 Firstly what is ASI? Artificial Superintelligence doesn't exist *yet* — it's the hypothetical form of artificial intelligence that surpasses the best human intelligence across virtually all relevant intellectual domains, including scientific reasoning, creativity, strategic planning and problem-solving. So are we there yet? *No*, not quite we aren't even at AGI yet.
 
 **Though several US politicians call it ASI already.** (*Even though It's not)*
+
 ![P20260929JB-0625.jpg](https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260929JB-0625.jpg?resize=1200,800)
 
 ![54381276830\_56d29099e9\_o.jpg](https://www.whitehouse.gov/wp-content/uploads/2025/03/54381276830_56d29099e9_o.jpg?resize=1200,800)
@@ -62,7 +63,9 @@ Ok, but why isn't models today AGI or even ASI?
 
 <p style="text-align:center"> Have you <b>SEEN</b> the mass amount vulnerabilities we had this year??<br><span style="font-size:small">imagine this but with</span><br><span style="font-size:x-large;"><b>SuperInteligence!</b></span></p>
 
-I actually think datacenters and user data will be cooked . . . In fact [Claude is already good at finding security vulnerabilities](https://claude.com/product/claude-security) and since more and more software is becoming open-source — it allows anyone to find critical vulnerabilities that haven't even been discovered yet. 
+I actually think datacenters and user data will be cooked . . . 
+
+In fact [Claude is already good at finding security vulnerabilities](https://claude.com/product/claude-security) and since more and more software is becoming open-source — it allows anyone to find critical vulnerabilities that haven't even been discovered yet. 
 
 ## The lack of ~~using photoshop~~ putting in effort.
 
@@ -80,6 +83,7 @@ Below is a table of images and I want you to guess if they are AI generated or n
 | ![images-2-candid-people-1.png](https://images.ctfassets.net/kftzwdyauwt9/6xvpGcclxpKI8LxTBvsrRB/fa483614f27623d3bee1bd3fdb35bc67/images-2-candid-people-1.png?w=1920&q=90&fm=webp) | ![images-2-candid-people-2.png](https://images.ctfassets.net/kftzwdyauwt9/4dwQqstABTMhoGAGJFrf3Q/4e9f462c9223275697ae7903a5fc6ec8/images-2-candid-people-2.png?w=1920&q=90&fm=webp) | ![screenshot.png](https://images.ctfassets.net/kftzwdyauwt9/2NrxFDyv49oLAbaFtaLzD8/ca488767d16a07fbe4151ae905717458/screenshot.png?w=1920&q=90&fm=webp)                  |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![images-2-high-fashion.png](https://images.ctfassets.net/kftzwdyauwt9/5JeYTlBJ78xCcsANi5ktl2/605eccad62ad1ef1e679e0e8381cbfd5/images-2-high-fashion.png?w=1920&q=90&fm=webp)       | ![images-2-35mm-photograph.png](https://images.ctfassets.net/kftzwdyauwt9/0zG4WtHR2a0CTHSxQXpBf/e73d78059cf3e577913eef2e4c88302a/images-2-35mm-photograph.png?w=1920&q=90&fm=webp)  | ![images-2-thai\_pano.png](https://images.ctfassets.net/kftzwdyauwt9/7KrxlTNUG2g96FdXl16or5/f9db3e244d327f3843c12e54ce70bc32/images-2-thai_pano.png?w=1920&q=90&fm=webp) |
+
 *Oh, what's that maybe one or two?* **Nope** this was **ALL** from an AI model. *Including the panorama and screenshot*.
 
 So no counting fingers or looking at the text no longer works, and a lot of people went "Oh no that fooled me — it would be bad if this came to video."
