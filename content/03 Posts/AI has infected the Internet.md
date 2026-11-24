@@ -34,7 +34,14 @@ For some it is a little confusing where I personally stand with artificial intel
 
 So, for the record I'm not anti-ai nor am I pro-ai either. It's really quite hard to put me on a spectrum — even politically It's hard to put me on a spectrum because I tend to have different biases over topics; but I can see that being quite a normal human thing to do, You can't fit a square peg in a round hole.
 
-## The issue with superintelligence (ASI)
+<div class="X42-star-break-line-container">
+<p class="X42-star-break-line">**</p>
+<hr>
+<p class="X42-star-break-nsp">SUPERINTELIGENCE</p>
+<hr>
+<p class="X42-star-break-line">**</p>
+</div>
+## AI that surpass the human intelligence
 Firstly what is ASI? Artificial Superintelligence doesn't exist *yet* — it's the hypothetical form of artificial intelligence that surpasses the best human intelligence across virtually all relevant intellectual domains, including scientific reasoning, creativity, strategic planning and problem-solving. So are we there yet? *No*, not quite we aren't even at AGI yet.
 
 **Though several US politicians call it ASI already.** (*Even though It's not)*
@@ -67,6 +74,13 @@ I actually think datacenters and user data will be cooked . . .
 
 In fact [Claude is already good at finding security vulnerabilities](https://claude.com/product/claude-security) and since more and more software is becoming open-source — it allows anyone to find critical vulnerabilities that haven't even been discovered yet. 
 
+<div class="X42-star-break-line-container">
+<p class="X42-star-break-line">**</p>
+<hr>
+<p class="X42-star-break-nsp">AI AND MEDIA</p>
+<hr>
+<p class="X42-star-break-line">**</p>
+</div>
 ## The lack of ~~using photoshop~~ putting in effort.
 
 Have you been to a local shop, food market, or anywhere where posters and advertisements exist — well a lot of it is now artificially generated.
@@ -93,7 +107,9 @@ So no counting fingers or looking at the text no longer works, and a lot of peop
 
 ![[tiktok-ai-video.png]]
 
-**So if anyone can do this — does that mean footage can be AI altered to make a judge believe something that never happened?**
+**So if anyone can do this — does that mean footage can be AI altered to make a judge believe something that never happened?** This is very extreme, but it's entirely possible. Just film yourself robbing your own store, put someone you don't like through a deepfake AI and boom — you have an entirely fabricated court case. Now, that's very drastic and yes I'm dramatizing here but am I wrong?
+
+
 
 ***
 ## See also
