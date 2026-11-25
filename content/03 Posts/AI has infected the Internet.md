@@ -46,6 +46,7 @@ So, for the record I'm not anti-ai nor am I pro-ai either. It's really quite har
 <hr>
 <p class="X42-star-break-line">**</p>
 </div>
+
 ## AI that surpass the human intelligence
 Firstly what is ASI? Artificial Superintelligence doesn't exist *yet* — it's the hypothetical form of artificial intelligence that surpasses the best human intelligence across virtually all relevant intellectual domains, including scientific reasoning, creativity, strategic planning and problem-solving. So are we there yet? *No*, not quite we aren't even at AGI yet.
 
