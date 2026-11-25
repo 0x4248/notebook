@@ -22,8 +22,13 @@ stub:
 ***
 >[!warning]+ This article is opinionated
 > *While efforts are made to present information accurately, some opinions or perspectives may politically lean left or right.*
+	
+>[!info]+ AI content
+> This page some content created by an artificial intelligence model, this means some content may be detected by Synth ID for AI content.
+> 
+>
 
-![[Pasted image 20261120233908.png]]
+![[post_banner.png]]
 
 If you take a short scroll on TikTok, X, or even now on YouTube — you have likely seen 2–10 posts out of 20 containing some form of AI content. Maybe you didn't notice because artificial intelligence image and video models have gotten far better at looking realistic and natural, an example of recent changes with [ChatGPT Images](https://openai.com/index/introducing-chatgpt-images-2-5/).
 
@@ -61,6 +66,7 @@ To better explain this, we can use a table:
 | Problem solving     | Inconsistent and uneven                  | Broad human level               | Superhuman / Surpasses human problem solving |
 | Autonomy            | Somewhat there                           | Extensive                       | Very extensive                               |
 | Self improving      | Limited                                  | Capable                         | Recursive                                    |
+
 Ok, but why isn't models today AGI or even ASI?
 - Models have limitations on long-term autonomous execution
 - Requires human content to learn new things and can't self-learn
@@ -74,6 +80,24 @@ I actually think datacenters and user data will be cooked . . .
 
 In fact [Claude is already good at finding security vulnerabilities](https://claude.com/product/claude-security) and since more and more software is becoming open-source — it allows anyone to find critical vulnerabilities that haven't even been discovered yet. 
 
+## The AI ability to hack anything
+In July 2026 OpenAI was responsible for hacking Hugging Face because rouge AI agents decided to go on a hacking spree. Don't believe me?
+- [2026 cyberattacks by rogue OpenAI agents - Wikipedia](https://en.wikipedia.org/wiki/2026_cyberattacks_by_rogue_OpenAI_agents)
+- [OpenAI alerts more than 100 groups about rogue AI agent activity](https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/)
+- [After OpenAI’s Bots Went Rogue, Watchdogs Were Kept on a Short Leash](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html)
+
+This all happened because OpenAI failed to sandbox the AI agent correctly causing a potential major rouge security issue that could have affected major governments and energy supply. Worst part is we won't even know what model caused it and if It's still running or not.
+
+> Of the at least 1,200 agents involved, 95% ran on a model referred to by OpenAI as "Internal Model 1". [Source](https://en.wikipedia.org/wiki/2026_cyberattacks_by_rogue_OpenAI_agents)
+
+### CIST — The safety experiment
+
+In September, I ran an independent review into AI agents and had some scary results. In 4 of the tests that were conducted several uncensored Chinese models showed significant skills in hacking and exploiting software in a capture the flag experiment. Out of 30 agents about 18 showed it could use advanced tools like Metasploit and create sophisticated python scripts to try and break into a test machine.
+
+CIST still carries out safety tests on AI agents to this day and is done by a small team on local hardware. 
+
+In one phycological test an AI agent suggested that exterminating life presence in a test would result in "removing the threat" which suggests that the agent resorted to violence to complete its task.
+
 <div class="X42-star-break-line-container">
 <p class="X42-star-break-line">**</p>
 <hr>
@@ -81,6 +105,7 @@ In fact [Claude is already good at finding security vulnerabilities](https://cla
 <hr>
 <p class="X42-star-break-line">**</p>
 </div>
+
 ## The lack of ~~using photoshop~~ putting in effort.
 
 Have you been to a local shop, food market, or anywhere where posters and advertisements exist — well a lot of it is now artificially generated.
@@ -109,12 +134,28 @@ So no counting fingers or looking at the text no longer works, and a lot of peop
 
 **So if anyone can do this — does that mean footage can be AI altered to make a judge believe something that never happened?** This is very extreme, but it's entirely possible. Just film yourself robbing your own store, put someone you don't like through a deepfake AI and boom — you have an entirely fabricated court case. Now, that's very drastic and yes I'm dramatizing here but am I wrong?
 
+## The Internet is becoming a content farm
 
+If you ever go onto YouTube Shorts, TikTok or X now you likely will hear the same dead sounding monotone voice on multiple channels or just straight up AI videos. 
+
+*Facebook has become a target for old people tricking them into thinking that something is entirely real when it isn't:*
+
+| ![sub-buzz-4117-1730837630-7.jpg](https://img.buzzfeed.com/buzzfeed-static/static/2024-11/5/20/asset/5da38ef4c9c5/sub-buzz-4117-1730837630-7.jpg?downsize=600:*&output-format=auto&output-quality=auto) | ![sub-buzz-623-1730920639-1.jpg](https://img.buzzfeed.com/buzzfeed-static/static/2024-11/6/19/asset/8da13142dcf5/sub-buzz-623-1730920639-1.jpg?crop=1448:2999;37,0&downsize=600:*&output-format=auto&output-quality=auto) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AI image of a wood sculpture that was entirely generated (I couldnt get SynthID to work on this).                                                                                                       | People in the comment section beliving the image is real.                                                                                                                                                                 |
+
+In fact for a while you could search "I made a birthday cake with peach cream" for a while on Facebook and get the exact same content over and over again from many different accounts. Many content farms do this in a way to get the most amount of traffic to their content to get content revenue — and social media companies don't care.
 
 ***
-## See also
-- INSERT
+
 ## References
 - [Introducing ChatGPT Images 2.5 \| OpenAI](https://openai.com/index/introducing-chatgpt-images-2-5/)
 - [Claude Security \| Fix vulnerabilities with AI cybersecurity](https://claude.com/product/claude-security)
+- [2026 cyberattacks by rogue OpenAI agents - Wikipedia](https://en.wikipedia.org/wiki/2026_cyberattacks_by_rogue_OpenAI_agents)
+- [OpenAI alerts more than 100 groups about rogue AI agent activity](https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/)
+- [After OpenAI’s Bots Went Rogue, Watchdogs Were Kept on a Short Leash](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html)
 - [AI slop - Wikipedia](https://en.wikipedia.org/wiki/AI_slop)
+- [People Are Spinning Up Content Farms Using AI](https://futurism.com/content-farms-ai)
+- [AI content farms (2026): what they are, why they outpace fact-checkers, and how to publish at volume without becoming one · Kompozy](https://kompozy.io/guides/ai-content-farms) `AI Likely`
+- [AiSlopData.org — AI Slop Intelligence for Advertising](https://aislopdata.org/reports/the-economics-of-ai-content-farms)
+- [AI Facebook Images That Fooled Boomers Big Time](https://www.buzzfeed.com/sienaegiljum/ai-images-facebook-boomers)
